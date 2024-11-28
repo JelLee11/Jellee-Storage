@@ -1,5 +1,371 @@
 [
   {
+    "id": "151045",
+    "title": "Astrea Record: Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes",
+    "cover": "https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/a/af/Astraea_Record_Light_Novel_Volume_3_Cover.jpg/revision/latest?cb=20221125195044",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "anilist": {
+      "rating": "85",
+      "popularity": "291"
+    },
+    "synopsis": "Seven years before a certain boy will arrive in the Labyrinth City, an era of chaos and strife reigns supreme. Ryu Leon spends her days serving the goddess Astrea while searching for a brand of justice she can believe in. She's not alone, for the rest of Astrea Familia are a rare source of light in these dark times. In the shadows, however, something evil is stirring—a threat that will shake Orario to its very foundations…!",
+    "volumes": [
+      {
+        "number": "Volume 3",
+        "epub": "https://drive.google.com/file/d/1HNGt0BVPs_WjDeYtq_ecRml8Brh_hSLM/view?usp=drivesdk",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "https://drive.google.com/file/d/1HKqGo6w4ZdVZwW_mFwQSn6XMBduU3dLr/view?usp=drivesdk",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "https://drive.google.com/file/d/1HFg9uYscWQ4B8Z9gdHdOhG4EHBl7l8hx/view?usp=drivesdk",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "99142",
+    "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Chronicle",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2020/10/a5b8be87-5eb3-4999-a130-67ccabe9da2b.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Fantasy"],
+    "anilist": {
+      "rating": "80",
+      "popularity": "854"
+    },
+    "synopsis": "For the skilled former adventurer Ryu, it's another eventful day at the Benevolent Mistress! A certain couple's only daughter has been kidnapped, bringing Ryu out into the streets to search for her, in the name of justice and Astrea. Her investigation of the missing child eventually leads her to a lawless area of the Labyrinth City, the Grand Casino, where money and power decide everything!<br><br>This is the start of the Gale Wind's tale in the city of Orario, home of the Dungeon and adventure!",
+    "volumes": [
+      {
+        "number": "Volume 1",
+        "epub": "1EoN5swUIYGOADH9Q3bM08fPlibywIGFh",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1EoN5swUIYGOADH9Q3bM08fPlibywIGFh",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "85162",
+    "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+    "cover": "https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/f/f8/Volume_19_Cover.jpg/revision/latest?cb=20230914035755",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Romance"],
+    "anilist": {
+      "rating": "81",
+      "popularity": "8597"
+    },
+    "synopsis": "In Orario, fearless adventurers band together in search of fame and fortune within the monstrous underground labyrinth known as Dungeon.<br><br>But while riches and renown are incentive enough for most, Bell Cranel, would-be hero extraordinaire, has bigger plans.<br><br>He wants to pick up girls.<br><br>Is it wrong to face the perils of Dungeon alone, in a single-member guild blessed by a failed goddess? Maybe. Is it wrong to dream of playing hero to hapless maidens in Dungeon? Maybe not. After one misguided adventure, Bell quickly discovers that anything can happen in the labyrinth--even chance encounters with beautiful women. The only problem? He's the one who winds up the damsel in distress!",
+    "volumes": [
+      {
+        "number": "Volume 19",
+        "epub": "1EYR9pOo5zY5ImiVxZmjG_C2OSMI94aY5",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 18",
+        "epub": "1ERfC2d4BIjUQFXDq2ES7r-i8xebHR0Eu",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 17",
+        "epub": "1EQPHoK61ek6ZGP5iuClSGQk2b29T5iB7",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 16",
+        "epub": "1EKy6IYOkdI5wbuVE7O8lSd5Pcy_fhnbJ",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 15",
+        "epub": "1EJ220krr0jrv0dy7x6LL_bdSLkAJrw22",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 14",
+        "epub": "1EIiEE4p8hIAUgF_coMkfBPFFbWRZtHKB",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 13",
+        "epub": "1EFZbTY7pTF-nDt-9rgY7gqIRe9fOns-3",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 12",
+        "epub": "1EFUKOkRjZq_C-JePqYCZ1Gx8th3pnu0F",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 11",
+        "epub": "1EBTy7Ly1W7NmeM3sw3fqoaHHbxojz8q4",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1DO5WloRH-fOxGVFq2rIZx01fKqvE2lDS",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1DJJDFJfbq9wSzCTIOLrJgUU9k-HwDTjQ",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1DD3nAii_xpY6JQyokp-lcwmw1v9oAHze",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1D8FP3X7Sd-ueznHnSfClRtV1P6SdU1ow",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1D83st8Mp24b5xbY4Q11v6GapMfuhYfUk",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1D6GbaDOPyKhYh4kL4WYHqeqqKeJCaDhG",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1D1Ns-oad6wX3sKp6jah4WsScZ8kBHVIU",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1D0QfhLiR19j2EU-yrlT3uXHNgsculBqb",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1CvkQ8EPkbu_JOBoGZglmPeUiF1_6KrnV",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1CuWfJSwb0eUCUSuCbjWv1ZwsopCkRC6e",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "114202",
+    "title": "The Detective is Already Dead",
+    "cover": "https://static.wikia.nocookie.net/the-detective-is-already-dead/images/1/14/Tanmoshi_book_9.jpg/revision/latest?cb=20230719084657",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Comedy", "Drama", "Fantasy", "Romance", "Supernatural"],
+    "anilist": {
+      "rating": "75",
+      "popularity": "2692"
+    },
+    "synopsis": "The story of Tantei wa mou, Shindeiru. follows Kimihiko Kimizuka, a young man who four years ago became the assistant of a mysterious detective known as \"Siesta\" on a hijacked airplane. Together, Kimihiko and Siesta went on mind-boggling, globe-trotting adventures while combatting a secret organization, but all of that came to an end when they were separated by Siesta's death. In the present day, Kimihiko tries to return to an ordinary, boring life as a high school student, but things are never that simple, even though the detective is already dead.",
+    "volumes": [
+      {
+        "number": "Volume 9",
+        "epub": "1Clff0Ma-sciLFSQ4Wp6z1iL23Opg9orU",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1ClPIT7K6H1QB4X0Ys_S6XEExZVFbvm-h",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1CgeeEBipfgcicwykK8-Ryw52zPfvKmcT",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1CfLOVdKyaQgMUBonNGjmUpglBtxlWGxG",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1Cc71l1SKyjL_cGTdBNGzlr8Q6NvmJJRl",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1C_F60kTMcHFwOg3T7XZejbX9SofolQ4S",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1CSzhyga-bl2rCfquDvw0Fd3QTUJQB3UX",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1CQ8glbgpkV61W6EvMWfbg31d8MBvLU9Q",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1CQ6aZEsJPAELU52c4ieZhW6MEwwDvEpJ",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "114920",
+    "title": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
+    "cover": "https://static.wikia.nocookie.net/tenten-kakumei/images/0/01/LNVol8JPN.png/revision/latest?cb=20240720231239",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Drama", "Fantasy", "Romance"],
+    "anilist": {
+      "rating": "82",
+      "popularity": "2309"
+    },
+    "synopsis": "Despite her supposed ineptitude with regular magic, Princess Anisphia defies the aristocracy’s expectations by developing “magicology,” a unique magical theory based on memories from her past life. One day, she witnesses the brilliant noblewoman Euphyllia unjustly stripped of her title as the kingdom’s next monarch. That’s when Anisphia concocts a plan to help Euphyllia regain her good name-which somehow involves them living together and researching magic! Little do these two ladies know, however, that their chance encounter will alter not only their own futures, but those of the kingdom...and the entire world!",
+    "volumes": [
+      {
+        "number": "Volume 8",
+        "epub": "1BvXZr426T4yQawW3Qj7udbs9DEB-OOiu",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1BhnaPz9t46k2x9yJrJlEaeKCRpwmyXoa",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1BbARpm4d4-Hlmapzmu_j9DIU6aDZR-N2",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1BaTBoIjxqKvtnvMasKiS8gv8z3wJldJK",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1B_m5hNZrOuxXOy8Dacxt0Y8kdJiYzJg9",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1BYOZWeEHpNZeLJvOjObd0kbFJhJlCGrx",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1BWyvaF6F-t1voBV1MehbFOmSb4A3rfzk",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1BUoeT26r2Z7Hw76ccSKcgzYsV1oD7-n2",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "116864",
+    "title": "Private Tutor to the Duke’s Daughter",
+    "cover": "https://static.wikia.nocookie.net/private-tutor-of-the-dukes-daughter/images/8/8e/322206001108.jpg/revision/latest?cb=20231022030147",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Drama", "Fantasy", "Romance"],
+    "anilist": {
+      "rating": "71",
+      "popularity": "347"
+    },
+    "synopsis": "After failing the final exam for his dream job at the royal court, promising young sorcerer Allen wants nothing more than to retreat to a simple life in the countryside. Unfortunately for him, he can’t even afford the train fare! His only solution is to get a job, but his one lead is anything but modest—Duke Howard, one of the kingdom’s most powerful nobles, needs a private tutor for his daughter Tina. Despite her academic brilliance, Tina is incapable of casting even a single spell. To make matters worse, entrance exams for the prestigious Royal Academy are fast approaching, and magical aptitude is mandatory! Can Allen use his unique brand of spellcasting to help Tina overcome her magical impairment, a mystery that not even the kingdom’s finest sorcerers have been able to solve? And does her father, the duke, even want him to?",
+    "volumes": [
+      {
+        "number": "Volume 13",
+        "epub": "1OX6fvPK64WpbxVen2y_JOyj_c32GulRF",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 12",
+        "epub": "1E6cyQ0ZiCRvBdO0aYowMbk9sXWYZGvSS",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 11",
+        "epub": "1BMy_xShaPyVLHid4UNgEiz98yWK1eHX0",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1BLAU6Tp6psVGB5HR8PAbW-o-EeZGbvmj",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1BJOlRcJvNvPlZmHp1boFOTdFDjUbLbG1",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1Ar4346CooKoipcrVl-w2S2BwFAGMfrzL",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1AwIf9yt9KI-fIuSeDJId7xQDQ3Z4IjR5",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1Ay-9RpmSWmeMT9VUMichEXvr26oPqKAi",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1E5yMT3g8ijYNxyqU9WLE-GjZI_Nu9Ufs",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1E32ExtTjUxZvO6qaj3mAj93tr9iKjFLb",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1B8iBkOgdYvmpX2rvgANfS-h3pGGIxME8",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1B1qlrkUbeLIy7cowpcHlhzZy6EOM4YTf",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1AzSdmCZQSq0WP_f0dGCbg3nT9UNQj0JE",
+        "pdf": ""
+      }
+    ]
+  },
+  {
     "id": "87174",
     "title": "In Another World With My Smartphone",
     "cover": "https://static.wikia.nocookie.net/isekai-smartphone/images/5/53/IsesumaLNV30.jpg/revision/latest?cb=20240822101859",
