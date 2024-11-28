@@ -15,17 +15,17 @@
     "volumes": [
       {
         "number": "Volume 3",
-        "epub": "https://drive.google.com/file/d/1HNGt0BVPs_WjDeYtq_ecRml8Brh_hSLM/view?usp=drivesdk",
+        "epub": "1HNGt0BVPs_WjDeYtq_ecRml8Brh_hSLM",
         "pdf": ""
       },
       {
         "number": "Volume 2",
-        "epub": "https://drive.google.com/file/d/1HKqGo6w4ZdVZwW_mFwQSn6XMBduU3dLr/view?usp=drivesdk",
+        "epub": "1HKqGo6w4ZdVZwW_mFwQSn6XMBduU3dLr",
         "pdf": ""
       },
       {
         "number": "Volume 1",
-        "epub": "https://drive.google.com/file/d/1HFg9uYscWQ4B8Z9gdHdOhG4EHBl7l8hx/view?usp=drivesdk",
+        "epub": "1HFg9uYscWQ4B8Z9gdHdOhG4EHBl7l8hx",
         "pdf": ""
       }
     ]
