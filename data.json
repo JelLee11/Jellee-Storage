@@ -1,5 +1,532 @@
 [
   {
+    "id": "138756",
+    "title": "King's Proposal",
+    "cover": "https://static.wikia.nocookie.net/king-propose/images/7/7e/Volume_05_EN.png/revision/latest?cb=20240625152205",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action","Drama","Fantasy","Romance"],
+    "anilist": {
+      "rating": "74",
+      "popularity": "757"
+    },
+    "synopsis": "Saika Kuozaki is an all-powerful witch with looks to die for. She's also the only woman who can thwart the mysterious entities attempting to destroy the world once every 300 hours. When Saika is mortally wounded, however, she bequeaths both her powers and body to the normal high school boy who happens upon her, Mushiki Kuga. But just because Mushiki has her abilities doesn't mean he can control them. To stand a chance of saving the world, he'll have to attend an academy for mages as Saika—all while keeping his identity under wraps!",
+    "volumes": [
+      {
+        "number": "Volume 5",
+        "epub": "1s5ii1cJyxCOv5wrx4InHL9f79BMgQvl0",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1s3D40GMTTg8oxfYoEwPaoytwTpNkRLi5",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1s2Z8rGsSQQzYlApRmwl_f7OTxJgr6twf",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1rvOBbuqcTVl9qYxtiySeEyrzDv0te-TD",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1ru2mKtQ_AdrawqUWGxMejfniwgEdeLOw",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "85737",
+    "title": "Re:ZERO -Starting Life in Another World-",
+    "cover": "https://static.wikia.nocookie.net/rezero/images/1/16/ReZero_volume_26_cover.jpg/revision/latest?cb=20210308085857&path-prefix=pt-br",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Adventure", "Drama", "Fantasy", "Psychological", "Romance", "Thriller"],
+    "anilist": {
+      "rating": "87",
+      "popularity": "22801"
+    },
+    "synopsis": "Subaru Natsuki was just trying to get to the convenience store but wound up summoned to another world. He encounters the usual things--life-threatening situations, silver haired beauties, cat fairies--you know, normal stuff. All that would be bad enough, but he's also gained the most inconvenient magical ability of all--time travel, but he's got to die to use it. How do you repay someone who saved your life when all you can do is die?",
+    "volumes": [
+      {
+        "number": "Volume 26",
+        "epub": "1PKkWN78xAV-Q4Ue0vLM9kzhCE-yqYT_d",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 25",
+        "epub": "1PIvj2d-KSsBRM0P4l1VeY_bh6lTBBayU",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 24",
+        "epub": "1PGT0_0aLyrxjsejWAPAcb_a9LaEsb3s0",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 23",
+        "epub": "1PFxpesN5Z-CIVAl2F6ODftCuapiVDj6W",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 22",
+        "epub": "1PFfMy_eg3BzKzIHRrlX0lEUy9vJ8gf5t",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 21",
+        "epub": "1PCf2kuuIpmWXEzZzYVnIrpVHoqrKKTXM",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 20",
+        "epub": "1P46B90lSr8mkjnOndYgVootZFsgVd1UD",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 19",
+        "epub": "1P3aR7GQhR8Z3_TaZL6S1AiW8-oYUpOO-",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 18",
+        "epub": "1P16flL-o2D071lENsfJT-VclE4z6k-M6",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 17",
+        "epub": "1OoRNiDF3IW0qdcfBraBrzGxykc4IfhMl",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 16",
+        "epub": "1ODTt3UoOVvKt-UTRHRBwb1UZEeOyqvNx",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 15",
+        "epub": "1O3yEzl_e9-k68ZVJuRkNK2FkPDx0Ss23",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 14",
+        "epub": "1O1ThlP7BFyHOL7WIDf3qch1Lyaxn3Ff_",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 13",
+        "epub": "1Nw6iuMU9rpdfesUqxq_IPlXJ97_tuiBK",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 12",
+        "epub": "1NuYMtOVYXauY1QLcPgnHASOKQU7BoYGh",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 11",
+        "epub": "1NuQjrRLSsKMa5SVNH_Vs_iYX9ynfN0Ya",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1Npl_ANdATWcK7oAIohFh1anoxZaqEQ9t",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1NmMYMOa5vkW8u6i_09k8OccQp9anYzxC",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1Nj4e9JUrhxptOLBmucXz1r6X_EhbrnYz",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1NiWCjSEQ975w4gOyisicBneJ8IPbzyRB",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1Ncii1BjfGcqXlLYmF0g0okIDB8run3KL",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1N_qmHmdldf6D2DJRxkTbstpn_GnSxnO2",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1NXrIgDm1tsvWRNLnDuZYVYnL2AvTa_pn",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1NVPLs6rqQQz1IDWKa_lh9Rqh13OiJIGX",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1NStZdw-2cgMVnI8OkszLmq1-QQP8a9p9",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1NKBkrKAp8yMgf2hUzLbX2KudYk4nuLg2",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "55409",
+    "title": "High School DxD",
+    "cover": "https://static.wikia.nocookie.net/highschooldxd/images/e/e2/DxDLN14.jpeg/revision/latest?cb=20130204020300",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action","Comedy","Ecchi","Romance","Supernatural"],
+    "anilist": {
+      "rating": "79",
+      "popularity": "8719"
+    },
+    "synopsis": "Hyodo Issei is a (perverted) high school boy. When he goes out on a date with his first girlfriend Asano Yuma, he is killed by her. Her true identity is Reinare, a fallen angel sent by a secret society Grigori to eliminate dangerous divine weapons. Issei is reincarnated as a devil by his senpai Rias Gremory, a Duke of Hell. Issei serves as Rias's low rank devil and fights against the fallen angels.",
+    "volumes": [
+      {
+        "number": "Volume 14",
+        "epub": "1vu5pX3-RFhWpYJQemH8CFIKYGH0wWcuk",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 13",
+        "epub": "1vo5Hs_sWa1_gE5xUaOxCBX_fVqvZO4Zf",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 12",
+        "epub": "1vlCtA1DYV2M8SaK3NP_XKBjg5iAY2tCG",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 11",
+        "epub": "1vatAaQfiMKxaW_rUcj9nvwMuGlBg9KB2",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1vZqhpFJXQp6mSG9XjaYKxcd_-FXjkOck",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1vZVV8JX8T5bNoHgNcwlotlnx-P8MLMzl",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1vYFsAHsUnDCcHD9QhvLRriQC4TNNvkNc",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1vTneX_pcmQlCKXVD_x8SWyqDJH3zFphJ",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1vRG6LVxXt-OsAPVugidE_Tc3tsdtwOvB",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1vOjBPj1uwQ0ACqsyoXSUMOnaPriWuchD",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1vNJL0I-VJnZYZwED5CgWT9d27WbldqoD",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1vN5dT6-8gow8S77lp_HJjfgYovr9nxHW",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1vKGts4bvkGN-NiY3_LUJKUgQiJ6sAXIX",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1vBSscVVfIl7QpnRAUYwINTWh6-xvSgey",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "113533",
+    "title": "The Angel Next Door Spoils Me Rotten",
+    "cover": "https://static.wikia.nocookie.net/otonari-no-tenshi/images/4/42/1-JP-Vol_7-Cover.jpg/revision/latest?cb=20221105214852",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Comedy", "Romance", "Slice of Life"],
+    "anilist": {
+      "rating": "85",
+      "popularity": "7353"
+    },
+    "synopsis": "Amane lives alone in an apartment, and the most beautiful girl in school, Mahiru, lives just next door. They've almost never spoken—until the day he sees her in distress on a rainy day and lends her his umbrella. To return the favor, she offers him help around the house, and a relationship slowly begins to blossom as the distance between them closes...",
+    "volumes": [
+      {
+        "number": "Volume 7",
+        "epub": "1qOWrlsPyoU_qC0QxF91rJgga1OTddPc0",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1qPzTqojGtMboeenKGYxf1HW_DOkhn7hQ",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5.5",
+        "epub": "1qU2nyiMDvw0NmcpLFgb8H-WIggNOZ7X5",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1qU_NJGQKEK7zlAzCl_j8-kE3YUyAdW8Q",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1qVLXHaKmfn0XRY8w0QdlJRRF6yOsKqfq",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1qVtlnx7o-gWqVJSKUexcQNCRV4xmBoCJ",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1qWy1lh_bKyKaJmu1XTt4WD1-zWd6Tf1j",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1qaUxdbKxmrM9mAkoeiAqT78d4-Gyhva-",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "115166",
+    "title": "Classroom of the Elite: Year 2",
+    "cover": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/b/b9/LN_2nd_Year_Vol_12_cover.jpg/revision/latest?cb=20240707113317",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Seven Seas Entertainment & RoyalMtls",
+    "genres": ["Drama","Psychological","Thriller"],
+    "anilist": {
+      "rating": "86",
+      "popularity": "13145"
+    },
+    "synopsis": "Students of the prestigious Tokyo Metropolitan Advanced Nurturing High School are given remarkable freedom–if they can win, barter, or save enough points to work their way up the ranks! Ayanokouji Kiyotaka started at the bottom in the scorned Class D, where he met Horikita Suzune, who was determined to rise up the ladder to Class A. Who can beat the system in a school where cutthroat competition is the name of the game? The second year of this intense school drama begins now!",
+    "volumes": [
+      {
+        "number": "Volume 12",
+        "epub": "15m1Q2AFb9oE9OTFWsNawiVFboFAaaKu6",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 11 RoyalMTL",
+        "epub": "15o7APGZrvYVasQTx3GWii70RCP8rgHhy",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10 RoyalMTL",
+        "epub": "15mPyJYvUtSlqlzM77KfGdpe_iamtKLpW",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9.5",
+        "epub": "15qN0vTXKBw-IZm0VP-dlTe7N-VlX5U0F",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "15gkRvKdmC_53vSK6q1675D6SwgLUh03b",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "15gMCePVjxQAilhYYH_-XI4U-oia78g45",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "15eJag_qGkGwszF3sjrYJuSbQgrSZEFuO",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "15dk61CjiqWmuaRCyM9OyCY_TxHTKSe8p",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "15clkDOm1Ba9tc-Pd6NKXIKzZ-fVOXDQB",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4.5",
+        "epub": "15W8BF7Aea3OUZ8xf5hgBEs0QK8sayxnb",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "15FPwIa-1M0MQhaITT00YzxsfdVAAG92O",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "15CmpxptBTFRqPlE1ohJgp4WOuKfw1fcV",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "15Bib-fGCSyzpNi7PRloskdrQrY9xFw7i",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "158MdfDWXPsDfQS-6T0Ue2976_wL6U1k0",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 0 RoyalMTL",
+        "epub": "15rowF9ZVQLnmKaFhA0wxno4XuRmUEiaR",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "94970",
+    "title": "Classroom of the Elite",
+    "cover": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/5/5b/LN_Vol_11.5_cover.jpg/revision/latest?cb=20190924180938",
+    "status": "Completed",
+    "type": "Light Novel",
+    "translation": "Seven Seas Entertainment",
+    "genres": ["Drama","Psychological","Slice of Life","Thriller"],
+    "anilist": {
+      "rating": "87",
+      "popularity": "35733"
+    },
+    "synopsis": "Students of the prestigious Tokyo Metropolitan Advanced Nurturing High School are given remarkable freedom—if they can win, barter, or save enough points to work their way up the ranks! Ayanokoji Kiyotaka has landed at the bottom in the scorned Class D, where he meets Horikita Suzune, who’s determined to rise up the ladder to Class A. Can they beat the system in a school where cutthroat competition is the name of the game?",
+    "volumes": [
+      {
+        "number": "Volume 11.5",
+        "epub": "15200fgghKwUg6u8eyikNd8a5-A8EQTf6",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 11",
+        "epub": "1519oHhsblkvQCZJkmqTwJDd5TpQziLRj",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10",
+        "epub": "14z3saHxbG5UawR1On_Ho7mbbtdCk_0GJ",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "14rYeB0FY2bqRFnRKiefKjWaoksllWDo-",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "14gHFvf1O1Q6I0wj1jDTog6T6PKweMCxt",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7.5",
+        "epub": "14Sp4pXPptcodZf8Z2QvnArsmhq3wtwQD",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "14PEm6VqTNewW-ThdNaap8Ynd8bUCEZCP",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "14K5BaHFMwOtXYAqoAZj_CW9x0hkItWdR",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "14GtmJNAPq0evXZz0YPz5CuA2zvh9-o2I",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4.5",
+        "epub": "14AYzo0Ylpx4crp5HPde4Sqt9XUalAEOU",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "149u1muXzsnYCsd0LuR6yaGjytip_t1oD",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "13zGfb14nTjEMJqWWbHd4KPz08bKkgL_Z",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "13z917Lpdc21wTYeDTeZCneVszxsm3WaQ",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "13yRuU2W0K--72-a_iq3KgiUFQSEL7sF2",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "128801",
+    "title": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/11/Heroine.-Saint.-No-Im-an-All-Works-Maid-And-Proud-of-It-v01.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Seven Seas Entertainment",
+    "genres": ["Comedy", "Fantasy"],
+    "anilist": {
+      "rating": "65",
+      "popularity": "48"
+    },
+    "synopsis": "“I will become the world’s most wonderful maid!”<br><br>With her skirt fluttering in black and white, the girl shouted. Her name is Melody. A reincarnated former Japanese girl, she now pursues her dream in her new life, working as an all-purpose maid for a poor count’s family in the kingdom of Théolas. When she makes it, even cheap tea turns into a luxury brew, and a dilapidated mansion is quickly restored to new! Cleaning, serving, hunting, DIY—leave it all to her and her powerful magic. Unbeknownst to Melody, this world is actually an otome game, and she is the most powerful and invincible heroine, the saint! Yet, she remains oblivious to this fact. Romance with handsome men? Attacks by the Demon Lord? Work comes first! A fantasy of misunderstood work that unknowingly shatters destiny!",
+    "volumes": [
+      {
+        "number": "Volume 1",
+        "epub": "1N80GQmokgzfN233mfncFTzdGe1IrM2A9",
+        "pdf": ""
+      }
+    ]
+  },
+  {
     "id": "157496",
     "title": "The Obsessed Mage and His Beloved Statue Bride: She Cannot Resist His Seductive Voice",
     "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/11/The-Obsessed-Mage-and-His-Beloved-Statue-Bride-She-Cannot-Resist-His-Seductive-Voice.jpg?w=500&ssl=1",
@@ -1110,7 +1637,7 @@
       {
         "number": "Volume 1",
         "epub": "11MaaINiwj6HJxWu0dOnQws6htJ4ChrdT",
-        "pdf": ""
+        "pdf": "1Qc8UBrs2YknkucNYy4oNBpROaPjf3blI"
       }
     ]
   },
@@ -1131,12 +1658,12 @@
       {
         "number": "Volume 2",
         "epub": "1148v3Y862gBasoMUaKGnHXKxLiFnd1DI",
-        "pdf": ""
+        "pdf": "1IIJwRrXyLvX48x-v8R_7SsnA3GeDU9Mg"
       },
       {
         "number": "Volume 1",
         "epub": "11448axy8MBCXN4APhhF_3uOeDsnGK0Oy",
-        "pdf": ""
+        "pdf": "1pxkl8Qv5crt_sVdyIY3x2rvL2rvOky9N"
       }
     ]
   },
@@ -1182,52 +1709,52 @@
       {
         "number": "Volume 10",
         "epub": "15iHf3S_l-nB_BaTH2krpcr0jgwWSvBWJ",
-        "pdf": ""
+        "pdf": "1F6sdKhRrfzZcWdbfvFWufXe9rgjwCxS9"
       },
       {
         "number": "Volume 9",
         "epub": "16-Npo9KyhFDmwgzgEMrw2b_6zqpk9gaj",
-        "pdf": ""
+        "pdf": "1iSQvcYZG5X59LJqjsTn6Pfr6G4nwnQZa"
       },
       {
         "number": "Volume 8",
         "epub": "16-N36asTyLD-L_Qn7RiQol6RkFeaILeA",
-        "pdf": ""
+        "pdf": "16f7FQ10bbEG3_NgnpHq7fIkA_PTbu_1S"
       },
       {
         "number": "Volume 7",
         "epub": "15z4LshPyLSFz67DhE-huLJ6QuN77AaDN",
-        "pdf": ""
+        "pdf": "1AieX92Ye5o6a9q59LqpDEni8Hn46FXOy"
       },
       {
         "number": "Volume 6",
         "epub": "15eoFNoZ0BOtfqOPeovt6ZdCBBUBB0PBq",
-        "pdf": ""
+        "pdf": "1KRL2eU7PQF8xtYmhRIzqN44_oyGRI1jv"
       },
       {
         "number": "Volume 5",
         "epub": "15YzGvPCLu1qNVwnxZKXmyZvpr2n0oQmo",
-        "pdf": ""
+        "pdf": "1sjrPuk6K8p3uYgWrK7RrqGDlbkTpaWDS"
       },
       {
         "number": "Volume 4",
         "epub": "15W0B7ENyvXKW_PjlV7a_QYw2w6CpIrb7",
-        "pdf": ""
+        "pdf": "1skaYZ0VZKfgvj84cMgWRhWF9rojJ80bB"
       },
       {
         "number": "Volume 3",
         "epub": "15V4metjGPWQMZsz9ctE3SKsq8YMfCdem",
-        "pdf": ""
+        "pdf": "1aJqV2HzbVMDWhjpbLo7DeB06IYnVAWmP"
       },
       {
         "number": "Volume 2",
         "epub": "15SNQYuJktJFJFV4URv9MG0b36PNMUwS",
-        "pdf": ""
+        "pdf": "1OhvIIIRzw0WjRkAi_zhDbA6VzbI4FBkv"
       },
       {
         "number": "Volume 1",
         "epub": "15J97fuRGuszbKa56Jtk16NxTGZajoyX5",
-        "pdf": ""
+        "pdf": "1icKlccDjARbZGDmvNFKjJ16JAkhQNxgM"
       }
     ]
   }
