@@ -1,5 +1,36 @@
 [
   {
+    "id": "139370",
+    "title": "Management of a Novice Alchemist",
+    "cover": "https://static.wikia.nocookie.net/management-of-novice-alchemist/images/a/a2/Vol-3.JPG/revision/latest?cb=20210918162729",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Fantasy","Slice of Life"],
+    "anilist": {
+      "rating": "77",
+      "popularity": "235"
+    },
+    "synopsis": "Sarasa, a newly graduated state alchemist, has been gifted a shop of her very own by her master. The catch is...it’s an abandoned building on the frontier! She sets out on the journey there, dreaming of the elegant life that awaits her as a shop owner, but she’s quickly disappointed to learn just how much of a fixer-upper the place really is. Still, even if she’s not thrilled with the rustic location, she’s got a shop to run or she won’t be able to make a living! Surrounded by cute part-timers and kindly villagers, Sarasa is determined to stand on her own as an alchemist. This laid-back story of a magical work life is now open for business!",
+    "volumes": [
+      {
+        "number": "Volume 3",
+        "epub": "1e8mcuNpTI85Wxl4nTztwSKhonJzzJFd4",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1cZjMdzvpNzRjBB3SHyrNjCGyEBnI6fMa",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1cPtkASeWzG1utAg2cWr-q8gBGqOM7dV8",
+        "pdf": ""
+      }
+    ]
+  },
+  {
     "id": "130687",
     "title": "Alya Sometimes Hides Her Feelings in Russian",
     "cover": "https://static.wikia.nocookie.net/roshidere/images/0/01/Roshidere_Vol.5_EN.png/revision/latest?cb=20240515101423",
