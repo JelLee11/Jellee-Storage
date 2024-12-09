@@ -1,5 +1,637 @@
 [
   {
+    "id": "105867",
+    "title": "A Late-start Tamer’s Laid-back Life",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/09/A-Late-Start-Tamers-Laid-Back-Life-Volume-11.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Adventure","Comedy","Fantasy"],
+    "anilist": {
+      "rating": "73",
+      "popularity": "124"
+    },
+    "synopsis": "The Law of Justice Online, also known as LJO, is the hottest new VRMMORPG of the season, and office worker Yuta Sasaki is one of the lucky few granted access to the official launch. After some careful research, Yuta is chomping at the bit to start his virtual life as a Tamer, a class that harnesses the powers of wild monsters. Luckily, upon building his character, Yuta manages to land not only his chosen class, but a heap of bonuses to boot! He soon finds, however, that his abilities are not all they're cracked up to be, and that the talents of the rare first monster he is granted lie not in combat...but gardening! Already well behind the other adventurers, and facing a long and slow progression path ahead of him, Yuta is left with two choices—start over from scratch, or make the best of what he has been given. For Yuta the choice is obvious: When life gives you manure...start up a farm!",
+    "volumes": [
+      {
+        "number": "Volume 11",
+        "epub": "1u87RvWCO_GPFHZvAJSkjaR9Fq9rDPdf8",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1tJ34MVItOoW3KrbXjQ2PU_AN0OvjOLAr",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1tEYuFN4NkS6w3jcHWSNjJaLEMBG7PmCr",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1tCY47z7s-vbnpD_yh6cYt5bfzbtNd6Tj",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1t9taAGZSkS73gtZWmn9bIZlUNrk_LLHt",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1t9lIlS7kva52rCw7otJCxrhhl8fCcj6X",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1t58ymz2ejAQdGcL1TAjVX_ZwGqljLBFN",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1t-QtY8mYtBoEEvWi0QNvJTWqJEEfFSgr",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1su_u9AOkWvKbr3yfTALz7r5WCHA5fCIm",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1srfvh2GYDH3lNyuB52ZUin-OW2DUtDN7",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1shlhnSPuKFnMqzMrOycMa4X_ewu2T6rL",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "53116",
+    "title": "Accel World",
+    "cover": "https://static.wikia.nocookie.net/accelworld/images/9/9e/Accel_World_26.jpg/revision/latest?cb=20240513233154",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action","Romance","Sci-Fi"],
+    "anilist": {
+      "rating": "74",
+      "popularity": "2220"
+    },
+    "synopsis": "Prepare for a full dive!<br><br>Even in the future, all the advances and innovation in the world can't change the dynamics of the school playground. And for Haruyuki Arita, a fat kid in junior high, that means he's destined to always be at the bottom of the food chain, prime pickings for the school bullies. But when he is approached by Kuroyukihime, a beautiful and aloof upperclassman, Haruyuki's life is turned on its head as he dives into Brain Burst, a mysterious computer program, and the Accelerated World with her help. It's in the Accel World that Haruyuki casts off his depressing reality and takes hold of the chance to become a Burst Linker, a knight to protect his princess!",
+    "volumes": [
+      {
+        "number": "Volume 26",
+        "epub": "1sLkmAnvdDJ4FEuXiMu2sOGgSjHmpS5xD",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 25",
+        "epub": "1sPjTbRjSM9p-qRkQWBydv7eKDnpET1lv",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 24",
+        "epub": "1sKPEcPqrpGKQXGx1BhtFFQ9GKSU6pnDN",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 23",
+        "epub": "1sDufz3d5sL3Pg2H4ZngCtQqhj7Vemxkg",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 22",
+        "epub": "1s2jSpwYvwEcK6pqZUzo0iYVpbmODL2e9",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 21",
+        "epub": "1s0q_vQs8-2_zQmFNvHvKN7wOt5V_bOPk",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 20",
+        "epub": "1rzUdSqTk6VI50MMQZN4LJ4fIklezK1HZ",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 19",
+        "epub": "1rbLMvQggfK5E7tAmADnTP8dmrIg9QED9",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 18",
+        "epub": "1raVuRQZtsBGvdPvCMT5B_JtmEB1qrmHD",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 17",
+        "epub": "1rXUFou1qBVi8fgK1VUfQ2PWfrcOqGR6Y",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 16",
+        "epub": "1rT0uJuHxTfHha_UJcSlXZ_yrVQhp4pTC",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 15",
+        "epub": "1rPXDC5RK6vPJDaZuAu_zCPHwFyKgCG1L",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 14",
+        "epub": "1rFxUpuwk62sqIP12-rAV70TQE7_AbgNU",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 13",
+        "epub": "1rExy_Y1pHVdMfIttCIi4ZwU8MXc5Nl0o",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 12",
+        "epub": "1rCDjFAPtWy8gjxoqB7qnm_AT8QJP4Gsf",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 11",
+        "epub": "1r8Pixr2KaqC1kbmE1azx-QkJc0SVxHv6",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1r4ZwAarF9cqvQ9eJoKHVdJ71M87JXgTx",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1r1ijhlNaBsQA3AZoGnCEu_6VYSsFK9et",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1qzLC5XSwk1SmAZGpJBFG5QZ-UAA8hN4t",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1qwxLfjHtqHvgPoCOKnkr-1Kz57tvAd3C",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1qvkmREqvrWU3FHurMnMtppS_xFK3NQgL",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1qnFw0hc2zDKadWSNndZftfDjBsrokC2-",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1qmFkVI8nYMehAXJDvYUZ6oAFtzUt6VoR",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1qlSH5wArkj2ahFe9v9a7vsffxXCL4JEM",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1qlS328XjvJb8DySjUEBRQXqzbzIfHg3c",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1qZEekb_b3sVHyaxX1FFa8AHJVNstWB3g",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "82277",
+    "title": "Sword Art Online: Progressive",
+    "cover": "https://static.wikia.nocookie.net/swordartonline/images/d/dc/Sword_Art_Online_Progressive_Volume_08.png/revision/latest?cb=20230409054158",
+    "status": "Completed",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action","Adventure","Fantasy","Romance","Sci-Fi"],
+    "anilist": {
+      "rating": "77",
+      "popularity": "6057"
+    },
+    "synopsis": "Yuuki Asuna was a top student who spent her days studying at cram school and preparing for her high school entrance exams--but that was before she borrowed her brother's virtual reality game system and wound up trapped in Sword Art Online with ten thousand other frightened players. As time passes, Asuna fears what will become of her life outside the fantasy realm--the failure she might be seen as in the eyes of her peers and parents. Unwilling to wait on the sidelines for more experienced gamers to beat the game, Asuna employs her study habits to learn the mechanics of the game--and swordplay. Her swiftness impresses Kirito, a professional gamer who invites Asuna to join the best players on the front line. Is Asuna ready to swap class rankings for player rankings and join Kirito?",
+    "volumes": [
+      {
+        "number": "Volume 8",
+        "epub": "1u_mdPCOHWQd5LYAFICrfci_nkb1jrU7j",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1vGOAR17j3NrY49RrQa9uwnIHCQNa4NIr",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1uOUnof02cpKRhyErI8vbS9W2K659B2Lv",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1uOOtDT_dODRli1_Qbqnpnj4Nnf6Z5hup",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1uJWN-jfaqfAsf6UWUJfSriJENeFiYvKu",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1uJLjZ89rcAf_J7NepYIZMuxw35A8OSSP",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1uJ7dmfQzdkfPxmccxG7Sg2JJTzk24Jvf",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1uFGz8dAcKjh9OGtlviUd5-nmpd9Z5NRo",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "100858",
+    "title": "Sword Art Online Alternative: Gun Gale Online",
+    "cover": "https://static.wikia.nocookie.net/swordartonline/images/1/12/Sword_Art_Online_Alternative_-_Gun_Gale_Online_12_cover.png/revision/latest?cb=20220429230637",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action","Fantasy","Sci-Fi"],
+    "anilist": {
+      "rating": "77",
+      "popularity": "1136"
+    },
+    "synopsis": "The fact that Kohiruimaki Karen is 183 centimeters tall has always been something she's felt extremely self-conscious about as an introverted high school girl. But in the world of games, she can be whoever she wants to be! In the popular Gun Gale Online game, she's Ren, a short, all pink, P90 wielding bombshell who's aiming to win the next battle royale!",
+    "volumes": [
+      {
+        "number": "Volume 13",
+        "epub": "1q48__tFU7yItHimBbtNXGvhE8zODoY4J",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 12",
+        "epub": "1v8D4AXupKMRwYJeov8Qo0P51OEjMRbCS",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 11",
+        "epub": "1v1_V840N8ONPCJ0CELh17JBwr4_qXhG7",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1v0rUAFz5uqleain-JyVVEbRtPIhPnMO3",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1v-dKZBBfaH5bJ-tjGgnLg5ow0pBCVBjw",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1uwi18MuRhU1ChIbMvwy7xsfZA6YsDX-V",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1uu427eMVvOZnhaDgxCfcPNHaF3RgabuI",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1utuRZ9WukwBqcfTB6Nyc3Qr-Wu41DxML",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1urktgb0gPyzgUgZR6bhJvY9QMGKEaM-m",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1uqEi8R0sv50U2QKwWCueS3mZViS0oM0_",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1vRESmbF9fJvP_ZaDRLj5x1tVjYeu-r5g",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1uhxzZtUDlg5-sUrVcwZx1ivchafAq3jj",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1uhpbLO3dxfmQhr_nV_vUFjkI2yJI4IrQ",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "122608",
+    "title": "Sword Art Online Alternative: Clover's Regret",
+    "cover": "https://static.wikia.nocookie.net/swordartonline/images/2/25/Sword_Art_Online_Alternative_-_Clover%27s_Regret_cover.png/revision/latest?cb=20210808010249",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action","Adventure","Mystery","Romance","Sci-Fi"],
+    "anilist": {
+      "rating": "77",
+      "popularity": "260"
+    },
+    "synopsis": "Sword Art Online, as reimagined by famed fantasy author Soitiro Watase!<br><br>Asuka Empire. A Japanese-style VRMMO created by Akihiko Kayaba from a VR engine entitled “The Seed”—a game once played by Yuuki, Ran, and Merida of the Sleeping Knights that hides many stories. Two young women—warrior priestess Nayuta and ninja Koyomi, who became friends in-game—come across a mysterious priest named Yanagi. The elderly man tells them that he's looking for a detective to solve a riddle with a one-million-yen reward. The girls are shocked by the outlandish sum for this peculiar request, and then they meet an equally peculiar young man, who claims to be able to do this job as well as any other detective. With all his stat points invested in Luck, the man is useless in battle, but he does still seem to have some tricks up his sleeve, like that unbeatable drop rate for rare items... The mystery unfolds as two young girls and their dubious detective partner try to solve the case in this cutting-edge VRMMO world!",
+    "volumes": [
+      {
+        "number": "Volume 1",
+        "epub": "1vDyK6FRVlFiUa3s_RMXsH7hpOBnWycQU",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "51479",
+    "title": "Sword Art Online",
+    "cover": "https://static.wikia.nocookie.net/swordartonline/images/e/e6/Sword_Art_Online_Volume_27.png/revision/latest?cb=20221004172929",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Adventure", "Fantasy", "Romance", "Sci-Fi"],
+    "anilist": {
+      "rating": "78",
+      "popularity": "13305"
+    },
+    "synopsis": "In the year 2022, gamers rejoice as Sword Art Online - a VRMMORPG (Virtual Reality Massively Multiplayer Online Role Playing Game) like no other - debuts, allowing players to take full advantage of the ultimate in gaming technology: NerveGear, a system that allows users to completely immerse themselves in a wholly realistic gaming experience. But when the game goes live, the elation of the players quickly turns to horror as they discover that, for all its amazing features, SAO is missing one of the most basic functions of any MMORPG - a log-out button. Now trapped in the virtual world of Aincrad, their bodies held captive by NerveGear in the real world, users are issued a chilling ultimatum: conquer all one hundred floors of Aincrad to regain your freedom. But in the warped world of SAO, \"game over\" means certain death - both virtual and real...",
+    "volumes": [
+      {
+        "number": "Volume 27",
+        "epub": "1qRBnSn58DPkK5lOPQssnSUahpfZRK462",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 26",
+        "epub": "1qQs8wTczR0FvvTy1JLDXapQUGv4DG408",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 25",
+        "epub": "1qOcY0AJcdx4nfZ6uL5fHGpaDrXwT-ASJ",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 24",
+        "epub": "1qO85PMJwiaMAYk8zfttHMwGxtB_QEbDx",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 23",
+        "epub": "1qMushHHrMn1JxhlxbM529mQ4pQu9l9RX",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 22",
+        "epub": "1qLFw944EVscNZBDZqRBR9KGOGLviw3G1",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 21",
+        "epub": "1qFvCiVLI9lQ3RAq1WMXL4kutjNcPa-Rt",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 20",
+        "epub": "1qFR_KPPBOQE11OuuI1-EFLHz1BzWtYVe",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 19",
+        "epub": "1qDLvwVkNHBvn8hEhvhDyE1-ZiEMjWtLb",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 18",
+        "epub": "1qBYb5VxZdC07fQRNr_jdbMA7xIwEqByb",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 17",
+        "epub": "1q6v5v47pNlXH4p-lVtU7MWzPEYY0h609",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 16",
+        "epub": "1q0NsazIgJKfKxUmDPe9IjnD41_r4qrxy",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 15",
+        "epub": "1pyFacc-t09zxy2UPhW8i0mmHzq3Mn_W-",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 14",
+        "epub": "1px2vUkaVFGXqUQbR9KudPybWe6cdy-9Y",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 13",
+        "epub": "1pwpa4U0bQDHVGMLvF6s8_2JpBwnhkYfD",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 12",
+        "epub": "1pqG87y8jdN_YMaJ6wpg2WSJa3FJY-J5C",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 11",
+        "epub": "1pnjMA3xvlpCXnsxcBpzK_0sgj_4SAssu",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1pdx0STig5JBtX0CUMhiaBBhqnYrGhQ70",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1pa8Al3E9VJFuKG7ug29f0EhE-DGvwoW0",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1pTse0MnxyGYN-J0oC15Q3v5oVEB911Fc",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1pR-wt-qo28E9iBV1cNImG8T8WL5fqgeg",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1pNAvGBbBbgrAgok584YNd8HSSHZKDSqD",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1pJQCjOko5DTLYyAvtMvHJqVUJ79X8W-h",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1pHyGJEopVUeu66xH2zcRWir8-W7JHPKI",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1pCA4ZKdLjoKDyAzMSOBiPTf7xIHOBMYc",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1pBANgk_06g8SPOSMvZEKu6-8AQH2GaN6",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1p8rJxeap3dCBLCAjZFeatKgTsLKiujO-",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "70171",
+    "title": "My Youth Romantic Comedy Is Wrong, As I Expected",
+    "cover": "https://static.wikia.nocookie.net/yahari/images/d/dc/LN_Cover_14.5_EN.jpg/revision/latest?cb=20230308183328",
+    "status": "Completed",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Comedy", "Drama","Romance","Slice of Life"],
+    "anilist": {
+      "rating": "85",
+      "popularity": "17756"
+    },
+    "synopsis": "Hikigaya Hachiman is a high school boy with twisted character. He prefers to go against the trend and refuses to make friends with anybody. In order to get Hachiman back the right track, his school teacher Hiratsuka Shizuka forces him to enter 'Public Service Club'. There he meets other problematic students.",
+    "volumes": [
+      {
+        "number": "Volume 14.5",
+        "epub": "1n-gerULMSz93G8CpPmAsR1iDuykY5nxk",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 14",
+        "epub": "1moRsoKtIwqUqji0EZvQw0H-aD42DcbFR",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 13",
+        "epub": "1mo1-avGppreYtGfLG2lBVxtUYFUgFmuo",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 12",
+        "epub": "1mn595w77ytz9HVNb4JGpSzol1obEv5Xe",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 11",
+        "epub": "1mksE6k4EVYsMfPH7IOQ6kldHexR441ap",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10.5",
+        "epub": "1mgpSjjr_c7d5ugbtLxQq4_ZwKl4X-fow",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1meK4ighjjor6gfNldXAbfcRs0wQmDsWN",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1mVa8i9evpKpuQeFzUzjvFhbWS47_SVqq",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1mR7g3XaOO1fqi2gyMQZRa1Hg3Bj7HMTI",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7.5",
+        "epub": "1mPugMcm1LxtZcaW9a-EMeAiFjbrrZFXx",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1mO9_0CHwyFuK7UUiS0HjyYwrRwtudltO",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6.5",
+        "epub": "1mLEWpz-znAPMTT_ICovFehZippFXnntT",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1mKnoMfJsbuPEzYo49Xq0p1QgBcthx6ms",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1mCcdtMiBnBRvm_52KBOQPpPlKGYQqc0f",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1m40zQ56XRCwihk4c0OGHixZmfxedTWMZ",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1m1X-UlePuhXaEOrZnosqoenHyF1x2wVT",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1l_sXkHYLM5BX0K6BGUOKi-D_pKkW7-a2",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1lTwqMkKRACEw_zRWfVRp7AQPoRXzStsg",
+        "pdf": ""
+      }
+    ]
+  },
+  {
     "id": "124787",
     "title": "Arifureta: From Commonplace to World's Strongest: Short Stories",
     "cover": "https://static.wikia.nocookie.net/arifureta-shokugyou-de-sekai-saikyou/images/3/35/Arifureta-LN-EN-Cover-SS.png/revision/latest?cb=20200121063652",
