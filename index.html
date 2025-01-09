@@ -1,12 +1,170 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
-    
-  </head>
-  <body>
-    
-  </body>
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FNovels - Free Light Novels</title>
+  <!-- Fontawesome CDN -->
+  <script src="https://kit.fontawesome.com/8d333124e2.js" crossorigin="anonymous"></script>
+  <!-- Font Google -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" rel="stylesheet" />
+  <!-- Style -->
+  <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+  <!-- Header Section -->
+  <header class="header">
+    <div class="menu-btn"><i class="fa fa-bars" aria-hidden="true"></i></div>
+    <div class="header-title">
+      <h1>FNovels</h1>
+    </div>
+    <div class="link-list">
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Light Novels</a></li>
+        <li><a href="#">Web Novels</a></li>
+        <li><a href="https://github.com/JelLee11/JelLee-App/releases/download/v1.0.2_BetaSnapshot101/JelLee_v1.0.2.apk">Download App</a></li>
+      </ul>
+    </div>
+    <div class="search-btn"><i class="fa fa-search" aria-hidden="true"></i></div>
+    <!-- Search Form -->
+    <form action="search" method="get" accept-charset="utf-8" id="search-form">
+      <table>
+        <tr>
+          <td>
+            <input type="search" name="Search" id="search-field" placeholder="Search Novel">
+          </td>
+          <td>
+            <div><i class="fa fa-search" aria-hidden="true"></i></div>
+          </td>
+        </tr>
+      </table>
+    </form>
+  </header>
+  <!-- End of Header Section -->
+
+  <!-- Main Body Section -->
+  <div class="main-body-wrapper">
+
+    <!-- Hero Section -->
+    <div class="hero-wrapper">
+      <div class="hero-thumbnail-wrapper"><img src="../assets/hero-image.png" alt="" id="hero-thumbnail" data-src="../assets/hero-image.png" loading="lazy"></div>
+      <div class="hero-content-wrapper">
+        <h1> Welcome to FNovels</h1>
+        <p>Download and enjoy free unlimited official/fan translated novels</p>
+        <a class="download-btn" href="https://github.com/JelLee11/JelLee-App/releases/download/v1.0.2_BetaSnapshot101/JelLee_v1.0.2.apk"><i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Get App Now</a>
+      </div>
+    </div>
+    <!-- End of Hero Section -->
+
+    <!-- Screenshot Slider -->
+    <div class="screenshot-wrapper">
+      <h3>Screenshots</h3>
+      <div class="screenshot-container-wrapper">
+        <div class="screenshot-content-wrapper">
+          <h5>Built with friendly and smooth UI for better user experience with amazing functionality and features</h5>
+        </div>
+        <div class="slider-wrapper">
+          <ul class="slider-list-wrapper">
+            <li><img src="../assets/image1.png" alt="" id="slider-image-1"></li>
+            <li><img src="../assets/image2.png" alt="" id="slider-image-2"></li>
+            <li><img src="../assets/image3.png" alt="" id="slider-image-3"></li>
+            <li><img src="../assets/image4.png" alt="" id="slider-image-4"></li>
+            <li><img src="../assets/image5.png" alt="" id="slider-image-5"></li>
+            <li><img src="../assets/image6.png" alt="" id="slider-image-6"></li>
+          </ul>
+          <div class="slider-button-wrapper">
+            <button id="slider-prev-button">
+              <i class="fa fa-chevron-left" aria-hidden="true"></i>
+            </button>
+            <button id="slider-next-button">
+              <i class="fa fa-chevron-right" aria-hidden="true"></i>
+            </button>
+          </div>
+          <div class="slider-indicator">
+            <div class="indicator active" id="indicator1" ></div>
+            <div class="indicator" id="indicator2" ></div>
+            <div class="indicator" id="indicator3" ></div>
+            <div class="indicator" id="indicator4" ></div>
+            <div class="indicator" id="indicator5" ></div>
+            <div class="indicator" id="indicator6" ></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End of Screenshot Slider -->
+
+    <div class="features-wrapper">
+      <h1>Fast & Easy App For Downloading Novels</h1>
+      <div class="features-grid">
+        <div>
+          <p>FNovels is a powerful android application for downloading your favorite novels for free with ease</p>
+        </div>
+        <div>
+          <p>It support official and fan translations in both epub and pdf file format</p>
+        </div>
+        <div>
+          <p>Selection over hundreds of novels from latest updates, popular, most rated and by publishers</p>
+        </div>
+        <div>
+          <p>Powerful filter and search function for finding novels with ease</p>
+        </div>
+        <div>
+          <p>Add your favorite novels on library to keep on track</p>
+        </div>
+        <div>
+          <p>It does not built for reading but support third party application such as Moon+ Reader, ReadEra and eBoox</p>
+        </div>
+        <div>
+          <p>It does not interact with user and ask for specific information for safety</p>
+        </div>
+        <div>
+          <h3>Download Counts</h3>
+          <p id="downloadCounts"></p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <!-- End of Main Body Section -->
+
+  <!-- Footer -->
+  <footer>
+    <div>
+      <h1>FNovels</h1>
+      <p><a href="https://github.com/JelLee11/JelLee-App/releases/download/v1.0.2_BetaSnapshot101/JelLee_v1.0.2.apk">Download Now</a></p>
+      <p><a href="#">Home</a></p>
+      <p><a href="#">Latest Update</a></p>
+      <p><a href="#">Search Novel</a></p>
+    </div>
+    <div>
+      <h1>Community</h1>
+      <p><a href="https://discord.gg/a68kQGvT">Discord</a></p>
+      <p><a href="https://www.facebook.com/profile.php?id=61571075715333">Facebook</a></p>
+      <p><a href="https://t.me/shirou_18">Telegram</a></p>
+      <p><a href="https://github.com/JelLee11/JelLee-App/issues">Github Issues</a></p>
+    </div>
+    <div>
+      <h1>More</h1>
+      <p><a href="https://github.com/JelLee11/JelLee-App">Github</a></p>
+      <p><a href="https://ko-fi.com/skyfreak">Ko-Fi</a></p>
+      <p><a href="https://sociabuzz.com/cloverclub_03/tribe">SoziaBuzz</a></p>
+    </div>
+    <div>
+      <h1>Disclaimer</h1>
+      <p>We do not owned any files or content provided on this site and app. This content is for entertainment purposes only.</p>
+    </div>
+  </footer>
+  <!-- End of Footer -->
+
+  <!-- Jquery CDN -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="script.js"></script>
+</body>
+
 </html>
