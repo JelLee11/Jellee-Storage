@@ -1,0 +1,75 @@
+.post-wrapper {
+  max-width: 100%;
+  height: auto;
+  padding: 1em;
+  margin: 20px 0;
+}
+.post-header-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.post-wrapper h3 {
+  font-weight: 600;
+  font-size: 20px;
+}
+#latest-item-list {
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 1em;
+}
+#latest-item-list li {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  border-radius: 5px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 2px 5px #6C6D73;
+}
+#latest-item-list li h3 {
+  font-size: 16px;
+  padding: 1em;
+  font-weight: 600;
+}
+#latest-item-list li img {
+  width: inherit;
+  height: inherit;
+  object-fit: cover;
+}
+#latest-item-list li p {
+  font-size: 13px;
+  font-weight: 500;
+  font-style: italic;
+  padding: 1em;
+}
+#latest-item-list li p strong {
+  font-size: 13px;
+  font-weight: 600;
+  font-style: italic;
+}
+#latest-item-list li p a {
+  width: auto;
+  border: none;
+  text-align: center;
+  color: #2BC8FF;
+  font-size: 13px;
+  text-decoration: none;
+}
+#latest-item-list li p a i {
+  margin-right: 10px;
+  font-size: 13px
+}
+
+@media only screen and (max-width: 750px) {
+  #latest-item-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+}

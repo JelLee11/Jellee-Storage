@@ -28,8 +28,9 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" rel="stylesheet" />
   <!-- Style -->
-  <link rel="stylesheet" href="style.css" type="text/css" />
+  <link rel="stylesheet" href="../style.css" type="text/css" />
   <link rel="icon" href="../assets/favicon-32x32.png" type="image/x-icon" />
+  <link rel="stylesheet" href="page-style.css" />
 </head>
 
 <body>
@@ -42,7 +43,7 @@
     </div>
     <div class="link-list">
       <ul>
-        <li><a href="../page/homepage.html">Home</a></li>
+        <li><a href="#">Home</a></li>
         <li><a href="#">Light Novels</a></li>
         <li><a href="#">Web Novels</a></li>
         <li><a href="https://github.com/JelLee11/JelLee-App/releases/download/v1.0.2_BetaSnapshot101/JelLee_v1.0.2.apk">Download App</a></li>
@@ -78,86 +79,25 @@
       </div>
     </div>
     <!-- End of Hero Section -->
-
-    <!-- Screenshot Slider -->
-    <div class="screenshot-wrapper">
-      <h3>Screenshots</h3>
-      <div class="screenshot-container-wrapper">
-        <div class="screenshot-content-wrapper">
-          <h5>Built with friendly and smooth UI for better user experience with amazing functionality and features</h5>
+    
+    <!-- Post Section -->
+    <div class="post-wrapper">
+      
+      <!-- Latest Post -->
+      <div class="latest-post-wrapper">
+        <div class="post-header-wrapper">
+          <h3>Recently Added</h3>
         </div>
-        <div class="slider-wrapper">
-          <ul class="slider-list-wrapper">
-            <li><img src="../assets/image1.png" alt="" id="slider-image-1"></li>
-            <li><img src="../assets/image2.png" alt="" id="slider-image-2"></li>
-            <li><img src="../assets/image3.png" alt="" id="slider-image-3"></li>
-            <li><img src="../assets/image4.png" alt="" id="slider-image-4"></li>
-            <li><img src="../assets/image5.png" alt="" id="slider-image-5"></li>
-            <li><img src="../assets/image6.png" alt="" id="slider-image-6"></li>
-          </ul>
-          <div class="slider-button-wrapper">
-            <button id="slider-prev-button">
-              <i class="fa fa-chevron-left" aria-hidden="true"></i>
-            </button>
-            <button id="slider-next-button">
-              <i class="fa fa-chevron-right" aria-hidden="true"></i>
-            </button>
-          </div>
-          <div class="slider-indicator">
-            <div class="indicator active" id="indicator1"></div>
-            <div class="indicator" id="indicator2"></div>
-            <div class="indicator" id="indicator3"></div>
-            <div class="indicator" id="indicator4"></div>
-            <div class="indicator" id="indicator5"></div>
-            <div class="indicator" id="indicator6"></div>
-          </div>
-        </div>
+        <ul id="latest-item-list"></ul>
       </div>
+      
     </div>
-    <!-- End of Screenshot Slider -->
-
-    <div class="features-wrapper">
-      <h1>Fast & Easy App For Downloading Novels</h1>
-      <div class="features-grid">
-        <div>
-          <p>FNovels is a powerful android application for downloading your favorite novels for free with ease</p>
-        </div>
-        <div>
-          <p>It support official and fan translations in both epub and pdf file format</p>
-        </div>
-        <div>
-          <p>Selection over hundreds of novels from latest updates, popular, most rated and by publishers</p>
-        </div>
-        <div>
-          <p>Powerful filter and search function for finding novels with ease</p>
-        </div>
-        <div>
-          <p>Add your favorite novels on library to keep on track</p>
-        </div>
-        <div>
-          <p>It does not built for reading but support third party application such as Moon+ Reader, ReadEra and eBoox</p>
-        </div>
-        <div>
-          <p>It does not interact with user and ask for specific information for safety</p>
-        </div>
-        <div>
-          <h3>Download Counts</h3>
-          <p id="downloadCounts"></p>
-        </div>
-      </div>
-    </div>
-
-    <!-- Disqus Section -->
-    <div class="comment-wrapper">
-      <h1>Give your thoughts?</h1>
-      <div id="disqus_thread"></div>
-    </div>
-    <!-- End of Disqus Section -->
-
+    <!-- End of Post Section -->
+    
   </div>
   <!-- End of Main Body Section -->
 
-  <!-- Footer -->
+  <!-- Footer Section -->
   <footer>
     <div>
       <h1>FNovels</h1>
@@ -184,49 +124,10 @@
       <p>We do not owned any files or content provided on this site and app. This content is for entertainment purposes only.</p>
     </div>
   </footer>
-  <!-- End of Footer -->
-
   <!-- Jquery CDN -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-  <script src="script.js"></script>
-
-  <!-- Disqus -->
-  <script>
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT 
-     *  THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR 
-     *  PLATFORM OR CMS.
-     *  
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: 
-     *  https://disqus.com/admin/universalcode/#configuration-variables
-     */
-
-    var disqus_config = function() {
-      // Replace PAGE_URL with your page's canonical URL variable
-      this.page.url = "http://f-novels.netlify.app/";
-
-      // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-      this.page.identifier = "http://f-novels.netlify.app/";
-    };
-
-    (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-      var d = document,
-        s = d.createElement('script');
-
-      // IMPORTANT: Replace EXAMPLE with your forum shortname!
-      s.src = 'https://fnovels-1.disqus.com/embed.js';
-
-      s.setAttribute('data-timestamp', +new Date());
-      (d.head || d.body).appendChild(s);
-    })();
-  </script>
-  <noscript>
-    Please enable JavaScript to view the
-    <a href="https://disqus.com/?ref_noscript" rel="nofollow">
-      comments powered by Disqus.
-    </a>
-  </noscript>
-
+  <script src="../script.js"></script>
+  <script src="page-script.js"></script>
 </body>
 
 </html>
