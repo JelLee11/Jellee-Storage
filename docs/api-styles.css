@@ -1,0 +1,78 @@
+.page-wrapper {
+  max-width: 100%;
+  padding: 2em 1em;
+}
+.page-content-wrapper {
+  text-align: center;
+  padding: 10em 3em;
+}
+.page-content-wrapper h1 {
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 2;
+}
+.page-content-wrapper p {
+  font-size: 18px;
+  font-weight: 500;
+}
+.page-content-wrapper p .deploy-btn {
+  width: auto;
+padding: 1em;
+border: none;
+border-radius: 8px;
+background-color: #0458f9;
+text-align: center;
+color: #fff;
+margin: 15px 0;
+font-size: 15px;
+text-decoration: none;
+}
+
+.page-starter-wrapper {
+  max-width: 100%;
+  padding: 3em;
+}
+.page-starter-wrapper h1 {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 2;
+}
+.page-starter-wrapper p {
+  font-size: 18px;
+  font-weight: 500;
+  text-indent: 20px;
+}
+
+.page-starter-wrapper h5, .page-starter-wrapper h5 i {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 2;
+  margin-top: 20px;
+}
+.page-starter-wrapper span, .page-starter-wrapper span i strong {
+  font-size: 15px;
+  font-weight: 500px;
+  font-style: italic
+}
+
+@media only screen and (max-width: 750px) {
+  .page-wrapper {
+    padding: 1em;
+  }
+  .page-content-wrapper {
+    padding: 10em 1em;
+  }
+  .page-starter-wrapper {
+    padding: 1em;
+    font-size: 12px;
+  }
+  .page-starter-wrapper h1 {
+    font-size: 17px;
+  }
+  .page-starter-wrapper p {
+    font-size: 13px;
+  }
+  .page-starter-wrapper h5, .page-starter-wrapper h5 i{
+    font-size: 14px;
+  }
+}
