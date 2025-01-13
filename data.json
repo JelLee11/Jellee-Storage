@@ -1,5 +1,86 @@
 [
   {
+    "id": "99026",
+    "title": "The Apothecary Diaries",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/01/the-apothecary-diaries-volume-13.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Drama", "Mystery"],
+    "anilist": {
+      "rating": "87",
+      "popularity": "6141"
+    },
+    "synopsis": "In the East is a land ruled by an emperor, whose consorts and serving women live in a sprawling complex known as the hougong, the rear palace. Maomao, an unassuming girl raised in an unassuming town by her apothecary father, never imagined the rear palace would have anything to do with her—until she was kidnapped and sold into service there. Though she looks ordinary, Maomao has a quick wit, a sharp mind, and an extensive knowledge of medicine. That's her secret, until she encounters a resident of the palace at least as perceptive as she is: the head eunuch, Jinshi. He sees through Maomao's façade and makes her a lady-in-waiting to none other than the Emperor's favorite consort... so she can taste the lady's food for poison!",
+    "volumes": [
+      {
+        "number": "Volume 13",
+        "epub": "18Mp6RU3aZj7Bfr3fqEyyoioTVY7aq6zM",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 12",
+        "epub": "1dLlg4QhCoiu-uCduR53QcF2sMTx2ZuCj",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 11",
+        "epub": "1dPrKOrJM_6xg0XoBWvtdrjmg5cEHj_-D",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1dQXD9BZmIWs2gC2Gqyf-9EjkXsQw6AO4",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1dBjURfClLhD-ngK96b5RxoNemgMmLVtg",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1d5rxg_TPKnsMNdihC0WNuS6dvgGKEivK",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1cv6ZgHgGmGSAKqfgwMIBBhrE4NBbId6i",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1cv13moDUjLPozU2p3_bgZ-_223HmFkoM",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1ch-zz6rUvd3XH5jDc30Q63plDKgWfow1",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1cgobbp1OiXEaiwkiP9EL3PENahxb_eM1",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1cb9ijRAqi_FTODr8Iuua_JNsEvu9cezb",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1cVTXLPwYUXL-UW7t8fR8ArLntf2UTjDk",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1cU3NR7BBOEQ-XbZDkBUVWkI4LI5hU83N",
+        "pdf": ""
+      }
+    ]
+  },
+  {
     "id": "113484",
     "title": "The Greatest Demon Lord Is Reborn as a Typical Nobody",
     "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/06/The-Greatest-Demon-Lord-Is-Reborn-as-a-Typical-Nobody-v10.jpg?w=500&ssl=1",
@@ -324,87 +405,6 @@
       {
         "number": "Volume 1",
         "epub": "1CtK2us7vURe-pkdByndTbdv69jFClrGI",
-        "pdf": ""
-      }
-    ]
-},
-  {
-    "id": "99026",
-    "title": "The Apothecary Diaries",
-    "cover": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/1/15/LN_Vol12-CoverEN.png/revision/latest?cb=20240531013108",
-    "status": "Releasing",
-    "type": "Light Novel",
-    "translation": "J-Novel Club",
-    "genres": ["Drama", "Mystery"],
-    "anilist": {
-      "rating": "87",
-      "popularity": "6141"
-    },
-    "synopsis": "In the East is a land ruled by an emperor, whose consorts and serving women live in a sprawling complex known as the hougong, the rear palace. Maomao, an unassuming girl raised in an unassuming town by her apothecary father, never imagined the rear palace would have anything to do with her—until she was kidnapped and sold into service there. Though she looks ordinary, Maomao has a quick wit, a sharp mind, and an extensive knowledge of medicine. That's her secret, until she encounters a resident of the palace at least as perceptive as she is: the head eunuch, Jinshi. He sees through Maomao's façade and makes her a lady-in-waiting to none other than the Emperor's favorite consort... so she can taste the lady's food for poison!",
-    "volumes": [
-      {
-        "number": "Volume 13",
-        "epub": "18Mp6RU3aZj7Bfr3fqEyyoioTVY7aq6zM",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 12",
-        "epub": "1dLlg4QhCoiu-uCduR53QcF2sMTx2ZuCj",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 11",
-        "epub": "1dPrKOrJM_6xg0XoBWvtdrjmg5cEHj_-D",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 10",
-        "epub": "1dQXD9BZmIWs2gC2Gqyf-9EjkXsQw6AO4",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 9",
-        "epub": "1dBjURfClLhD-ngK96b5RxoNemgMmLVtg",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 8",
-        "epub": "1d5rxg_TPKnsMNdihC0WNuS6dvgGKEivK",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 7",
-        "epub": "1cv6ZgHgGmGSAKqfgwMIBBhrE4NBbId6i",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 6",
-        "epub": "1cv13moDUjLPozU2p3_bgZ-_223HmFkoM",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 5",
-        "epub": "1ch-zz6rUvd3XH5jDc30Q63plDKgWfow1",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 4",
-        "epub": "1cgobbp1OiXEaiwkiP9EL3PENahxb_eM1",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 3",
-        "epub": "1cb9ijRAqi_FTODr8Iuua_JNsEvu9cezb",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 2",
-        "epub": "1cVTXLPwYUXL-UW7t8fR8ArLntf2UTjDk",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 1",
-        "epub": "1cU3NR7BBOEQ-XbZDkBUVWkI4LI5hU83N",
         "pdf": ""
       }
     ]
