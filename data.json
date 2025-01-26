@@ -1,5 +1,163 @@
 [
   {
+    "id": "147234",
+    "title": "Brunhild the Dragonslayer",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/09/Brunhild-v02-the-Dragon-Princess.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "anilist": {
+      "rating": "77",
+      "popularity": "423"
+    },
+    "synopsis": "Eden... A place of perfection, where man and beast live side by side in harmony… Eden’s protector, the silver dragon, regularly visits retribution upon those who would bring harm to paradise. But when the dragon discovers a human girl on the shores of Eden, he decides to raise her as his own. He teaches her that if she is to be welcomed into God’s kingdom after death, she must not harbor hatred in her heart. But when the dragon’s life is mercilessly snuffed out by human machinations, the girl must choose whether to heed his dying wish and stay the course of righteousness…or walk a path of vengeance.",
+    "volumes": [
+      {
+        "number": "Volume 2",
+        "epub": "1NxqBNZof1MLxWaK-MWEj7XiN-brIQla-",
+        "pdf": "1Nq7vZiBSzmnyukB50Z5X_1xtV-_UwRrW"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1Noy22klJ_Dn_UghIDXB3WbL22SDvH3i_",
+        "pdf": "1NbcNkz92Opxl6hM-zj83FGylyxxYtBSH"
+      }
+    ]
+  },
+  {
+    "id": "99758",
+    "title": "Bottom-Tier Character Tomozaki",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/06/Bottom-Tier-Character-Tomozaki-Vol.-10.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Comedy", "Romance", "Slice of Life"],
+    "anilist": {
+      "rating": "80",
+      "popularity": "4818"
+    },
+    "synopsis": "Tomozaki is one of the best gamers in Japan, and in his opinion, the game of real life is one of the worst. No clear-cut rules for success, horribly balanced, and nothing makes sense. But then he meets a gamer who's just as good as him, and she offers to teach him a few exploits...",
+    "volumes": [
+      {
+        "number": "Volume 10",
+        "epub": "1NHNFhkXln5RoDwuc_qIV7z-bjT_8_Wg8",
+        "pdf": "1N7O5fpSsXAOvZIzTusnbk_WC6lOxdPLA"
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1N0yBEr6OktshkaQnB3YwPESngSIckR4H",
+        "pdf": "1MqvSkzwc0kVxL7Fl_iLogCJWjOFPXN4O"
+      },
+      {
+        "number": "Volume 8.5",
+        "epub": "1Mfd1_j7jfLl2fjrYbeoVGLVPz7zApR-6",
+        "pdf": "1MY33QoQiUaATJadClLrtleLMMLON4fAm"
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1MJ4W60nze78ifAFWEyNwPQnfnbnxiNf1",
+        "pdf": "1MEv6-dnVUPmlohNh2Elsvwl-uzKb-3B8"
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1M7E0V4tvBpIHWspX-xS2LSpyrU5dl6IE",
+        "pdf": "1LzSW4u3eSg04WGXb4vVqSQl6qBuasK5H"
+      },
+      {
+        "number": "Volume 6.5",
+        "epub": "1LsaxfE3NIir7by_kRVeqkcxWvZN2KDFh",
+        "pdf": "1LoVIXQTjVkAq3FlY0JZ2LmkQR3EKT0Ij"
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1LiGnhuRdraLj0vNppQ4LM-nM7AqH09KO",
+        "pdf": "1LdBIkETEuI-j2qvPReXBLt8sSAYqL5cE"
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1LcPf6KBSthekC3mHnUwjjGvQhtSihGFz",
+        "pdf": "1LTkmUW6WH_ILPfs5XujeHCc3e-9_pSVF"
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1LPVdlpuZy6e4c0ICZ7RcA6PBItSY1pqF",
+        "pdf": "1LGVcp_TkXhAB_qI1FCQeaNGa5l-7UW2y"
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1Kw6h7viS04pmpcpEn74bXkQxfQzxLjI_",
+        "pdf": "1KpWlXygR31xi62DwuMb21YZgvbfbVO5Y"
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1KkW8ygL0TG4wTKiOtpIgUYtqPrLESlsk",
+        "pdf": "1KbHJyAu-PYmXHQkdKDYB43y3gZsUzVDQ"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1KGKamQRYAbBP5D4J52Z1MVlevLZnY0Jo",
+        "pdf": "1JziTv_NJhvfP1IS4ZheVUwfhmUNkQbZ7"
+      }
+    ]
+  },
+  {
+    "id": "87114",
+    "title": "Accomplishments of the Duke’s Daughter",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/02/Accomplishments-of-the-Dukes-Daughter-v8.jpg?w=500&ssl=1",
+    "status": "Completed",
+    "type": "Light Novel",
+    "translation": "Seven Seas Entertainment",
+    "genres": ["Drama", "Fantasy", "Romance"],
+    "anilist": {
+      "rating": "77",
+      "popularity": "1239"
+    },
+    "synopsis": "Iris Almeria, the daughter of a powerful duke, is arrested and forced to her knees in front of her fiancée. Her betrothed, Prince Edward, is rejecting her for another woman! As Iris’s life flashes before her eyes, she suddenly realizes she knows exactly what is coming next–because she has been reincarnated into her favorite otome game as its villainess. Quick thinking saves her from exile, but Iris can’t rest yet. If she wants to survive this world that sees her as wicked, she’ll have to change the world itself.",
+    "volumes": [
+      {
+        "number": "Volume 8",
+        "epub": "1JhynAfcU1Mxdxf9JT7hCkQeeuzE9BMu6",
+        "pdf": "1JbwOhRE4D98b-9SCExSNQgjxtsbBx6nF"
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1JVpHE4-tKQOxCjISyXJsXqisDqztIaK6",
+        "pdf": "1JRocxooyHHfYczcEBYTe5DuIj0Rz_o8J"
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1JOjQVJqbvKiGIWYycOERWi5I85rMZqI6",
+        "pdf": "1JBl_pl5O91vr68FZ_CESYlsM568aJJeH"
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1JBRbZYFOUWER5MofYVf4MiTJs-jlSyhn",
+        "pdf": "1J8dctbt2BJIG7k3cviccud6OJ5GvTDOH"
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1J6ZQcK7ehmAfi2Y5ZYRMxU1JED33kX82",
+        "pdf": "1J-8VprdZZ0dpwoVQpXv4ydDZlxfDiXzS"
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1J-0FBxbyXsXCTHskkMZuuCYbJ19zyw7E",
+        "pdf": "1IxkBK1n_xx20Igdxl5T1SfpRRArUL8wy"
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1IwU0QVG2TAuON47hKI1u--P0Sm0exFOw",
+        "pdf": "1Iuz0DRZLswbJHYehVM6Rxs-mFNKpl4TP"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1IsVQPh7SWiMwM4zN1gRY6nnOQEIHs9zf",
+        "pdf": "1IsTjyOD0Rcgfx9gMTwXgKw5v8VxttBTY"
+      }
+    ]
+  },
+  {
   "id": "132264",
   "title": "You Were Experienced, I Was Not: Our Dating Story",
   "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/01/You-Were-Experienced-I-Was-Not-Our-Dating-Story-v06.jpg?w=500&ssl=1",
