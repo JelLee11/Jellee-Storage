@@ -1,5 +1,92 @@
 [
   {
+    "id": "175916",
+    "title": "Love Unseen Beneath the Clear Night Sky",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/01/Love-Unseen-Beneath-the-Clear-Night-Sky.jpg?w=500&ssl=1",
+    "status": "Finished",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Drama", "Romance"],
+    "anilist": {
+      "rating": "94",
+      "popularity": "83"
+    },
+    "synopsis": "On an April night in Tokyo, still too early for fireworks, university student Kakeru Sorano meets a woman named Koharu Fuyutsuki. She is a beautiful girl who stands out from the crowd, laughs a lot, and exudes a warmth that contrasts sharply with Kakeru's own introversion. But there was something Kakeru didn't know at first—she can't see.<br><br>Unlike Kakeru, Koharu hasn't given up on anything, even with her blindness. She attends university daily, shows interest in clubs, makes friends—and dreams of launching fireworks one day. Kakeru wonders why, when she can't see them...but maybe it doesn't matter. And maybe he can start moving forward, too, for the girl who's always been by his side",
+    "volumes": [
+      {
+        "number": "Volume 1",
+        "epub": "1TttV381VqhmMKpS7-lM8XB9ICv5yJ_J5",
+        "pdf": "1TyHLnlkKR_aUf0YUJXFS91iUEKt0YKUZ"
+      }
+    ]
+  },
+  {
+    "id": "130687",
+    "title": "Alya Sometimes Hides Her Feelings in Russian",
+    "cover": "https://glucosetl.wordpress.com/wp-content/uploads/2024/09/roshidere-v9-cover-en-edit.png",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Comedy", "Romance", "Slice of Life"],
+    "anilist": {
+      "rating": "80",
+      "popularity": "6789"
+    },
+    "synopsis": "Alisa Mikhailovna Kujou is Seiren Private Academy’s “solitary princess.” She’s a half-Russian beauty with silver hair, at the top of her class, student council accountant, and…completely unapproachable. For some reason, she’s also taken on the responsibility of reprimanding the slacker who sits next to her in class. Masachika Kuze is constantly frustrating her by falling asleep, forgetting his textbooks, and just being an overall unexemplary student. Or at least, that’s how it looks from the outside. She may put on a tough act, but she doesn’t mind Masachika as much as others would think. She even lets him call her by her nickname, Alya. Anyone hearing the comments she mutters in Russian under her breath might know how she really feels, but since none of her classmates understand the language, she’s free to say whatever she likes! Except…there is one person who knows what she’s saying. Masachika eavesdrops on her embarrassing revelations, pretending to be clueless, all the while wondering what her flirtatious comments actually mean!",
+    "volumes": [
+      {
+        "number": "Volume 9 (FanTL)",
+        "epub": "1FatMZ2qAKGkAqEbk5kflKBcoRdSLgP6U",
+        "pdf": "1VDF7W9EuoZUvGU8RbfuMo4zwyzVSo40D"
+      },
+      {
+        "number": "Volume 8 (FanTL)",
+        "epub": "1Vfp7_U2ZA6ZYGgiar6n3qhUpJwiB-F-I",
+        "pdf": "198jJ1saB7pn7PdS7wzSWC64DoQxX_Z7Y"
+      },
+      {
+        "number": "Volume 7 (FanTL)",
+        "epub": "1URiZDkPhfZCoN-SN0L1h4wy9JtofkUj9",
+        "pdf": "15tpEYB_jus-y8sPp2XPtRV3L8SVePg6F"
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1syqcVHN3OOdC094Fgrv9NkqkviGUKgO3",
+        "pdf": "18dR5SVRZr7N7PNtg00NQHPimobGMcs_c"
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1WhwEdbtlFpkSnyj5w5xL3B64oW8jSfNN",
+        "pdf": "18bzsjtCyi1Si3o0t18W4Hpr7yYBnMFbv"
+      },
+      {
+        "number": "Volume 4.5",
+        "epub": "1Wh-JDRGtJ7LWdrEOqUw1KLUc654zJII8",
+        "pdf": "18OkxQyfKYR3NZZP5xOEThgs3NQyINuXF"
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1WfK4F06ivIjQZAtKOHTrlaDkM7mkx3Aa",
+        "pdf": "18Nbn7DTmcR1R61uY5z-9LVtd4Jzllwy1"
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1WaelDwRTbHy-Dge9-b9amJYHBO13DGMn",
+        "pdf": "18J083aAr_1FV8oY0VBS8OAJpZ8BOQmPx"
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1WVwwFru1P06WC-YXpIoEcuRa0yvgejL6",
+        "pdf": "18HSeYYldCvJjBCTqwgXeL8qCw01QTg-4"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1WUjLt-AGHU2Ic1d-w1Uc78WOcYsZJKXf",
+        "pdf": "18CCt6EW1TMxe5Wz31QwsK-7yj4X7oJTL"
+      }
+    ]
+  },
+  {
     "id": "123395",
     "title": "I Kissed my Girlfriend's Little Sister?!",
     "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2021/01/Cover-1.jpg?w=500&ssl=1",
@@ -290,7 +377,7 @@
     "id": "132233",
     "title": "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.",
     "cover": "https://cclawtranslations.home.blog/wp-content/uploads/2025/01/1.png?w=638",
-    "status": "Releasing",
+    "status": "Completed",
     "type": "Light Novel",
     "translation": "CClaw Translations",
     "genres": ["Comedy", "Romance"],
@@ -6252,57 +6339,6 @@
         "number": "Volume 1",
         "epub": "1cPtkASeWzG1utAg2cWr-q8gBGqOM7dV8",
         "pdf": ""
-      }
-    ]
-  },
-  {
-    "id": "130687",
-    "title": "Alya Sometimes Hides Her Feelings in Russian",
-    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/12/Alya-Sometimes-Hides-Her-Feelings-in-Russian-v6.jpg?w=500&ssl=1",
-    "status": "Releasing",
-    "type": "Light Novel",
-    "translation": "Yen Press",
-    "genres": ["Comedy", "Romance", "Slice of Life"],
-    "anilist": {
-      "rating": "80",
-      "popularity": "6789"
-    },
-    "synopsis": "Alisa Mikhailovna Kujou is Seiren Private Academy’s “solitary princess.” She’s a half-Russian beauty with silver hair, at the top of her class, student council accountant, and…completely unapproachable. For some reason, she’s also taken on the responsibility of reprimanding the slacker who sits next to her in class. Masachika Kuze is constantly frustrating her by falling asleep, forgetting his textbooks, and just being an overall unexemplary student. Or at least, that’s how it looks from the outside. She may put on a tough act, but she doesn’t mind Masachika as much as others would think. She even lets him call her by her nickname, Alya. Anyone hearing the comments she mutters in Russian under her breath might know how she really feels, but since none of her classmates understand the language, she’s free to say whatever she likes! Except…there is one person who knows what she’s saying. Masachika eavesdrops on her embarrassing revelations, pretending to be clueless, all the while wondering what her flirtatious comments actually mean!",
-    "volumes": [
-      {
-        "number": "Volume 6",
-        "epub": "1syqcVHN3OOdC094Fgrv9NkqkviGUKgO3",
-        "pdf": "18dR5SVRZr7N7PNtg00NQHPimobGMcs_c"
-      },
-      {
-        "number": "Volume 5",
-        "epub": "1WhwEdbtlFpkSnyj5w5xL3B64oW8jSfNN",
-        "pdf": "18bzsjtCyi1Si3o0t18W4Hpr7yYBnMFbv"
-      },
-      {
-        "number": "Volume 4.5",
-        "epub": "1Wh-JDRGtJ7LWdrEOqUw1KLUc654zJII8",
-        "pdf": "18OkxQyfKYR3NZZP5xOEThgs3NQyINuXF"
-      },
-      {
-        "number": "Volume 4",
-        "epub": "1WfK4F06ivIjQZAtKOHTrlaDkM7mkx3Aa",
-        "pdf": "18Nbn7DTmcR1R61uY5z-9LVtd4Jzllwy1"
-      },
-      {
-        "number": "Volume 3",
-        "epub": "1WaelDwRTbHy-Dge9-b9amJYHBO13DGMn",
-        "pdf": "18J083aAr_1FV8oY0VBS8OAJpZ8BOQmPx"
-      },
-      {
-        "number": "Volume 2",
-        "epub": "1WVwwFru1P06WC-YXpIoEcuRa0yvgejL6",
-        "pdf": "18HSeYYldCvJjBCTqwgXeL8qCw01QTg-4"
-      },
-      {
-        "number": "Volume 1",
-        "epub": "1WUjLt-AGHU2Ic1d-w1Uc78WOcYsZJKXf",
-        "pdf": "18CCt6EW1TMxe5Wz31QwsK-7yj4X7oJTL"
       }
     ]
   },
