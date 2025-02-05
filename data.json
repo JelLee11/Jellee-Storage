@@ -1,5 +1,213 @@
 [
   {
+    "id": "75597",
+    "title": "Black Bullet",
+    "cover": "https://images.yenpress.com/imgs/9780316510646.jpg?w=285&h=422&type=books&s=35f545228853c386d33c80e71fbf7763",
+    "status": "Hiatus",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Mystery", "Sci-Fi"],
+    "anilist": {
+      "rating": "77",
+      "popularity": "1880"
+    },
+    "synopsis": "A near future, where humans have been defeated by the viral parasites named Gastrea. They have been exiled into a small territory and live in despair, side by side with terror.<br><br>In this world trapped in darkness—<br><br>Rentaro, a boy living near Tokyo and member of the \"Civil Security\" – an organization specializing in fighting against the Gastrea – is used to accomplishing dangerous tasks. His partner is Enju, a precocious young girl. They fight thanks to their peculiar powers until one day, when they receive a special assignment from the government. This top secret mission is to prevent the destruction of Tokyo...<br><br>Set in a near future, this thrilling heroic-action story... starts now!",
+    "volumes": [
+      {
+        "number": "Volume 7",
+        "epub": "12GGwstLP6oKFyUYCpUJOQAaW8xVd4001",
+        "pdf": "12Em6TDCcX_0wHJXHVi0y-j_38sKmgG3V"
+      },
+      {
+        "number": "Volume 6",
+        "epub": "12Ct9y6dPh7WT-69LNIbv_4n5t5pL__Pl",
+        "pdf": "12BiP13qagsG8849z0gR4H7tN3r30nA6R"
+      },
+      {
+        "number": "Volume 5",
+        "epub": "12AQ33bfQe04GH1HJKK7DunmJidmnRMIF",
+        "pdf": "129QvEKNEojDQrVkrak6H_D3YZrYcY34Z"
+      },
+      {
+        "number": "Volume 4",
+        "epub": "126ljEtAhN7E9yyuFPY7XtgX6UQN0dbwv",
+        "pdf": "121ZI3CXbQX-2HqOzw28pudup5T8hcIum"
+      },
+      {
+        "number": "Volume 3",
+        "epub": "11x2mMFUrDZCyMxlGkgdVjvT1AQJpSnAr",
+        "pdf": "11wlTGW2xoV82Lcur4YDr2LLdqf7wsBhp"
+      },
+      {
+        "number": "Volume 2",
+        "epub": "11uHWNPzz_T6WbMwi-YoNLxcNWVwbqNWR",
+        "pdf": "11ropV-tlA6xLuKDqTTSRVGgOcyiyAKQR"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "11ls428H4WlJbkxob8kBiMR1N0WaiQ93B",
+        "pdf": "11rN6qJP7UT8kmSLc4CDd8TwfV-xvWxhu"
+      }
+    ]
+  },
+  {
+    "id": "101810",
+    "title": "Black Summoner",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/12/black-summoner-volume-19.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "anilist": {
+      "rating": "69",
+      "popularity": "967"
+    },
+    "synopsis": "Waking up in a strange new place with no memory of his past life, Kelvin learns that he’s bartered away those very memories in exchange for powerful new abilities during his recent transmigration. Heading out into a whole new world as a Summoner — with his first Follower being the very goddess who brought him over! — Kelvin begins his new life as an adventurer, and it isn’t long before he discovers his hidden disposition as a battle junkie. From the Black Knight of the Ancient Castle of Evil Spirits to the demon within the Hidden Cave of the Sage, he revels in the fight against one formidable foe after another. Join this OP adventurer in an exhilarating and epic saga as he and his allies carve their way into the annals of history!",
+    "volumes": [
+      {
+        "number": "Volume 19",
+        "epub": "12z3bHPMJlv4yZ83VhgeOyrUOG8IbIqq4",
+        "pdf": "12q2dak5LDFYWvDMMxaYidDv2oOSEftkE"
+      },
+      {
+        "number": "Volume 18",
+        "epub": "12oH_lDB-kqF0L6gRACvBiaUPjDQYQobr",
+        "pdf": "12hc73jc0TCCqZvCQWoxm8KAD3hIkmSdt"
+      },
+      {
+        "number": "Volume 17",
+        "epub": "12gpMpbCqzI83aiWwiqINqPVxK4UcZHqu",
+        "pdf": "12fUwr2sNaAx-dl3wgAtJ1te1FRH91Tjp"
+      },
+      {
+        "number": "Volume 16",
+        "epub": "12RYnrSK0dBsjGiyzoM7MSya4wtF1i6Ck",
+        "pdf": "12PDxS_nFy5bYqFYRsg85haouUAKcKXvr"
+      },
+      {
+        "number": "Volume 15",
+        "epub": "12K1iIMy-ji2e6BsEWcweX0dVmgmaQt1Z",
+        "pdf": "12J3H6ytBBKBaEJaiyE7dpgAmK0jprZMJ"
+      },
+      {
+        "number": "Volume 14",
+        "epub": "10S-zWFFvUAymYhxkzvcY9N6q8GZUNdKZ",
+        "pdf": "10QJowcpsluKDpLSGqLQj7kL1_gV7KLA7"
+      },
+      {
+        "number": "Volume 13",
+        "epub": "10JDE45NAOQrC-5v-2f5o5YHQYQyb8lir",
+        "pdf": "10BIr4DiFVxqPi3jZG7Fd_xoNVjLFMucY"
+      },
+      {
+        "number": "Volume 12",
+        "epub": "10AKwTbsUKqLJrppsqubMMpRqzJG75yfi",
+        "pdf": "108qxbcLRG7nP8cG-a55ZNU--aISPWkMT"
+      },
+      {
+        "number": "Volume 11",
+        "epub": "105hSEXVnDVUYdW0uOFjMxlj34rLd8EVP",
+        "pdf": "100WZYFVJoWrz5l3Gb5OO49hb_KF6WnMy"
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1-uIUzeSfG-_b4fHy-Js3OODLowFPFB2g",
+        "pdf": "1-sh2jwFVzS_jpIfERD0_9EmLiQCvMtvb"
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1-qpfU1rvrtSECFKrmDvDGzPRcHCY0hK4",
+        "pdf": "1-nYLOUWnBJ10Qt6Ji8LrEXcwaa4bMESY"
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1-lijx_3380PZb0wGiwvfUY8RmHLquUfA",
+        "pdf": "1-kugEODFFw-PFxHaaPOGLSe5NWWGB2bh"
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1-hbwF0v1j0CvDHXy6oi7nbm8t5a2cvEM",
+        "pdf": "1-R6F9YjX0Z8X63FvDpkRh_GgmIJfnzSH"
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1-QAdrrteEB3SpRPZBpM4hxpoPfrCFXHa",
+        "pdf": "1-O-UxqkCMutxD5q81kgAyJWLGH8Wm_Xw"
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1-NYBNJu8smBlhaxQjdGN0I7zO_plBXYz",
+        "pdf": "1-BHOziMZz-o0Em6qDV3U3-Or68Si9HJo"
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1yiDe-WQoyKPCF53s8R3ksg-nWxsmCOrH",
+        "pdf": "1zvOPvXKrh4G7qTzmvr6__9ZUyPk4Q2qE"
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1zshtb9IXDxLn9KC32tP7GDpghGS2nIm8",
+        "pdf": "1zopIiIvsQTQyRQjx-4vXe55GUIoeuFgj"
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1zklKoN_na1WI5rLNhXIiRvhft9EZX4Zr",
+        "pdf": "1zUnXR0jtEYhuQCUvTKsKJFN3mTvyIkrk"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1zPFfP4HGutIqDP6ziAcIze9wQgOakeig",
+        "pdf": "1zQuTn7cuscCDxaf6AQPKN8AqTwYAsnXl"
+      }
+    ]
+  },
+  {
+    "id": "108428",
+    "title": "The Eminence in Shadow",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/02/the-eminencevol6.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Comedy", "Fantasy"],
+    "anilist": {
+      "rating": "84",
+      "popularity": "8223"
+    },
+    "synopsis": "One big fat lie and a few twisted truths.<br><br>Even in his past life, Cid's dream wasn't to become a protagonist or a final boss. He'd rather lie low as a minor character until it's prime time to reveal he's a mastermind...or at least, do the next best thing-pretend to be one! And now that he's been reborn into another world, he's ready to set the perfect conditions to live out his dreams to the fullest. Armed with his overactive imagination, Cid jokingly recruits members to his organization and makes up a whole backstory about an evil cult that they need to take down. Well, as luck would have it, these imaginary adversaries turn out to be the real deal-and everyone knows the truth but him!",
+    "volumes": [
+      {
+        "number": "Volume 6",
+        "epub": "1_diIJ8Fy3upP2J0tVv-3FXG8g2jni5Le",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "16Ea0XxHkRdleqNxIo4YMNs-VLSSXvVHW",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "16DrrYJfUnUDvRYlFmRgu03V1lE0x0gUN",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "164SVK_E101XT8nGWwgbUW89_QfNYSn-h",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "161NYL92B-QxCvLGGGBF3BCvd1Sn0Q9re",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1609T9m0VPIfZ2FazpyMU1sPwsoLynUzT",
+        "pdf": ""
+      }
+    ]
+  },
+  {
     "id": "134421",
     "title": "VTuber Legend: How I Went Viral After Forgetting to Turn Off My Stream",
     "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/02/VTuber-Legend-How-I-Went-Viral-after-Forgetting-to-Turn-Off-My-Stream-v8.jpg?w=500&ssl=1",
@@ -6742,47 +6950,6 @@
       {
         "number": "Volume 1",
         "epub": "1cgv4dGDKHhL1fZMPcQ05IRNzBoZ_BF9F",
-        "pdf": ""
-      }
-    ]
-  },
-  {
-    "id": "108428",
-    "title": "The Eminence in Shadow",
-    "cover": "https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/9/94/Cover-LN-V5-JP.jpg/revision/latest?cb=20221114172522",
-    "status": "Releasing",
-    "type": "Light Novel",
-    "translation": "Yen Press",
-    "genres": ["Action", "Comedy", "Fantasy"],
-    "anilist": {
-      "rating": "84",
-      "popularity": "8223"
-    },
-    "synopsis": "One big fat lie and a few twisted truths.<br><br>Even in his past life, Cid's dream wasn't to become a protagonist or a final boss. He'd rather lie low as a minor character until it's prime time to reveal he's a mastermind...or at least, do the next best thing-pretend to be one! And now that he's been reborn into another world, he's ready to set the perfect conditions to live out his dreams to the fullest. Armed with his overactive imagination, Cid jokingly recruits members to his organization and makes up a whole backstory about an evil cult that they need to take down. Well, as luck would have it, these imaginary adversaries turn out to be the real deal-and everyone knows the truth but him!",
-    "volumes": [
-      {
-        "number": "Volume 5",
-        "epub": "16Ea0XxHkRdleqNxIo4YMNs-VLSSXvVHW",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 4",
-        "epub": "16DrrYJfUnUDvRYlFmRgu03V1lE0x0gUN",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 3",
-        "epub": "164SVK_E101XT8nGWwgbUW89_QfNYSn-h",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 2",
-        "epub": "161NYL92B-QxCvLGGGBF3BCvd1Sn0Q9re",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 1",
-        "epub": "1609T9m0VPIfZ2FazpyMU1sPwsoLynUzT",
         "pdf": ""
       }
     ]
