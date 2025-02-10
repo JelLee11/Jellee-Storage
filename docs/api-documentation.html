@@ -30,98 +30,104 @@
   <!-- Style -->
   <link rel="stylesheet" href="../style.css" type="text/css" />
   <link rel="icon" href="../assets/favicon-32x32.png" type="image/x-icon" />
-  
+
   <!-- Code Highlight CDN -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
 
-<!-- and it's easy to individually load additional languages -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/go.min.js"></script>
+  <!-- and it's easy to individually load additional languages -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/go.min.js"></script>
 
-<script>hljs.highlightAll();</script>
+  <script>
+    hljs.highlightAll();
+  </script>
   <link rel="stylesheet" href="api-styles.css" type="text/css" />
   <script type='text/javascript' src='//pl25827315.effectiveratecpm.com/5b/00/9c/5b009c4aab0a9e2c67725e90776d2813.js'></script>
+  <script async="async" data-cfasync="false" src="//pl25827414.effectiveratecpm.com/bc4e4961b3e1fbcf28112ecab3b17b63/invoke.js"></script>
 </head>
 
 <!-- Header Section -->
-  <header class="header">
-    <div class="menu-btn"><i class="fa fa-bars" aria-hidden="true"></i></div>
-    <div class="header-title">
-      <h1>FNovels</h1>
-    </div>
-    <div class="link-list">
-      <ul>
-        <li><a href="../page/homepage.html">Home</a></li>
-        <li><a href="#">Light Novels</a></li>
-        <li><a href="#">Web Novels</a></li>
-        <li><a href="https://github.com/JelLee11/JelLee-App/releases/download/v1.0.2_BetaSnapshot101/JelLee_v1.0.2.apk">Download App</a></li>
-      </ul>
-    </div>
-    <div class="search-btn"><i class="fa fa-search" aria-hidden="true"></i></div>
-    <!-- Search Form -->
-    <form action="search" method="get" accept-charset="utf-8" id="search-form">
-      <table>
-        <tr>
-          <td>
-            <input type="search" name="Search" id="search-field" placeholder="Search Novel">
-          </td>
-          <td>
-            <div><i class="fa fa-search" aria-hidden="true"></i></div>
-          </td>
-        </tr>
-      </table>
-    </form>
-  </header>
-  <!-- End of Header Section -->
-  
-  <!-- Page Section -->
-  <div class="page-wrapper">
-    <div class="page-content-wrapper">
-      <h1>Api Documentation</h1>
-      <p>Welcome to Fnovels documentation. <br>This api let you use our service and get novels data for free to use for your own.</p>
-      <br><br>
-      <h1>Use Own Host</h1>
-      <p>Host your own api by deploying on vercel.</p>
-      <br>
-      <p><a class="deploy-btn" href="https://github.com/JelLee11/Jellee-Storage">Deploy</a></p>
-    </div>
-    
-    <div class="page-starter-wrapper">
-      <h1><i class="fa fa-link" aria-hidden="true"></i> Get Started</h1>
-      <p>FNovels is a powerful downloader for novels in epub/pdf format. This api allow anyone to use it's service for free. Get started on using this api.</p>
-      
-      <h5><i class="fa fa-link" aria-hidden="true"></i> Request Latest Data</h5>
-      <pre><code>// Example request
+<header class="header">
+  <div class="menu-btn"><i class="fa fa-bars" aria-hidden="true"></i></div>
+  <div class="header-title">
+    <h1>FNovels</h1>
+  </div>
+  <div class="link-list">
+    <ul>
+      <li><a href="../page/homepage.html">Home</a></li>
+      <li><a href="#">Light Novels</a></li>
+      <li><a href="#">Web Novels</a></li>
+      <li><a href="https://github.com/JelLee11/JelLee-App/releases/download/v1.0.2_BetaSnapshot101/JelLee_v1.0.2.apk">Download App</a></li>
+    </ul>
+  </div>
+  <div class="search-btn"><i class="fa fa-search" aria-hidden="true"></i></div>
+  <!-- Search Form -->
+  <form action="search" method="get" accept-charset="utf-8" id="search-form">
+    <table>
+      <tr>
+        <td>
+          <input type="search" name="Search" id="search-field" placeholder="Search Novel">
+        </td>
+        <td>
+          <div><i class="fa fa-search" aria-hidden="true"></i></div>
+        </td>
+      </tr>
+    </table>
+  </form>
+</header>
+<!-- End of Header Section -->
+
+<!-- Page Section -->
+<div class="page-wrapper">
+  <div class="page-content-wrapper">
+    <h1>Api Documentation</h1>
+    <p>Welcome to Fnovels documentation. <br>This api let you use our service and get novels data for free to use for your own.</p>
+    <br><br>
+    <h1>Use Own Host</h1>
+    <p>Host your own api by deploying on vercel.</p>
+    <br>
+    <p><a class="deploy-btn" href="https://github.com/JelLee11/Jellee-Storage">Deploy</a></p>
+  </div>
+
+  <div class="page-starter-wrapper">
+    <!-- Ads Native Banner -->
+    <div id="container-bc4e4961b3e1fbcf28112ecab3b17b63"></div>
+    <br />
+    <h1><i class="fa fa-link" aria-hidden="true"></i> Get Started</h1>
+    <p>FNovels is a powerful downloader for novels in epub/pdf format. This api allow anyone to use it's service for free. Get started on using this api.</p>
+
+    <h5><i class="fa fa-link" aria-hidden="true"></i> Request Latest Data</h5>
+    <pre><code>// Example request
 https://jellee.vercel.app/novel/jellee/latest?page=1&perPage=1</code></pre>
 
-      <h5><i class="fa fa-link" aria-hidden="true"></i> Request Popular Data</h5>
-      <pre><code>// Example request
+    <h5><i class="fa fa-link" aria-hidden="true"></i> Request Popular Data</h5>
+    <pre><code>// Example request
 https://jellee.vercel.app/novel/jellee/popular?page=1&perPage=1</code></pre>
 
-      <h5><i class="fa fa-link" aria-hidden="true"></i> Request Most Rated Data</h5>
-<pre><code>// Example request
+    <h5><i class="fa fa-link" aria-hidden="true"></i> Request Most Rated Data</h5>
+    <pre><code>// Example request
 https://jellee.vercel.app/novel/jellee/most-rated?page=1&perPage=1</code></pre>
 
-      <h5><i class="fa fa-link" aria-hidden="true"></i> Request Publisher Data</h5>
-<pre><code>// Example request
+    <h5><i class="fa fa-link" aria-hidden="true"></i> Request Publisher Data</h5>
+    <pre><code>// Example request
 https://jellee.vercel.app/novel/jellee/publisher?query=yen press&page=1&perPage=1</code></pre>
 
-      <h5><i class="fa fa-link" aria-hidden="true"></i> Request Filter Data</h5>
-<pre><code>// Example request
+    <h5><i class="fa fa-link" aria-hidden="true"></i> Request Filter Data</h5>
+    <pre><code>// Example request
 // Example choices for type= [all, popularity, ratings]
 // Example for genre= romance,drama,action
 https://jellee.vercel.app/novel/jellee/filter?type=all&genre=romance&page=1&perPage=1</code></pre>
 
-      <h5><i class="fa fa-link" aria-hidden="true"></i> Request Search Data</h5>
-<pre><code>// Example request
+    <h5><i class="fa fa-link" aria-hidden="true"></i> Request Search Data</h5>
+    <pre><code>// Example request
 https://jellee.vercel.app/novel/jellee/search?query=angel next door&page=1&perPage=1</code></pre>
 
-      <h5><i class="fa fa-link" aria-hidden="true"></i> Request Recommendations Data</h5>
-      <pre><code>// Example request with id
+    <h5><i class="fa fa-link" aria-hidden="true"></i> Request Recommendations Data</h5>
+    <pre><code>// Example request with id
 https://jellee.vercel.app/novel/jellee/recommendation?id={id}&page=1&perPage=10</code></pre>
 
-      <h5><i class="fa fa-link" aria-hidden="true"></i> Request Response</h5>
-      <pre><code>// Example Successful Response
+    <h5><i class="fa fa-link" aria-hidden="true"></i> Request Response</h5>
+    <pre><code>// Example Successful Response
 {
   "success": true,
   "total": 103,
@@ -143,12 +149,12 @@ https://jellee.vercel.app/novel/jellee/recommendation?id={id}&page=1&perPage=10<
     ]
 }</code></pre>
 
-      <h5><i class="fa fa-link" aria-hidden="true"></i> Request Info Data</h5>
-<pre><code>// Example request by id
+    <h5><i class="fa fa-link" aria-hidden="true"></i> Request Info Data</h5>
+    <pre><code>// Example request by id
 https://jellee.vercel.app/novel/jellee/info?id={id}</code></pre>
 
-      <h5><i class="fa fa-link" aria-hidden="true"></i> Request Response</h5>
-<pre><code>// Example Successful Response
+    <h5><i class="fa fa-link" aria-hidden="true"></i> Request Response</h5>
+    <pre><code>// Example Successful Response
 {
   "success": true,
   "data": {
@@ -174,12 +180,12 @@ https://jellee.vercel.app/novel/jellee/info?id={id}</code></pre>
   }
 }</code></pre>
 
-      <h5><i class="fa fa-link" aria-hidden="true"></i> Request Volumes Data</h5>
-<pre><code>// Example request with id
+    <h5><i class="fa fa-link" aria-hidden="true"></i> Request Volumes Data</h5>
+    <pre><code>// Example request with id
 https://jellee.vercel.app/novel/jellee/volumes?id={id}&page=1&perPage=10</code></pre>
 
-<h5><i class="fa fa-link" aria-hidden="true"></i> Request Response</h5>
-      <pre><code>// Example Successful Response
+    <h5><i class="fa fa-link" aria-hidden="true"></i> Request Response</h5>
+    <pre><code>// Example Successful Response
 {
   "success": true,
   "total": 2,
@@ -198,13 +204,17 @@ https://jellee.vercel.app/novel/jellee/volumes?id={id}&page=1&perPage=10</code><
     <br></br>
     <span><i><strong>Noted: </strong></i> Download link extracted as google drive id. Add https://drive.google.com/uc?export=download&id={id} for direct download file</span>
 
-    </div>
-    
   </div>
- 
-  <!-- End of Page Section -->
-  
-  <!-- Footer -->
+
+  <!-- Ads Native Banner -->
+  <div id="container-bc4e4961b3e1fbcf28112ecab3b17b63"></div>
+  <br />
+
+</div>
+
+<!-- End of Page Section -->
+
+<!-- Footer -->
 <footer>
   <div>
     <h1>FNovels</h1>
@@ -234,8 +244,9 @@ https://jellee.vercel.app/novel/jellee/volumes?id={id}&page=1&perPage=10</code><
 <!-- End of Footer -->
 
 <!-- Jquery CDN -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-  <script src="../script.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="../script.js"></script>
+
 <body>
 
 </body>
