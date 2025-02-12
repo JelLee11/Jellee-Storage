@@ -1,5 +1,239 @@
 [
   {
+    "id": "138829",
+    "title": "Chainsaw Man: Buddy Stories",
+    "cover": "https://static.wikia.nocookie.net/chainsaw-man/images/c/cb/Chainsaw_Man_Buddy_Stories_-_English.png/revision/latest?cb=20230908091928",
+    "status": "Completed",
+    "type": "Light Novel",
+    "translation": "Unknown",
+    "genres": ["Action", "Comedy", "Drama", "Horror", "Supernatural"],
+    "anilist": {
+      "rating": "78",
+      "popularity": "6229"
+    },
+    "synopsis": "Read the story of self-proclaimed detective Power and her assistant, Denji, as they take on a mysterious case! How is the relationship between Kishibe and Quanxi when they were partners? What is the story of Himeno and Aki's first encounter and their first mission together?<br><br>In addition to the above three stories with the theme \"buddies,\" the book includes a bonus track featuring Denji, Power, and Aki's dream trip to Enoshima. This is a completely original story that cannot be read in the manga!",
+    "volumes": [
+      {
+        "number": "Volume 1",
+        "epub": "1eWMEB2PQFEO2oYSkOmoeYwCZDCHlzuUA",
+        "pdf": "1eV5v0bBM2SeMvuu8BcZqjNWCJUSr4nft"
+      }
+    ]
+  },
+  {
+    "id": "101794",
+    "title": "By the Grace of the Gods",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/05/by-the-grace-of-the-gods-volume-14.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Adventure", "Fantasy", "Slice of Life"],
+    "anilist": {
+      "rating": "74",
+      "popularity": "1202"
+    },
+    "synopsis": "Under the protection of the gods, a relaxed life with slimes in another world begins! One day, the life of middle-aged Japanese businessman Ryoma Takebayashi came to a rather sudden and disappointing end. Ryoma had never had a blessed life, but after his death, three great gods sought his cooperation and reincarnated him as a child in another world with swords and magic! Receiving a most cordial and divine welcome from the gods, Ryoma decides to live leisurely on his own in the forest for the time being. Working diligently at magic and hunting, Ryoma’s greatest passion comes to be researching his tamed slimes?! Training a variety of slimes (some newly discovered), the curtain rises on this easygoing life fantasy celebrating a second life with kind people in another world!",
+    "volumes": [
+      {
+        "number": "Volume 14",
+        "epub": "1cLVYqvaM1JdpN1dGuU-IYE2cz5sxy7yk",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 13",
+        "epub": "1e2kFqclE2lvOYZ1y_--eR_GMPBihqI77",
+        "pdf": "1dqdL6pO1XmJZQzCjNw-3-NgU6j-5BZoH"
+      },
+      {
+        "number": "Volume 12",
+        "epub": "1dfKWl4uQnVQSTKUnptK2791zxpbiF-Lf",
+        "pdf": "1dfIjO_ak7snclDoEgY3gxEek1yJQOdnD"
+      },
+      {
+        "number": "Volume 11",
+        "epub": "1daE8Mt5h2GswlnTTfrmznWLeFnrujLDM",
+        "pdf": "1dMjJX8XEGb-UfQb9MKfmonKjADUdlP2O"
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1dKSLeIAmWwDC7pIAUxH2E_5BqwSXxDIt",
+        "pdf": "1dHIyt1X7r-sfvUJthRwv2FO3kG7b0W_d"
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1dGDei1hbVaaJC-0RmTFyweraOPKbqRcF",
+        "pdf": "1dENFCMMl8oMkFzmgyaWby3IHDfcUCgno"
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1d8EVmVLcxI8AOtFZCHT0Ab1L7wrT9uDR",
+        "pdf": "1d6wpZuEKn2TYQqkgfUiHoHbhAI3lZTwk"
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1d4TC9cqxy5CrIFs3V4z6N0DcRE3XQ9vv",
+        "pdf": "1d3qLjk_TOe_2cA51zNaT262tCLCon2hF"
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1d0s0NtCqTkEGCQL85TpwOn8HtvOPRYVY",
+        "pdf": "1bDttjrLp2139XOzn_yU1gwZmM5TQtrkI"
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1bDc0C91NDd4bMA6v5kf3sn1KLgIHqsEZ",
+        "pdf": "1b9zldlMaaHzudeqg09NAbxyRqO4FHtzd"
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1b91trYwkqdGzmd6HQGbUlSh2N7bonIM8",
+        "pdf": "1b6q5nhLSpWFSoE0bzd0OzHOVz8OcFdmB"
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1b0hhupMEykFOgg3Trhok9PRtuTkwXtvH",
+        "pdf": "1arooyeLGNPBjQe2--nOHRaopcWPeDgtq"
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1anT5g2yWFgSJHhWbsB-6sf2R_YDu91WR",
+        "pdf": "1ajoVAo7Yiuv9-Nuz8RHOr6ZrhJFnfXiW"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1aicpa9McNarzU4_gkWfPrxqV8rmpRYyU",
+        "pdf": "1afU9Zc0W5RsEOyXPv-KHieOOnn9dYSzH"
+      }
+    ]
+  },
+  {
+    "id": "85342",
+    "title": "Clockwork Planet",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2018/12/Cover.jpg?w=500&ssl=1",
+    "status": "Hiatus",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Action", "Drama", "Fantasy", "Romance"],
+    "anilist": {
+      "rating": "70",
+      "popularity": "1170"
+    },
+    "synopsis": "–I know this is sudden, but the world had already collapsed long ago. Earth had died, but the entire planet was reconstructed and reproduced using clockwork – “The Clockwork Planet.”<br><br>One day, a black box suddenly crashed into the house of Naoto Miura, a high school failure, from above. Inside was– an automaton girl. “For me to be forced to sleep for as long as two hundred years from just one little fault, has the intelligence of humanity still yet to exceed even that of a flea?”<br><br>A gearhead fantasy meshed together by Yuu Kamiya and Tsubaki Himana!",
+    "volumes": [
+      {
+        "number": "Volume 4",
+        "epub": "1czI7pB9hnkYzLb5ZTL5wfijZAZ5YFlry",
+        "pdf": "1cpwaOtb8LhlSAv8dhi689qQC9bgqXj-q"
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1cp82iuzkHCOHhK2ignNL-U3KTmaVLMEy",
+        "pdf": "1cjwLNY_fDgZj8xVOaubHLIUYCWiZcjHb"
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1cjpQZKdqAlvHnoYULJrWJL0sTLiTfm_V",
+        "pdf": "1ciJWPj1-QPl78hR7HBVGi6dpnCv6zSZp"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1caiYKgJ1JmEXpg5LBhSyUPMA2b9ju_yH",
+        "pdf": "1c_CmVRAPOzx6dPTsp8gWYXb6fsujiB0-"
+      }
+    ]
+  },
+  {
+    "id": "86411",
+    "title": "Altina the Sword Princess",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/05/Altina-the-Sword-Princess-Volume-14.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "anilist": {
+      "rating": "71",
+      "popularity": "896"
+    },
+    "synopsis": "Inept with a sword, unable to ride a horse, and apathetic toward the empire he serves, Regis Aurick is a hopeless soldier who spends his days buried in books. Banished to the borderlands, he encounters a stirring young woman with red hair and ruby eyes. She is Fourth Princess Marie Quatre Argentina de Belgaria, known simply to Regis as Altina.<br><br>“…Do you want to become my tactician or not?”<br><br>Having sought him for his rumored strategic prowess, she aspires to reform an empire led by self-seeking nobles and driven to pointless wars, the legendary blade of an emperor, the Grand Tonnerre Quatre, at her hip. Continuously underestimated by her regiment, including her would-be tactician, the princess resolves to prove her worth beyond a shadow of a doubt—no matter the risk. Here is a tale of war, love, and politics, woven by the bookworm and the sword princess.",
+    "volumes": [
+      {
+        "number": "Volume 14",
+        "epub": "1NTiaPtxB-j8vFjCopSq3xGxaiYbZbCWM",
+        "pdf": "1NN3qeoupyorzcufQBP8vj2IzMO1hxuOl"
+      },
+      {
+        "number": "Volume 13",
+        "epub": "1NM61wWWC55UtNbcvvNrnvLqWugoAYpxd",
+        "pdf": "1NHzlOAFPJkVuOSvdWeiH3D4btwxRAJEB"
+      },
+      {
+        "number": "Volume 12",
+        "epub": "1NFgGyK_s8kFI2-P1H55oMI6lUAZK7s1M",
+        "pdf": "1NFOBe8JXntsMbm_NHRJ1QTl3ElI0ABNQ"
+      },
+      {
+        "number": "Volume 11",
+        "epub": "1NFHXDdmT5JsYHpmtI8rLW8WBBoJOs3R9",
+        "pdf": "1NEcloHZ8ZaHMo1h-yyUdry-KKdBrbnHy"
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1NE5m8mftUDvapwvL9oRL7_8iCBukncVj",
+        "pdf": "1NDhzmCeqkP8R3-uw7A7rD8vvaoB_PJ5P"
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1NBKngwCJR1EEchrSn3674V1ueQGcHNth",
+        "pdf": "1N5dxwt1m-kEGoWsAjiojw72atgFvwemN"
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1N53USMS4E4IxTkAfWj1Lc2fIrMtxqe8z",
+        "pdf": "1N1hRb_rJjvEZxwKTT_SJrP2r99YsYzgy"
+      },
+      {
+        "number": "Volume 7.5",
+        "epub": "1Mv6xQkTq6fdLPY__a4u-lVshNocOSDlB",
+        "pdf": "1Mv39XntUoLA59bUON9V11eUk6u0W38cc"
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1Mu7ueRWWk96NtOSjZAG2q5V5pR5LhNVO",
+        "pdf": "1MtdpEqIwWKH8jsRqLQmTVdZmYn-QLqJ_"
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1MnQvrT8fT6sqny5BN6eGb5fUij-KZhnN",
+        "pdf": "1MjRGA-x2unn7Y3iJ-szSYPAztJvjOyzX"
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1Ma3dqThGInmJZ8CqV7gaxiWP9IIh9G3p",
+        "pdf": "1M_nQaoWahGhVI2zBNDM1RRHd_64EGrqp"
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1MZVCx3ZZ811-XiqUb217OeQt6DfyMBrv",
+        "pdf": "1MYzE0Nut7WD9gInkxTKIisp0LF8x5RvP"
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1MWwFlsagbrXgiS6FNeFUn2eWdZufPZKh",
+        "pdf": "1MTF3fnRj0_J4-2dh5N7k-JDUeYK1v5AV"
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1MLxmw3ustCld1Jh_OxSpjvNnjlsvp9Qu",
+        "pdf": "1MJOaFUedl0oXXqa-2Fq9fy0Ezh1wqnwz"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1MI8q66-tmitHwTe7fDk01HCJolbDg-z8",
+        "pdf": "1MBf0nPIjNTBEaPc4SFemdpqEAn7qSRSS"
+      }
+    ]
+  },
+  {
     "id": "97783",
     "title": "The Hero Laughs While Walking the Path of Vengeance a Second Time",
     "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/09/Hero-Laughs-While-Walking-the-Path-of-Vengeance-a-Second-Time-Vol.-7-The-Righteous-and-the-Wretched-The-Nero-Kizuka-Sinsora.jpg?w=500&ssl=1",
