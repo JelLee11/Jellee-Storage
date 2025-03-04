@@ -1,5 +1,218 @@
 [
   {
+    "id": "128053",
+    "title": "A Tale of the Secret Saint",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/12/A-Tale-of-the-Secret-Saint-Vol.7.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Seven Seas Entertainment",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "anilist": {
+      "rating": "71",
+      "popularity": "288"
+    },
+    "synopsis": "Fia always dreamed of becoming a knight. Born into a family of knights, she’s the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes…and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!",
+    "volumes": [
+      {
+        "number": "Volume 7",
+        "epub": "1X13JXet1sehTR0GlG4jIQptJvNDG-81Q",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1Xvsp3-1z6uuirpAAMxA7v05F6JPsudoF",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1WuK0EAC9_vxvLII471RT0O1qvf1TYc7R",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1WtetRkiTXjkbFbzrpZo0qYV0k2xmRQe8",
+        "pdf": "1WoAFfTdGjdv-NPtWzBJj5pW3ZnXP7hSz"
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1Wnq_9OJJ4jq-BOr1wn91EmmPckvw-zzX",
+        "pdf": "1WlI0dP1-CyRjNqZ49QNaSO_HjHIhrOLX"
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1WkyJ9XThbZHog9TuYf7OwzE4stE11d_h",
+        "pdf": "1Wk5rTYQcXz_jwww_TqQAGM2ifxWQIvaD"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1WjutmBilWAHmIyyucYH0i38SijObu7pJ",
+        "pdf": "1Wj2DX2UfpUFKhS5wJhDhIm9FbYHS-Mco"
+      }
+    ]
+  },
+  {
+    "id": "42854",
+    "title": "A Certain Magical Index",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2020/03/83fb8634183.jpg?w=500&ssl=1",
+    "status": "Completed",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Comedy", "Fantasy", "Romance", "Slice of Life"],
+    "anilist": {
+      "rating": "83",
+      "popularity": "9494"
+    },
+    "synopsis": "Set in a city of not only scientifically advanced superhuman students, but in a world where magic is also real. Kamijyo Touma's right hand, the Imagine Breaker, will negate all magic, psychic, or divine powers, as well as his own luck. One day he finds a young girl hanging on his balcony railing. She turns out to be a nun from the Church of England, and her mind has been implanted with the Index Librorum Prohibitorum—all the magical texts the Church has removed from circulation.",
+    "volumes": [
+      {
+        "number": "Volume 22",
+        "epub": "1WY7_SEbhM-FAWI733owiFZiJb9b9bbmG",
+        "pdf": "1WXBQf45pELAnSpt0N7CuG67rL-x-yq_B"
+      },
+      {
+        "number": "Volume 21",
+        "epub": "1WX0srn0mJUETj4YBXNsR9ztFnk0Vh0Jz",
+        "pdf": "1WWHRkqtKgQ5guyuHSRLFZbGrCLD6koy3"
+      },
+      {
+        "number": "Volume 20",
+        "epub": "1WWH5rkZc3xQnfggfJhhAVse1N5k0_wQH",
+        "pdf": "1WUmX5eTQj_1RZmrZd2damMZx_UF3flfJ"
+      },
+      {
+        "number": "Volume 19",
+        "epub": "1WQM0GhQDeVBjz2BJXb-h9y_-fkjGS1HJ",
+        "pdf": "1WOALFwpQPzO2RVgU-c3c1XhI6Hw211kz"
+      },
+      {
+        "number": "Volume 18",
+        "epub": "1WCS2xfHCNwGVJfQJiV3mZcXvLMt0Lc72",
+        "pdf": "1WA095jhgjqDvSiCU3z2gefCX61_SnLHu"
+      },
+      {
+        "number": "Volume 17",
+        "epub": "1W9CyYc2eGs-aU6M7xll2T40JqN8RGfqA",
+        "pdf": "1W1xV9j_YIL0WWDHVu5gfeljNuJfFUiNr"
+      },
+      {
+        "number": "Volume 16.5 SS2",
+        "epub": "1Vl7_hinGSIU4AE8mZPh8s6TbUS0zzcsd",
+        "pdf": "1VcvwMzgpIY0z90EcZiayW5_mTg20WNdw"
+      },
+      {
+        "number": "Volume 16",
+        "epub": "1VciRIFqV1OWh0nALYtWVZ1GnbZhU850m",
+        "pdf": "1VZyoRwIhta5Cu9kwwDRigO58ygeMxSV8"
+      },
+      {
+        "number": "Volume 15",
+        "epub": "1VJkMTlWldIZeyz9UZ42yQYapFHUSJWCC",
+        "pdf": "1VHcG9JrQsIztv_zzcc4AaI8wMN9wFIBX"
+      },
+      {
+        "number": "Volume 14",
+        "epub": "1VFFT3ULp4_iGrb4wM2Z5QOVucKLqpRxJ",
+        "pdf": "1VELR2M7AlZCzY0MN_imBGCMgAuqtcTcE"
+      },
+      {
+        "number": "Volume 13.5 SS1",
+        "epub": "1VEIncPtX3rsC4nj9QU8LauZhesTMG9JC",
+        "pdf": "1VDPacwKUJruT9mGAhHNnY42wR9pJGGB4"
+      },
+      {
+        "number": "Volume 13",
+        "epub": "1VBd2gFI_AcXxE71tBOXhe9qnNsfS-Ij7",
+        "pdf": "1V3DMA9vKw9ZHEWjRQ-0c1CfrNq_kxkRn"
+      },
+      {
+        "number": "Volume 12",
+        "epub": "1Ui9ML1ErEhS1DD1nxkeuLY-D5uz8-O3f",
+        "pdf": "1Uf2SyAXHssKusV3Fc3mihQ9i9RKi3N8b"
+      },
+      {
+        "number": "Volume 11",
+        "epub": "1Ucyh92d68myzYQL3H2EhS6u5JZy7lAkb",
+        "pdf": "1UaZQfO9LTdTorCLfdtsjMCqP6BoYYPK6"
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1U_YfP_PoALNgPCgY_d3cz91g76FdFaje",
+        "pdf": "1UXXt7tOm_2TEbYIKMZgtFAE0FI9VcVvW"
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1UU9ookvk9Z9F5Cd00MLdSIpAZj2QtdpM",
+        "pdf": "1UQX07lCGaahjKCAELDgvDYjorPz-WKi6"
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1ULiSBmJ97FDYeP8GJdu3u_ZcdyKV9iWq",
+        "pdf": "1UHueHDVHExx_fp9WRWvJHjic4ifyZ8Bo"
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1UEWuIAzzmWyapB_Ch3cRmm-5SG5Mh5BI",
+        "pdf": "1UAQ7AfxGWp1Llqh-BrPP1Yk1qjFchQn7"
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1U828WHQG28IFsx6xB5foLfEbb1JTY7Hm",
+        "pdf": "1U0J_eWwWqE_pCGWZPXJrjEAwFhMfQXrq"
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1TwyLSb39f-AduoSd91TyzbbN-hfP2zEi",
+        "pdf": "1TwTtHrFSLP-j3BZzJ1s-vDgPBiij9q9a"
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1Ttcb_1EzOybpOQ7Nmg_2UErPuYQVl2sK",
+        "pdf": "1Tt8BSrITSYI1lEK0QFOk1FdUXwZspKLt"
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1Ts87SjyRUF3zkv78ik5qfU3YtEQxPuUX",
+        "pdf": "1Tj00NXLd-dYNlVh_gNR50kbqY5__hLJE"
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1TdEOKWquLOxJxksqhmvQPPHpERaKyYuH",
+        "pdf": "1TWFpjCTbUW6BcODLFwfllguh8cYdQu__"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1TUZ9ML2y51ccl3AjAN_howF7WMI-16Dd",
+        "pdf": "1TSEmNcP9gPY2Tw6vFLmzpWE9zYIN8ZGH"
+      }
+    ]
+  },
+  {
+    "id": "147759",
+    "title": "8th Loop for the Win! With Seven Lives' Worth of XP and the Third Princess's Appraisal Skill, My Behemoth and I Are Unstoppable!",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/12/8th-Loop-for-the-Win-With-Seven-Lives-Worth-of-XP-and-the-Third-Princesss-Appraisal-Skill-My-Behemoth-and-I-Are-Unstoppable-Volume-2.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "anilist": {
+      "rating": "59",
+      "popularity": "75"
+    },
+    "synopsis": "Master swordsman, sage, dragon knight... Remille can’t believe his ears when the princess lists off his possible futures. Born to a lesser noble house, he’s never been anything but a low-level adventurer. In fact, he’s lived that same life seven times—always forming an adventuring party with his friends at age fifteen, and always giving his own life to save theirs three years later. But not this time. The eighth loop is going to be different. After his most recent death reveals his friends’ treachery, Remille finally takes a different path that leads him to Princess Ciel, wielder of the powerful Eye of Appraisal that can judge anyone’s true potential. Will her wild claims about Remille’s future come to pass? With her guidance, can he really become a great sage or a rider of dragons? Is the adorable catlike familiar he’s tamed in past lives really a mighty behemoth, the strongest of the magical beasts? And will he really be able to escape the deadly destiny that’s claimed his life seven times already...?",
+    "volumes": [
+      {
+        "number": "Volume 2",
+        "epub": "1TRMGFXmFdyhhCWJiW5KIZrT0bA8TbXZi",
+        "pdf": "1TQhyir_90FzAiizDHLoChvbmbm1voOu0"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1TOthv8FAAyXv0iqUrgJhj18mQP2vWJNF",
+        "pdf": "1TMnEWdMkbTmvOrO8bsKTO4t5r_y02TW4"
+      }
+    ]
+  },
+  {
     "id": "111668",
     "title": "Isekai Tensei: Recruited to Another World",
     "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/12/isekai-tensei-recruited-to-another-world-volume-9.jpg?w=500&ssl=1",
