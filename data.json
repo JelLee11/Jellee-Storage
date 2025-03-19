@@ -1,5 +1,170 @@
 [
   {
+    "id": "156455",
+    "title": "The World Bows Down before My Flames",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/03/The-World-Bows-Down-Before-My-Flames-v02-The-Dark-Lords-Army-Goes-Chop.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Adventure", "Comedy", "Fantasy"],
+    "anilist": {
+      "rating": "66",
+      "popularity": "174"
+    },
+    "synopsis": "Homura wants to set something, anything, on fire. She may finally get her chance when she's summoned to another world that's desperate enough to ask her for help! Along with a group of similarly offbeat high school girls who all have their own powers, Homura incinerates evildoers and reins in the chaos caused by the Demon Lord's resurrection. What's going to happen when she inevitably gets a little carried away? Will her flames of justice burn down the whole world?<br><br><i>Note: Winner of the 27th Sneaker Awards Grand Prize.</i>",
+    "volumes": [
+      {
+      "number": "Volume 2",
+      "epub": "1mT976t5MiPQ7_83FQLlNGqtGmHbsalbr",
+      "pdf": ""
+    },
+      {
+      "number": "Volume 1",
+      "epub": "11MaaINiwj6HJxWu0dOnQws6htJ4ChrdT",
+      "pdf": "1Qc8UBrs2YknkucNYy4oNBpROaPjf3blI"
+    }
+    ]
+  },
+  {
+    "id": "173934",
+    "title": "Ascendance of a Bookworm: Hannelore’s Fifth Year at the Royal Academy",
+    "cover": "https://static.wikia.nocookie.net/ascendance-of-a-bookworm/images/c/ce/H5Y1-CoverEN.png/revision/latest?cb=20250118065005",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Fantasy", "Slice of Life"],
+    "anilist": {
+      "rating": "94",
+      "popularity": "295"
+    },
+    "synopsis": "Half a year has passed since Yurgenschmidt inaugurated its first underage aub. Hannelore, now an archduke candidate for the country’s top-ranked duchy, is in the midst of a crisis. Despite her natural indecisiveness, she finds herself pressed to choose from a growing list of marriage candidates. Her father suggests Kenntrips and Rasantark—her childhood friends—but then her half-brother Raufereg throws his hat into the ring. And what about Wilfried, the apple of her eye? Convinced that Liebeskhilfe the Goddess of Binding is toying with the threads of her fate, Hannelore turns to her dear friend Rozemyne for guidance. In the debut volume of this battle fantasy, the divine avatar fights to settle an engagement!",
+    "volumes": [
+      {
+        "number": "Volume 1 [PREPUB]",
+        "epub": "1mguX4ul4iZqVRfcZp2ewUnhkFvHcnht1",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Minor Myths and Legends",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/03/Is-It-Wrong-to-Try-to-Pick-Up-Girls-in-a-Dungeon.-Minor-Myths-and-Legends-v01.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy"],
+    "anilist": {
+      "rating": "0",
+      "popularity": "0"
+    },
+    "synopsis": "The city of Orario is a vast metropolis with an underground labyrinth known as the Dungeon. There, adventurers put everything on the line to keep the monsters at bay and explore the unknown! This is where heroes are made and legends are born. Smaller stories can also be found here, and a surprising number of them revolve around a young boy who came to the Labyrinth City chasing his dreams until he met a certain goddess...",
+    "volumes": [
+      {
+        "number": "Volume 1",
+        "epub": "1mfbPtC6y8GcYz9H_CaIepmQFq1z5LRIn",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "113784",
+    "title": "The NPCs in this Village Sim Game Must Be Real!",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/03/the-npc-volume-3.jpg?w=500&ssl=1",
+    "status": "Completed",
+    "type": "Light Novel",
+    "translation": "Seven Seas Entertainment",
+    "genres": ["Adventure", "Fantasy", "Mystery", "Slice of Life"],
+    "anilist": {
+      "rating": "73",
+      "popularity": "399"
+    },
+    "synopsis": "Yoshio is 30 years old, with no job and a shut-in lifestyle. His mundane days and nights are suddenly interrupted when he receives a copy of “The Village of Fate,” an experimental game with graphics like nothing he’s ever seen before. In the game, he takes on the role of a guardian deity who watches over the people of a new village…but he finds that the game characters are so intelligent, reactive, and human that he starts wondering if they could be real people somehow. Through his connection to their strangely vivid lives, Yoshio begins to discover the brightness that had been missing from his own existence.",
+    "volumes": [
+      {
+        "number": "Volume 3",
+        "epub": "1Dy_9b9CEBjOBZmvKWwDe-GHQs90lE8iA",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1DvVBZVPkvIBXH4HqfPTdYhYau0JdHu0f",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1Dq_fgFlDiD19Az-nxT3Y_AME5uypuVmH",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "94973",
+    "title": "The Mythical Hero's Otherworld Chronicles",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/03/the-mythical-hero-s-otherworld-chronicles-volume-10.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Action", "Comedy", "Drama", "Ecchi", "Fantasy", "Romance"],
+    "anilist": {
+      "rating": "74",
+      "popularity": "356"
+    },
+    "synopsis": "Unexpectedly summoned to the world of Aletia from modern-day Japan, Hiro Oguro soon discovers this isn’t his first visit. As the legendary Hero King Mars, he once ruled battlefields, conquered nations, and founded the continent-spanning Grantzian Empire before giving up all memories of his hard-won glory to return home to his old life. Now he’s back, a thousand years after he left, and his legacy is in peril. The Grantzian Empire creaks under a warmonger’s rule while ambitious royals squabble for power and foreign nations sharpen their swords. After a chance encounter with Princess Elizabeth von Grantz draws him into a cutthroat struggle for imperial succession, Hiro must don the mantle of the War God once more. Can he live up to his own legend now that Aletia needs him again?",
+    "volumes": [
+      {
+        "number": "Volume 10",
+        "epub": "1EAf1tbkCbMF020XmUGz1R3UmcvOSX9Zp",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1EB9iq9pko_w6Ll4Vd7JAfe7UEHZmcZR7",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1EKr2yZQ4LZ0RI4BC8L0t5EgHpwjmyLTc",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1EIHNTls04FFVnRAh3otszoI6dUc5MuPY",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1EPnyFI7kHuDzD8hDCLMLP-BS5YqTV1fu",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1E75qyEQc9Ve3dt-SAMQzqrEIXjPXzHiz",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1E5iiunoeK3_pgeMZufvkluKcZN7c1D1W",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1E4BQRySu6TBi1-ht75lAaNX8bKBHOLi_",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1E1daEbhGbqnsYSo6DDMoSq7vmdpYV1pL",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1E1LmKvE_GKX57_VGGkQrDKwrIJu9Nrk0",
+        "pdf": ""
+      }
+    ]
+  },
+  {
     "id": "86458",
     "title": "DUNGEON DIVE: Aim for the Deepest Level",
     "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/12/DUNGEON-VOL-9.jpg?w=500&ssl=1",
@@ -12890,26 +13055,6 @@
       "number": "Volume 1",
       "epub": "1BHc2wlnW8c39tSYIxyhuKcV7julltkvJ",
       "pdf": "1L-MwaIva2LzfB5xufRtpFJDZzMvEEq0Q"
-    }]
-  },
-  {
-    "id": "156455",
-    "title": "The World Bows Down before My Flames",
-    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/10/dark-lord-castle-boom.jpg?w=500&ssl=1",
-    "status": "Releasing",
-    "type": "Light Novel",
-    "translation": "Yen Press",
-    "genres": ["Adventure", "Comedy", "Fantasy"],
-    "anilist": {
-      "rating": "66",
-      "popularity": "174"
-    },
-    "synopsis": "Homura wants to set something, anything, on fire. She may finally get her chance when she's summoned to another world that's desperate enough to ask her for help! Along with a group of similarly offbeat high school girls who all have their own powers, Homura incinerates evildoers and reins in the chaos caused by the Demon Lord's resurrection. What's going to happen when she inevitably gets a little carried away? Will her flames of justice burn down the whole world?<br><br><i>Note: Winner of the 27th Sneaker Awards Grand Prize.</i>",
-    "volumes": [
-    {
-      "number": "Volume 1",
-      "epub": "11MaaINiwj6HJxWu0dOnQws6htJ4ChrdT",
-      "pdf": "1Qc8UBrs2YknkucNYy4oNBpROaPjf3blI"
     }]
   },
   {
