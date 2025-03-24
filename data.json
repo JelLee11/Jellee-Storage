@@ -1,5 +1,393 @@
 [
   {
+    "id": "99102",
+    "title": "Didn't I Say to Make My Abilities Average in the Next Life?!",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/03/Watashi-Nouryoku-wa-Heikinchi-de-tte-Itta-yo-ne-vol-19.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Seven Seas Entertainment",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy"],
+    "anilist": {
+      "rating": "75",
+      "popularity": "1790"
+    },
+    "synopsis": "When she turns ten years old, Adele von Ascham is hit with a horrible headache–and memories of her previous life as an eighteen-year-old Japanese girl named Kurihara Misato. That life changed abruptly, however, when Misato died trying to aid a little girl and met god. During that meeting, she made an odd request and asked for average abilities in her next life. But few things–especially wishes–ever go quite as planned.",
+    "volumes": [
+    {
+      "number": "Volume 19",
+      "epub": "1RaawexSnt_NaLRoW6H3C-UK0wPZKmQMT",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 18",
+      "epub": "1mBkUwm5fVEMdkHtW_JFcUvPET2oTV12-",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 17",
+      "epub": "1dWQVDMGhoRqI2CVAY_OAEd5zuwCVCmVR",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 16",
+      "epub": "1HGEswHBgjdLllYYwYAbnoAWruUQIsZQR",
+      "pdf": "1HFWPLN-a9mUn485ezju22xiRKKXJNaVF"
+    },
+    {
+      "number": "Volume 15",
+      "epub": "1HFK3MTH2wDfkCe_Ffz4i13ye3FPenC9s",
+      "pdf": "1HDMNt-6_FM0v2XBx8yW-7AfKJxDr3a01"
+    },
+    {
+      "number": "Volume 14",
+      "epub": "1H7sdwHE4tfrIsQriL338JAM8HIHor6rO",
+      "pdf": "1H6aCFtReQRXVhuVE9E2kSVKGulgVj6iC"
+    },
+    {
+      "number": "Volume 13",
+      "epub": "1H5gpHNwQu3_muK8mNO6ZAXHtweowxuxl",
+      "pdf": "1H3DKhnNB44RtkMyAtEAhOaevY-gS_4JU"
+    },
+    {
+      "number": "Volume 12",
+      "epub": "1H2f3dfqF3YxNbkcylyEj6um5VVFmKusN",
+      "pdf": "1H1cF-yWiAutMWMbifHci3FZezxKsgW8D"
+    },
+    {
+      "number": "Volume 11",
+      "epub": "1H0aumsWUVspIjIaZf0J6DYAuFqvWwMem",
+      "pdf": "1H-ubCyhaOc5YreqBnrWpfnQCZ_ZEIqLh"
+    },
+    {
+      "number": "Volume 10",
+      "epub": "1GvXLSW6JUu967eFe91EmtTbWKsxaVwNK",
+      "pdf": "1GtlF72EGiMvcTZKkg4H-bbNQmEMCiLTM"
+    },
+    {
+      "number": "Volume 9",
+      "epub": "1GivYf2vnXOrujGryHviKELqhb4NxRD6M",
+      "pdf": "1Ge3RR-EgH9GR1uGPtUpkMsKFFpa2PYPr"
+    },
+    {
+      "number": "Volume 8",
+      "epub": "1GVNMKeE_iciOiMaDVe5rehCypaz659BD",
+      "pdf": "1GSB5US6MpmCFAvb2VaoDzLKLu0WP_zrT"
+    },
+    {
+      "number": "Volume 7",
+      "epub": "1GOEFTKV3V0Aa2NyZyfl9jboIx_uv5f7r",
+      "pdf": "1GNzKaWxhbUK1Ot4Ii3eO-8BvB2pj30-7"
+    },
+    {
+      "number": "Volume 6",
+      "epub": "1G6gCx5gbTRCA-E20xkIfT_d4WCDdThx4",
+      "pdf": "1G5od6oSdbAgQBcgxYZqM_uAvi2oHfG6B"
+    },
+    {
+      "number": "Volume 5",
+      "epub": "1G3_vX6Rl1h8EcY3UTsduvwwWQa_oyDDv",
+      "pdf": "1FwMCk6rrJ5IR-yjOL3gkyHyt-2vrtHWz"
+    },
+    {
+      "number": "Volume 4",
+      "epub": "1FrxHSvYff79vEcmCNEmqzfqjfzjHrtkj",
+      "pdf": "1FqeL2l7H7dOOsWLDgGGHkThps5BUsYer"
+    },
+    {
+      "number": "Volume 3",
+      "epub": "1FoYMfH_yM_GbkMmf56BfvfasPvaQOZ5g",
+      "pdf": "1FnOmxiauT5mkSft-c6hPSaM5lwBQ17aZ"
+    },
+    {
+      "number": "Volume 2",
+      "epub": "1FkSWotmfrshtaSOR_RNxyWbukZCQ2BtJ",
+      "pdf": "1FfpgmTwLUrg9izNsuCvFS3hW0xtg9Fxm"
+    },
+    {
+      "number": "Volume 1",
+      "epub": "1FchDoPGx2VcdUgGSlGfElm1Lugu1I0GS",
+      "pdf": "1FfSTloGX_ir8AcZNDcyk0DOrDY2BEr5I"
+    }]
+  },
+  {
+    "id": "86345",
+    "title": "Death March to the Parallel World Rhapsody",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/03/Death-March-to-the-Parallel-World-Rhapsody-Vol.-23.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Adventure", "Comedy", "Fantasy", "Romance"],
+    "anilist": {
+      "rating": "71",
+      "popularity": "2795"
+    },
+    "synopsis": "Programmer Ichirou Suzuki is transported to another world. In a foreign land, he finds that life is an adventure that's sometimes fun, sometimes serious, and full of girls!",
+    "volumes": [
+    {
+      "number": "Volume 23",
+      "epub": "1qyAodJImiANchMiCVETNLSrsaxpkfNoQ",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 22",
+      "epub": "1GQ5NRYopEa4WVC05Ot8hJU1Y8BMxDGOH",
+      "pdf": "1IU0gVwNHS-BozEJsA_oCH8uDUMjDyzWR"
+    },
+    {
+      "number": "Volume 21",
+      "epub": "1OVvJ4UE3uyignr45_XRYA5qzpN7IycbU",
+      "pdf": "1IR9tsBPyLRduK-8h_E954iSFPJWlVVgw"
+    },
+    {
+      "number": "Volume 20",
+      "epub": "1ILRFrm8my1pGkgA6ckGpR93UNHbJIfF9",
+      "pdf": "1NtX1CxIU_inwB6NHM5ZO59fEWNXaBj3y"
+    },
+    {
+      "number": "Volume 19",
+      "epub": "1Hbnrx8HEXO-gacHTHNxlpl6pVS0TKwx4",
+      "pdf": "1I3VP2TmZuIT_c5872pVW7LM1fuCKGZbn"
+    },
+    {
+      "number": "Volume 18",
+      "epub": "1HLfqbIJXOT9b4Ldfb69tys3t0YXECT6I",
+      "pdf": "1HQrB-mTkWXPT4jgsMjGyzzXrxaQkn1Kj"
+    },
+    {
+      "number": "Volume 17",
+      "epub": "1NfOjde8We65z1t5Doac3k7wDFeN67Qlp",
+      "pdf": "1HFwYaWQVAgGP6FfEluuJwspbNIl6vQhh"
+    },
+    {
+      "number": "Volume 16",
+      "epub": "1Nf5xE9nEFR01RfYJO-WPESdwHmYz6FWe",
+      "pdf": "1HANW7-v2cvQXjpteW0tgQIfOEBCNt3Zv"
+    },
+    {
+      "number": "Volume 15",
+      "epub": "1NeeLnUXJKtZ-dqcbZTokdJRoMnM2HROj",
+      "pdf": "1H2RmCjGGCtbp6f8GVShV-u5IrcTAYolr"
+    },
+    {
+      "number": "Volume 14",
+      "epub": "1GzClSTE8zHG1EGGtNL3-mEcXftbsSqLa",
+      "pdf": "1H-8Y9tphhoYnH-4NFNfwFbY01hmF6fWy"
+    },
+    {
+      "number": "Volume 13",
+      "epub": "1OV5sj0T6E8-t01gLm6JJu5LN97PKVvM2",
+      "pdf": "1Nt-koF_93sP1bqJPz3wxroF0fZ4jtd-b"
+    },
+    {
+      "number": "Volume 12",
+      "epub": "1GuUTO1-3yt1NEwb44T0xO8sLrPUjGNal",
+      "pdf": "1Gz24YQRmwxps7c8AcZf9X6a42dDZLHA6"
+    },
+    {
+      "number": "Volume 11",
+      "epub": "1NVJsEp2ahAIv4xkSIsKo8bxvUlKFHuJH",
+      "pdf": "1GfMNjXeZiDXywpfUNyUravF6Eay7B0K0"
+    },
+    {
+      "number": "Volume 10",
+      "epub": "1Nc6qcSLH0-LEiWWdDOItJQhzTrwLCv0V",
+      "pdf": "1Gc9GxwWN-Y0IsSjAyfMmtqcVPkQDMCoW"
+    },
+    {
+      "number": "Volume 9",
+      "epub": "1JCJMMR37yx2Hi-9NAk46s6fzkumfFppM",
+      "pdf": "1JDHmrNkw7R72KaK0AXHi9N_M_Ctqwos6"
+    },
+    {
+      "number": "Volume 8",
+      "epub": "1J8oRWHDEZpm-BrzYziEuY2Aq8gnaZNEJ",
+      "pdf": "1JANM13RH83RZ6lVJc9RG--Hk16DHM68v"
+    },
+    {
+      "number": "Volume 7",
+      "epub": "1J2aYohdgH1DCQ49GExb-VYm-P6R8a6lP",
+      "pdf": "1JANM13RH83RZ6lVJc9RG--Hk16DHM68v"
+    },
+    {
+      "number": "Volume 6",
+      "epub": "1IyQe8bts3VlH34MumcUaCFFc3NFt-cT-",
+      "pdf": "1J2Y9S8F-Ugj91Mfkv1gzYByhjWrxQ9eE"
+    },
+    {
+      "number": "Volume 5",
+      "epub": "1IqBfp3T1miGV_vGEiUTmOd1FyMGRszfF",
+      "pdf": "1NqxpMW6n0b8ofL_6v1Fix-VJu47JH8nH"
+    },
+    {
+      "number": "Volume 4",
+      "epub": "1Iiro8SCnhWNqUcZgZj7gLCtiJ8bSxn5i",
+      "pdf": "1ImIRA0zg_e9Jrpg0vYbIAbXLv9x4ltSb"
+    },
+    {
+      "number": "Volume 3",
+      "epub": "1IXeeCNVzqx2MBIXHsgS6sbDzCVTv4pJi",
+      "pdf": "1I_rGBaiXkdgIpXu6RQigy7attzyMfZ7M"
+    },
+    {
+      "number": "Volume 2",
+      "epub": "1IImUKXu6snwlw9qk4qgUFhahfcHEaTV9",
+      "pdf": "1IL2eW2sIN__zNevi8khR3_6nUdXpQsL-"
+    },
+    {
+      "number": "Volume 1",
+      "epub": "1GVs7qA3MEJcwxEDdqFtukivXPyNO_oup",
+      "pdf": "1No2q0YiBWov4rFCU2R0ynT7Z-xI7AqwC"
+    }]
+  },
+  {
+    "id": "133016",
+    "title": "The Hollow Regalia",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/02/Hollow-Regalia-Volume-5.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Fantasy"],
+    "anilist": {
+      "rating": "62",
+      "popularity": "212"
+    },
+    "synopsis": "She's a dragon. He's a dragon slayer. And in this world, the Japanese have been wiped out! That day, giant dragons appeared in the sky above Tokyo, and the collapse of the nation of Japan began. With the arrival of monsters called Moju, Japanese people went extinct, and the nation was transformed into a lawless land occupied by armed forces and criminal syndicates. Yahiro is one of the few remaining. Having gained immortality from dragon's blood, he spends each lonely day as a \"salvager,\" transporting artwork out of the uninhabited ruins of Tokyo…until one day, a pair of twin art dealers request that he salvage a particularly powerful and mysterious item.",
+    "volumes": [
+    {
+      "number": "Volume 5",
+      "epub": "1vmG8y_z2OKnixgzvO4mtPzTSAGbYfcAT",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 4",
+      "epub": "1qkB9DqyRoZm79eYmlNerHP9Tgo6kXmJm",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 3",
+      "epub": "1qgr2JU6ejkURaGO6lz3OAES91eoqDDkb",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 2",
+      "epub": "1qJY7MHJys1q8TyFIrGwOl_24NeUpq3qz",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 1",
+      "epub": "1qDnFcLMRFlMhK3lRXH6FoxFCtNCKgUZv",
+      "pdf": ""
+    }]
+  },
+  {
+    "id": "153616",
+    "title": "Stuck in a Time Loop: When All Else Fails, Be a Villainess",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/05/Stuck-in-a-Time-Loop-When-All-Else-Fails-Be-a-Villainess-Volume-3.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Action", "Fantasy"],
+    "anilist": {
+      "rating": "69",
+      "popularity": "136"
+    },
+    "synopsis": "Selene Vixent has died nine times. In every life, she’s been betrayed by her fiancé, abused by her noble family, and laid low by an untimely end all because she was unable to awaken the power of Sun, a so-called protective gift passed down in her family. Yet Selene is determined to escape this cursed time loop and, after her ninth demise, abandons any further attempts to be a good girl. She awakens to the power of Shadow—seen as an ominous portent of misfortune—and fully embraces her new life as a villainess. But Selene’s dark path is about to take another strange turn when Dier Veldt, the former crown prince, reveals that he knows all about her time loop. He even offers his help, but under one condition: she must kill him in exchange. With her newfound villainy, can Selene break free of this endless time loop once and for all?",
+    "volumes": [
+      {
+        "number": "Volume 3",
+        "epub": "1IfLXxPeW9EvYtF75xfISBgUgOzrToBm_",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1IirH-iVdzHt0lcCDp2tke9gdL3ZUe-rS",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1IsAYfmiFeqA4Iaq3r9q5pGVPunS4d4ut",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "131049",
+    "title": "I Parry Everything: What Do You Mean I’m the Strongest? I’m Not Even an Adventurer Yet!",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/03/i-parry-everything-volume-8.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "anilist": {
+      "rating": "65",
+      "popularity": "433"
+    },
+    "synopsis": "The Kingdom of Clays faces a dire crisis: an assassination attempt has just been made on its own Princess Lynneburg, and its neighboring countries eye the aftermath like starving vultures, plotting the Kingdom’s downfall. The ensuing conflict will shape the face of the continent for centuries to come...but Noor doesn’t have a clue about any of that! Having freshly arrived at the royal capital after over a decade of rigorous, isolated training at his mountain home, he’s dead set on achieving his childhood dream of becoming an adventurer, even if the only skills he possesses are useless ones. Sure, he can [Parry] thousands of swords in the span of a single breath, but everybody knows you need more than that if you want to be an adventurer! Our hero’s road to making his dream come true will be long(?) and arduous(?)—but if there’s one thing Noor’s not afraid of, it’s some good ol’ fashioned hard work!",
+    "volumes": [
+      {
+        "number": "Volume 8",
+        "epub": "1IHdt5G8apuhPTZL393Cid-4KxQ7Jf5C7",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1IBigFui0sqacF1LehkgRyDkAQAb0E5z7",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1IBVNX4asTFZeHEaLjvWVAdJlMhZtfdEy",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1I7lFJUqyFuq8H_FDBzLr59UZsV3-BNwr",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1I6gnDcZa3hI2Bv5nHTYXZcHuUe3uWqVm",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1I6ZQfpXzgIdqqP4QNnwKHCWymrwlyv-r",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1I3S4dmK0QXYBWYBRxak_PvvBokt5CTX0",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1I4jjzTRYvMB800mvhiRX-ncAZi0hTINN",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "159972",
+    "title": "Did You Think My Yuri Was Just for Show?",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/03/Did-You-Think-My-Yuri-Was-Just-for-Show.jpg?w=500&ssl=1",
+    "status": "Completed",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Romance"],
+    "anilist": {
+      "rating": "67",
+      "popularity": "247"
+    },
+    "synopsis": "Suzune Senmiya, a young voice actress, has been struggling for six months to get over the retirement of her favorite idol, Karin Kanezuki. One day, Karin shows up as a new voice actress in Suzune's agency! While Suzune tries to play it cool and keep her distance, Karin aggressively closes the gap between them. And as Suzune starts to see unexpected sides of Karin, she begins to perceive her not just as an idol but as a woman.",
+    "volumes": [
+      {
+        "number": "Volume 1",
+        "epub": "1HoUl_3cXZ4TTjsRi-SdjZb4ZUJT9Aw9_",
+        "pdf": ""
+      }
+    ]
+  },
+  {
     "id": "156455",
     "title": "The World Bows Down before My Flames",
     "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/03/The-World-Bows-Down-Before-My-Flames-v02-The-Dark-Lords-Army-Goes-Chop.jpg?w=500&ssl=1",
@@ -6243,101 +6631,6 @@
     }]
   },
   {
-    "id": "99102",
-    "title": "Didn't I Say to Make My Abilities Average in the Next Life?!",
-    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/07/Didnt-I-Say-to-Make-My-Abilities-Average-in-the-Next-Life-v16.jpg?w=500&ssl=1",
-    "status": "Releasing",
-    "type": "Light Novel",
-    "translation": "Seven Seas Entertainment",
-    "genres": ["Action", "Adventure", "Comedy", "Fantasy"],
-    "anilist": {
-      "rating": "75",
-      "popularity": "1790"
-    },
-    "synopsis": "When she turns ten years old, Adele von Ascham is hit with a horrible headache–and memories of her previous life as an eighteen-year-old Japanese girl named Kurihara Misato. That life changed abruptly, however, when Misato died trying to aid a little girl and met god. During that meeting, she made an odd request and asked for average abilities in her next life. But few things–especially wishes–ever go quite as planned.",
-    "volumes": [
-    {
-      "number": "Volume 16",
-      "epub": "1HGEswHBgjdLllYYwYAbnoAWruUQIsZQR",
-      "pdf": "1HFWPLN-a9mUn485ezju22xiRKKXJNaVF"
-    },
-    {
-      "number": "Volume 15",
-      "epub": "1HFK3MTH2wDfkCe_Ffz4i13ye3FPenC9s",
-      "pdf": "1HDMNt-6_FM0v2XBx8yW-7AfKJxDr3a01"
-    },
-    {
-      "number": "Volume 14",
-      "epub": "1H7sdwHE4tfrIsQriL338JAM8HIHor6rO",
-      "pdf": "1H6aCFtReQRXVhuVE9E2kSVKGulgVj6iC"
-    },
-    {
-      "number": "Volume 13",
-      "epub": "1H5gpHNwQu3_muK8mNO6ZAXHtweowxuxl",
-      "pdf": "1H3DKhnNB44RtkMyAtEAhOaevY-gS_4JU"
-    },
-    {
-      "number": "Volume 12",
-      "epub": "1H2f3dfqF3YxNbkcylyEj6um5VVFmKusN",
-      "pdf": "1H1cF-yWiAutMWMbifHci3FZezxKsgW8D"
-    },
-    {
-      "number": "Volume 11",
-      "epub": "1H0aumsWUVspIjIaZf0J6DYAuFqvWwMem",
-      "pdf": "1H-ubCyhaOc5YreqBnrWpfnQCZ_ZEIqLh"
-    },
-    {
-      "number": "Volume 10",
-      "epub": "1GvXLSW6JUu967eFe91EmtTbWKsxaVwNK",
-      "pdf": "1GtlF72EGiMvcTZKkg4H-bbNQmEMCiLTM"
-    },
-    {
-      "number": "Volume 9",
-      "epub": "1GivYf2vnXOrujGryHviKELqhb4NxRD6M",
-      "pdf": "1Ge3RR-EgH9GR1uGPtUpkMsKFFpa2PYPr"
-    },
-    {
-      "number": "Volume 8",
-      "epub": "1GVNMKeE_iciOiMaDVe5rehCypaz659BD",
-      "pdf": "1GSB5US6MpmCFAvb2VaoDzLKLu0WP_zrT"
-    },
-    {
-      "number": "Volume 7",
-      "epub": "1GOEFTKV3V0Aa2NyZyfl9jboIx_uv5f7r",
-      "pdf": "1GNzKaWxhbUK1Ot4Ii3eO-8BvB2pj30-7"
-    },
-    {
-      "number": "Volume 6",
-      "epub": "1G6gCx5gbTRCA-E20xkIfT_d4WCDdThx4",
-      "pdf": "1G5od6oSdbAgQBcgxYZqM_uAvi2oHfG6B"
-    },
-    {
-      "number": "Volume 5",
-      "epub": "1G3_vX6Rl1h8EcY3UTsduvwwWQa_oyDDv",
-      "pdf": "1FwMCk6rrJ5IR-yjOL3gkyHyt-2vrtHWz"
-    },
-    {
-      "number": "Volume 4",
-      "epub": "1FrxHSvYff79vEcmCNEmqzfqjfzjHrtkj",
-      "pdf": "1FqeL2l7H7dOOsWLDgGGHkThps5BUsYer"
-    },
-    {
-      "number": "Volume 3",
-      "epub": "1FoYMfH_yM_GbkMmf56BfvfasPvaQOZ5g",
-      "pdf": "1FnOmxiauT5mkSft-c6hPSaM5lwBQ17aZ"
-    },
-    {
-      "number": "Volume 2",
-      "epub": "1FkSWotmfrshtaSOR_RNxyWbukZCQ2BtJ",
-      "pdf": "1FfpgmTwLUrg9izNsuCvFS3hW0xtg9Fxm"
-    },
-    {
-      "number": "Volume 1",
-      "epub": "1FchDoPGx2VcdUgGSlGfElm1Lugu1I0GS",
-      "pdf": "1FfSTloGX_ir8AcZNDcyk0DOrDY2BEr5I"
-    }]
-  },
-  {
     "id": "121795",
     "title": "Chitose Is in the Ramune Bottle",
     "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/09/Chitose-Is-in-the-Ramune-Bottle-v06.5.jpg?w=500&ssl=1",
@@ -7630,131 +7923,6 @@
       "number": "Volume 1",
       "epub": "1JXPnnnLDsY86wumKM75lnBOcU8Uu5V9C",
       "pdf": "1JULgpYkDGXwAZhE6cRpZWduTdX-qT3M_"
-    }]
-  },
-  {
-    "id": "86345",
-    "title": "Death March to the Parallel World Rhapsody",
-    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/10/Death-March-to-the-Parallel-World-Rhapsody-Volume-22.jpg?w=500&ssl=1",
-    "status": "Releasing",
-    "type": "Light Novel",
-    "translation": "Yen Press",
-    "genres": ["Adventure", "Comedy", "Fantasy", "Romance"],
-    "anilist": {
-      "rating": "71",
-      "popularity": "2795"
-    },
-    "synopsis": "Programmer Ichirou Suzuki is transported to another world. In a foreign land, he finds that life is an adventure that's sometimes fun, sometimes serious, and full of girls!",
-    "volumes": [
-    {
-      "number": "Volume 22",
-      "epub": "1GQ5NRYopEa4WVC05Ot8hJU1Y8BMxDGOH",
-      "pdf": "1IU0gVwNHS-BozEJsA_oCH8uDUMjDyzWR"
-    },
-    {
-      "number": "Volume 21",
-      "epub": "1OVvJ4UE3uyignr45_XRYA5qzpN7IycbU",
-      "pdf": "1IR9tsBPyLRduK-8h_E954iSFPJWlVVgw"
-    },
-    {
-      "number": "Volume 20",
-      "epub": "1ILRFrm8my1pGkgA6ckGpR93UNHbJIfF9",
-      "pdf": "1NtX1CxIU_inwB6NHM5ZO59fEWNXaBj3y"
-    },
-    {
-      "number": "Volume 19",
-      "epub": "1Hbnrx8HEXO-gacHTHNxlpl6pVS0TKwx4",
-      "pdf": "1I3VP2TmZuIT_c5872pVW7LM1fuCKGZbn"
-    },
-    {
-      "number": "Volume 18",
-      "epub": "1HLfqbIJXOT9b4Ldfb69tys3t0YXECT6I",
-      "pdf": "1HQrB-mTkWXPT4jgsMjGyzzXrxaQkn1Kj"
-    },
-    {
-      "number": "Volume 17",
-      "epub": "1NfOjde8We65z1t5Doac3k7wDFeN67Qlp",
-      "pdf": "1HFwYaWQVAgGP6FfEluuJwspbNIl6vQhh"
-    },
-    {
-      "number": "Volume 16",
-      "epub": "1Nf5xE9nEFR01RfYJO-WPESdwHmYz6FWe",
-      "pdf": "1HANW7-v2cvQXjpteW0tgQIfOEBCNt3Zv"
-    },
-    {
-      "number": "Volume 15",
-      "epub": "1NeeLnUXJKtZ-dqcbZTokdJRoMnM2HROj",
-      "pdf": "1H2RmCjGGCtbp6f8GVShV-u5IrcTAYolr"
-    },
-    {
-      "number": "Volume 14",
-      "epub": "1GzClSTE8zHG1EGGtNL3-mEcXftbsSqLa",
-      "pdf": "1H-8Y9tphhoYnH-4NFNfwFbY01hmF6fWy"
-    },
-    {
-      "number": "Volume 13",
-      "epub": "1OV5sj0T6E8-t01gLm6JJu5LN97PKVvM2",
-      "pdf": "1Nt-koF_93sP1bqJPz3wxroF0fZ4jtd-b"
-    },
-    {
-      "number": "Volume 12",
-      "epub": "1GuUTO1-3yt1NEwb44T0xO8sLrPUjGNal",
-      "pdf": "1Gz24YQRmwxps7c8AcZf9X6a42dDZLHA6"
-    },
-    {
-      "number": "Volume 11",
-      "epub": "1NVJsEp2ahAIv4xkSIsKo8bxvUlKFHuJH",
-      "pdf": "1GfMNjXeZiDXywpfUNyUravF6Eay7B0K0"
-    },
-    {
-      "number": "Volume 10",
-      "epub": "1Nc6qcSLH0-LEiWWdDOItJQhzTrwLCv0V",
-      "pdf": "1Gc9GxwWN-Y0IsSjAyfMmtqcVPkQDMCoW"
-    },
-    {
-      "number": "Volume 9",
-      "epub": "1JCJMMR37yx2Hi-9NAk46s6fzkumfFppM",
-      "pdf": "1JDHmrNkw7R72KaK0AXHi9N_M_Ctqwos6"
-    },
-    {
-      "number": "Volume 8",
-      "epub": "1J8oRWHDEZpm-BrzYziEuY2Aq8gnaZNEJ",
-      "pdf": "1JANM13RH83RZ6lVJc9RG--Hk16DHM68v"
-    },
-    {
-      "number": "Volume 7",
-      "epub": "1J2aYohdgH1DCQ49GExb-VYm-P6R8a6lP",
-      "pdf": "1JANM13RH83RZ6lVJc9RG--Hk16DHM68v"
-    },
-    {
-      "number": "Volume 6",
-      "epub": "1IyQe8bts3VlH34MumcUaCFFc3NFt-cT-",
-      "pdf": "1J2Y9S8F-Ugj91Mfkv1gzYByhjWrxQ9eE"
-    },
-    {
-      "number": "Volume 5",
-      "epub": "1IqBfp3T1miGV_vGEiUTmOd1FyMGRszfF",
-      "pdf": "1NqxpMW6n0b8ofL_6v1Fix-VJu47JH8nH"
-    },
-    {
-      "number": "Volume 4",
-      "epub": "1Iiro8SCnhWNqUcZgZj7gLCtiJ8bSxn5i",
-      "pdf": "1ImIRA0zg_e9Jrpg0vYbIAbXLv9x4ltSb"
-    },
-    {
-      "number": "Volume 3",
-      "epub": "1IXeeCNVzqx2MBIXHsgS6sbDzCVTv4pJi",
-      "pdf": "1I_rGBaiXkdgIpXu6RQigy7attzyMfZ7M"
-    },
-    {
-      "number": "Volume 2",
-      "epub": "1IImUKXu6snwlw9qk4qgUFhahfcHEaTV9",
-      "pdf": "1IL2eW2sIN__zNevi8khR3_6nUdXpQsL-"
-    },
-    {
-      "number": "Volume 1",
-      "epub": "1GVs7qA3MEJcwxEDdqFtukivXPyNO_oup",
-      "pdf": "1No2q0YiBWov4rFCU2R0ynT7Z-xI7AqwC"
     }]
   },
   {
@@ -10119,41 +10287,6 @@
     {
       "number": "Volume 1",
       "epub": "1qaUxdbKxmrM9mAkoeiAqT78d4-Gyhva-",
-      "pdf": ""
-    }]
-  },
-  {
-    "id": "133016",
-    "title": "The Hollow Regalia",
-    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/08/HOLLOW-REGALIA-VOL-4.jpg?w=500&ssl=1",
-    "status": "Releasing",
-    "type": "Light Novel",
-    "translation": "Yen Press",
-    "genres": ["Action", "Fantasy"],
-    "anilist": {
-      "rating": "62",
-      "popularity": "212"
-    },
-    "synopsis": "She's a dragon. He's a dragon slayer. And in this world, the Japanese have been wiped out! That day, giant dragons appeared in the sky above Tokyo, and the collapse of the nation of Japan began. With the arrival of monsters called Moju, Japanese people went extinct, and the nation was transformed into a lawless land occupied by armed forces and criminal syndicates. Yahiro is one of the few remaining. Having gained immortality from dragon's blood, he spends each lonely day as a \"salvager,\" transporting artwork out of the uninhabited ruins of Tokyo…until one day, a pair of twin art dealers request that he salvage a particularly powerful and mysterious item.",
-    "volumes": [
-    {
-      "number": "Volume 4",
-      "epub": "1qkB9DqyRoZm79eYmlNerHP9Tgo6kXmJm",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 3",
-      "epub": "1qgr2JU6ejkURaGO6lz3OAES91eoqDDkb",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 2",
-      "epub": "1qJY7MHJys1q8TyFIrGwOl_24NeUpq3qz",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 1",
-      "epub": "1qDnFcLMRFlMhK3lRXH6FoxFCtNCKgUZv",
       "pdf": ""
     }]
   },
