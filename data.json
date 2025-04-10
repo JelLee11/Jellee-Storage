@@ -1,129 +1,314 @@
 [
-{
-    "id": "97929",
-    "title": "Kuma Kuma Kuma Bear",
-    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/04/Kuma-Kuma-Kuma-Bear-Volume-20.5.jpg?w=500&ssl=1",
+  {
+    "id": "100068",
+    "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/03/Ive-Been-Killing-Slimes-for-300-Years-and-Maxed-Out-My-Level-Vol.-16.jpg?w=500&ssl=1",
     "status": "Releasing",
     "type": "Light Novel",
-    "translation": "Seven Seas Entertainment",
-    "genres": ["Adventure", "Comedy", "Fantasy", "Slice of Life"],
+    "translation": "Yen Press",
+    "genres": ["Adventure", "Fantasy", "Slice of Life"],
     "anilist": {
-      "rating": "78",
-      "popularity": "1899"
+      "rating": "76",
+      "popularity": "3009"
     },
-    "synopsis": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO game to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has!",
+    "synopsis": "After living a painful life as an office worker, Azusa ended her short life by dying from overworking. So when she found herself reincarnated as an undying, unaging witch in a new world, she vows to spend her days stress free and as pleasantly as possible. She ekes out a living by hunting down the easiest targets - the slimes! But after centuries of doing this simple job, she's ended up with insane powers...how will she maintain her low key life now?!",
     "volumes": [
     {
-      "number": "Volume 20.5",
-      "epub": "1yYn_W3Y0KFlVAMkbaeI1jcupibn0kEpy",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 20",
-      "epub": "1yKLa6Y7XbyTyO-yOeQpfypjntIwYUckb",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 19",
-      "epub": "1yHgzbFj5wnhtsB4Q66gaejGPKxRtsMlG",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 18",
-      "epub": "142lz2CuRcqWSLkNoWKGD3x9FKZIKpEwP",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 17",
-      "epub": "1421Upda1I_Sw0pEKrzAVYPR1qYZwDFlk",
-      "pdf": ""
-    },
-    {
       "number": "Volume 16",
-      "epub": "13GTzysP4jkJaMFF1NOzOvBJU5YdYu-YB",
+      "epub": "1tSMlrs3fzracTTQdYvxPwrNE_pdReR5P",
       "pdf": ""
     },
     {
       "number": "Volume 15",
-      "epub": "132naHgmcMwhQvXibiiv-eH8ojg8GDnHo",
+      "epub": "16Z8SIu9Xys1MavfLVq5xdk_zfsVW9M-m",
+      "pdf": "1RGqqBjX5cq-gd-GtFBVwZ1F3WR3SRtYA"
+    },
+    {
+      "number": "Volume 14",
+      "epub": "16fjTZkvCbLyanwp-pEhifNmU13ab1WWA",
+      "pdf": "1tdJiAzx4n97uGs9rgMPzBIPhDikkvATh"
+    },
+    {
+      "number": "Volume 13",
+      "epub": "15yB_tM0NtGuhMgCf6c-qbyTtuMZNF49d",
+      "pdf": "1ASGMoO-HD-9nE-vSjaHjX-D9bi0wnbbg"
+    },
+    {
+      "number": "Volume 12",
+      "epub": "15xEpcL9HKHbZ8Nj-QInkTBQcV9J5Zvxa",
+      "pdf": "17NzvOf5hj8PvfizB8iutQo-HegG-M9L2"
+    },
+    {
+      "number": "Volume 11",
+      "epub": "15t_y35k5scXEzxr74jwixSTjhwxG4X4w",
+      "pdf": "1G93PCgq69DLswPtC5PBfdIX4FeRD3WlS"
+    },
+    {
+      "number": "Volume 10",
+      "epub": "15iHf3S_l-nB_BaTH2krpcr0jgwWSvBWJ",
+      "pdf": "1F6sdKhRrfzZcWdbfvFWufXe9rgjwCxS9"
+    },
+    {
+      "number": "Volume 9",
+      "epub": "16-Npo9KyhFDmwgzgEMrw2b_6zqpk9gaj",
+      "pdf": "1iSQvcYZG5X59LJqjsTn6Pfr6G4nwnQZa"
+    },
+    {
+      "number": "Volume 8",
+      "epub": "16-N36asTyLD-L_Qn7RiQol6RkFeaILeA",
+      "pdf": "16f7FQ10bbEG3_NgnpHq7fIkA_PTbu_1S"
+    },
+    {
+      "number": "Volume 7",
+      "epub": "15z4LshPyLSFz67DhE-huLJ6QuN77AaDN",
+      "pdf": "1AieX92Ye5o6a9q59LqpDEni8Hn46FXOy"
+    },
+    {
+      "number": "Volume 6",
+      "epub": "15eoFNoZ0BOtfqOPeovt6ZdCBBUBB0PBq",
+      "pdf": "1KRL2eU7PQF8xtYmhRIzqN44_oyGRI1jv"
+    },
+    {
+      "number": "Volume 5",
+      "epub": "15YzGvPCLu1qNVwnxZKXmyZvpr2n0oQmo",
+      "pdf": "1sjrPuk6K8p3uYgWrK7RrqGDlbkTpaWDS"
+    },
+    {
+      "number": "Volume 4",
+      "epub": "15W0B7ENyvXKW_PjlV7a_QYw2w6CpIrb7",
+      "pdf": "1skaYZ0VZKfgvj84cMgWRhWF9rojJ80bB"
+    },
+    {
+      "number": "Volume 3",
+      "epub": "15V4metjGPWQMZsz9ctE3SKsq8YMfCdem",
+      "pdf": "1aJqV2HzbVMDWhjpbLo7DeB06IYnVAWmP"
+    },
+    {
+      "number": "Volume 2",
+      "epub": "15SNQYuJktJFJFV4URv9MG0b36PNMUwS",
+      "pdf": "1OhvIIIRzw0WjRkAi_zhDbA6VzbI4FBkv"
+    },
+    {
+      "number": "Volume 1",
+      "epub": "15J97fuRGuszbKa56Jtk16NxTGZajoyX5",
+      "pdf": "1icKlccDjARbZGDmvNFKjJ16JAkhQNxgM"
+    }]
+  },
+  {
+    "id": "98741",
+    "title": "Wandering Witch: The Journey of Elaina",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/03/Wandering-Witch-The-Journey-of-Elaina-v15.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Adventure", "Fantasy", "Slice of Life"],
+    "anilist": {
+      "rating": "85",
+      "popularity": "5423"
+    },
+    "synopsis": "Once upon a time, there was a witch named Elaina, who set off on a journey across the world. Along the way, she would meet all kinds of people, from a country full of witches to a giant in love with his own muscles—but with each meeting, Elaina would become a small part of their story, and her own world would get a little bit bigger.",
+    "volumes": [
+    {
+      "number": "Volume 15",
+      "epub": "1zDE6l6drLI_IRvaOZBiJu4DApbLUF2_2",
       "pdf": ""
     },
     {
       "number": "Volume 14",
-      "epub": "141uIt-2f023cu1g2GVzKPpZYeeGLy77P",
+      "epub": "12k2r6AmNQjS3x_8WaWrZVxshFS8QzVip",
       "pdf": ""
     },
     {
       "number": "Volume 13",
-      "epub": "13zlFkm1H52SlxmBgk_x4U2lIVt02FFGC",
+      "epub": "12bToRpFdDOSUAN35K04LsGLcoFznkwZp",
       "pdf": ""
     },
     {
       "number": "Volume 12",
-      "epub": "13viRnf06vr6U3qi4WWFXuA9N4DzPqdAp",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 11.5",
-      "epub": "13n8Pfe9-M3YXIh97iyKbwOf1IjtR74Qa",
+      "epub": "12atM_voOmb457kVtgMUub2C0vzD_NzB0",
       "pdf": ""
     },
     {
       "number": "Volume 11",
-      "epub": "13jlJMQGzlOVJBmVdrMBCbogdnIpgXyB3",
+      "epub": "12amzI7u63XN8_tsTbe7tDa6PfaqRRIUy",
       "pdf": ""
     },
     {
       "number": "Volume 10",
-      "epub": "13haIk3Cbn64OQOL7mVObPSOXhv1BQYcl",
+      "epub": "12Vh9Si2DEYoFHHL7nSesaDtH2r_qyU3v",
       "pdf": ""
     },
     {
       "number": "Volume 9",
-      "epub": "13hZYebIObxUfbRH000rrdWFuIVuXqzlq",
+      "epub": "12J9u7dS93-pbVnIQP126fqDIC9Eynd4Z",
       "pdf": ""
     },
     {
       "number": "Volume 8",
-      "epub": "13hIU9Uqtw1_dGEH8L-5Nw02Wio4-7EfS",
+      "epub": "12IDzB5SlvfHTwNwLht3m9D7Zt7Qvpxig",
       "pdf": ""
     },
     {
       "number": "Volume 7",
-      "epub": "13fm7Mab07jF61QXSczfJQA5zokRKNuhm",
+      "epub": "12DuJK3B9Rcrctse35dDNapvOtycKzkFB",
       "pdf": ""
     },
     {
       "number": "Volume 6",
-      "epub": "13eQE_Uk3FBv2CmnXmxhp9RZZPvagASmS",
+      "epub": "120me6aKEK8dRvqqZ2_bCk5vNeAtonzV-",
       "pdf": ""
     },
     {
       "number": "Volume 5",
-      "epub": "13_xoNDmoSONFGjdxhPSa0NcmRqH-qtbY",
+      "epub": "12-fPW8JsIGstrdvEeZFVzJKsTi5eURlC",
       "pdf": ""
     },
     {
       "number": "Volume 4",
-      "epub": "13_Kx9-KdoC9JTcqTh4TIdM0K1FrO75JG",
+      "epub": "11xudyCXzkRTJfHleHU5ILXznMuSOdfJy",
       "pdf": ""
     },
     {
       "number": "Volume 3",
-      "epub": "13Z5kdVfgsIv1BLJwVyM8P7fL5F6-_opj",
+      "epub": "11vql8_8pWdmCziSkZUGKsFGkkV9Fzbcm",
       "pdf": ""
     },
     {
       "number": "Volume 2",
-      "epub": "13XuWVybY7KRp20CPJZ3Eb3Qcq1tF3w-0",
+      "epub": "11q6vfVgXCLkYdjHIpQZ2mtm25v8EnqSK",
       "pdf": ""
     },
     {
       "number": "Volume 1",
-      "epub": "13JYjGjCr3rHgD_c8POkKEyt31FZF8eL_",
+      "epub": "11lPuPmq1Z6tQtFT9QkAcTe5UK2vohy2T",
       "pdf": ""
     }]
   },
+  {
+      "id": "97929",
+      "title": "Kuma Kuma Kuma Bear",
+      "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/04/Kuma-Kuma-Kuma-Bear-Volume-20.5.jpg?w=500&ssl=1",
+      "status": "Releasing",
+      "type": "Light Novel",
+      "translation": "Seven Seas Entertainment",
+      "genres": ["Adventure", "Comedy", "Fantasy", "Slice of Life"],
+      "anilist": {
+        "rating": "78",
+        "popularity": "1899"
+      },
+      "synopsis": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO game to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has!",
+      "volumes": [
+      {
+        "number": "Volume 20.5",
+        "epub": "1yYn_W3Y0KFlVAMkbaeI1jcupibn0kEpy",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 20",
+        "epub": "1yKLa6Y7XbyTyO-yOeQpfypjntIwYUckb",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 19",
+        "epub": "1yHgzbFj5wnhtsB4Q66gaejGPKxRtsMlG",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 18",
+        "epub": "142lz2CuRcqWSLkNoWKGD3x9FKZIKpEwP",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 17",
+        "epub": "1421Upda1I_Sw0pEKrzAVYPR1qYZwDFlk",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 16",
+        "epub": "13GTzysP4jkJaMFF1NOzOvBJU5YdYu-YB",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 15",
+        "epub": "132naHgmcMwhQvXibiiv-eH8ojg8GDnHo",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 14",
+        "epub": "141uIt-2f023cu1g2GVzKPpZYeeGLy77P",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 13",
+        "epub": "13zlFkm1H52SlxmBgk_x4U2lIVt02FFGC",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 12",
+        "epub": "13viRnf06vr6U3qi4WWFXuA9N4DzPqdAp",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 11.5",
+        "epub": "13n8Pfe9-M3YXIh97iyKbwOf1IjtR74Qa",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 11",
+        "epub": "13jlJMQGzlOVJBmVdrMBCbogdnIpgXyB3",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10",
+        "epub": "13haIk3Cbn64OQOL7mVObPSOXhv1BQYcl",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "13hZYebIObxUfbRH000rrdWFuIVuXqzlq",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "13hIU9Uqtw1_dGEH8L-5Nw02Wio4-7EfS",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "13fm7Mab07jF61QXSczfJQA5zokRKNuhm",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "13eQE_Uk3FBv2CmnXmxhp9RZZPvagASmS",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "13_xoNDmoSONFGjdxhPSa0NcmRqH-qtbY",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "13_Kx9-KdoC9JTcqTh4TIdM0K1FrO75JG",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "13Z5kdVfgsIv1BLJwVyM8P7fL5F6-_opj",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "13XuWVybY7KRp20CPJZ3Eb3Qcq1tF3w-0",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "13JYjGjCr3rHgD_c8POkKEyt31FZF8eL_",
+        "pdf": ""
+      }]
+    },
   {
     "id": "128801",
     "title": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
@@ -659,7 +844,7 @@
   },
   {
     "id": "171135",
-    "title": "A Tale of the Secret Saint ZER",
+    "title": "A Tale of the Secret Saint ZERO",
     "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/04/A-Tale-of-the-Secret-Saint-ZERO-Volume-2.jpg?w=500&ssl=1",
     "status": "Releasing",
     "type": "Light Novel",
@@ -10435,91 +10620,6 @@
     }]
   },
   {
-    "id": "98741",
-    "title": "Wandering Witch: The Journey of Elaina",
-    "cover": "https://static.wikia.nocookie.net/majo-no-tabitabi/images/f/fd/Light_Novel_Volume_14.jpg/revision/latest?cb=20201003210844",
-    "status": "Releasing",
-    "type": "Light Novel",
-    "translation": "Yen Press",
-    "genres": ["Adventure", "Fantasy", "Slice of Life"],
-    "anilist": {
-      "rating": "85",
-      "popularity": "5423"
-    },
-    "synopsis": "Once upon a time, there was a witch named Elaina, who set off on a journey across the world. Along the way, she would meet all kinds of people, from a country full of witches to a giant in love with his own muscles—but with each meeting, Elaina would become a small part of their story, and her own world would get a little bit bigger.",
-    "volumes": [
-    {
-      "number": "Volume 14",
-      "epub": "12k2r6AmNQjS3x_8WaWrZVxshFS8QzVip",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 13",
-      "epub": "12bToRpFdDOSUAN35K04LsGLcoFznkwZp",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 12",
-      "epub": "12atM_voOmb457kVtgMUub2C0vzD_NzB0",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 11",
-      "epub": "12amzI7u63XN8_tsTbe7tDa6PfaqRRIUy",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 10",
-      "epub": "12Vh9Si2DEYoFHHL7nSesaDtH2r_qyU3v",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 9",
-      "epub": "12J9u7dS93-pbVnIQP126fqDIC9Eynd4Z",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 8",
-      "epub": "12IDzB5SlvfHTwNwLht3m9D7Zt7Qvpxig",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 7",
-      "epub": "12DuJK3B9Rcrctse35dDNapvOtycKzkFB",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 6",
-      "epub": "120me6aKEK8dRvqqZ2_bCk5vNeAtonzV-",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 5",
-      "epub": "12-fPW8JsIGstrdvEeZFVzJKsTi5eURlC",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 4",
-      "epub": "11xudyCXzkRTJfHleHU5ILXznMuSOdfJy",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 3",
-      "epub": "11vql8_8pWdmCziSkZUGKsFGkkV9Fzbcm",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 2",
-      "epub": "11q6vfVgXCLkYdjHIpQZ2mtm25v8EnqSK",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 1",
-      "epub": "11lPuPmq1Z6tQtFT9QkAcTe5UK2vohy2T",
-      "pdf": ""
-    }]
-  },
-  {
     "id": "55409",
     "title": "High School DxD",
     "cover": "https://static.wikia.nocookie.net/highschooldxd/images/e/e2/DxDLN14.jpeg/revision/latest?cb=20130204020300",
@@ -13437,96 +13537,6 @@
       "number": "Volume 1",
       "epub": "1BHc2wlnW8c39tSYIxyhuKcV7julltkvJ",
       "pdf": "1L-MwaIva2LzfB5xufRtpFJDZzMvEEq0Q"
-    }]
-  },
-  {
-    "id": "100068",
-    "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
-    "cover": "https://static.wikia.nocookie.net/slime-taoshite-300-nen/images/e/e7/LN15_jp_cover.jpg/revision/latest?cb=20210511102751",
-    "status": "Releasing",
-    "type": "Light Novel",
-    "translation": "Yen Press",
-    "genres": ["Adventure", "Fantasy", "Slice of Life"],
-    "anilist": {
-      "rating": "76",
-      "popularity": "3009"
-    },
-    "synopsis": "After living a painful life as an office worker, Azusa ended her short life by dying from overworking. So when she found herself reincarnated as an undying, unaging witch in a new world, she vows to spend her days stress free and as pleasantly as possible. She ekes out a living by hunting down the easiest targets - the slimes! But after centuries of doing this simple job, she's ended up with insane powers...how will she maintain her low key life now?!",
-    "volumes": [
-    {
-      "number": "Volume 15",
-      "epub": "16Z8SIu9Xys1MavfLVq5xdk_zfsVW9M-m",
-      "pdf": "1RGqqBjX5cq-gd-GtFBVwZ1F3WR3SRtYA"
-    },
-    {
-      "number": "Volume 14",
-      "epub": "16fjTZkvCbLyanwp-pEhifNmU13ab1WWA",
-      "pdf": "1tdJiAzx4n97uGs9rgMPzBIPhDikkvATh"
-    },
-    {
-      "number": "Volume 13",
-      "epub": "15yB_tM0NtGuhMgCf6c-qbyTtuMZNF49d",
-      "pdf": "1ASGMoO-HD-9nE-vSjaHjX-D9bi0wnbbg"
-    },
-    {
-      "number": "Volume 12",
-      "epub": "15xEpcL9HKHbZ8Nj-QInkTBQcV9J5Zvxa",
-      "pdf": "17NzvOf5hj8PvfizB8iutQo-HegG-M9L2"
-    },
-    {
-      "number": "Volume 11",
-      "epub": "15t_y35k5scXEzxr74jwixSTjhwxG4X4w",
-      "pdf": "1G93PCgq69DLswPtC5PBfdIX4FeRD3WlS"
-    },
-    {
-      "number": "Volume 10",
-      "epub": "15iHf3S_l-nB_BaTH2krpcr0jgwWSvBWJ",
-      "pdf": "1F6sdKhRrfzZcWdbfvFWufXe9rgjwCxS9"
-    },
-    {
-      "number": "Volume 9",
-      "epub": "16-Npo9KyhFDmwgzgEMrw2b_6zqpk9gaj",
-      "pdf": "1iSQvcYZG5X59LJqjsTn6Pfr6G4nwnQZa"
-    },
-    {
-      "number": "Volume 8",
-      "epub": "16-N36asTyLD-L_Qn7RiQol6RkFeaILeA",
-      "pdf": "16f7FQ10bbEG3_NgnpHq7fIkA_PTbu_1S"
-    },
-    {
-      "number": "Volume 7",
-      "epub": "15z4LshPyLSFz67DhE-huLJ6QuN77AaDN",
-      "pdf": "1AieX92Ye5o6a9q59LqpDEni8Hn46FXOy"
-    },
-    {
-      "number": "Volume 6",
-      "epub": "15eoFNoZ0BOtfqOPeovt6ZdCBBUBB0PBq",
-      "pdf": "1KRL2eU7PQF8xtYmhRIzqN44_oyGRI1jv"
-    },
-    {
-      "number": "Volume 5",
-      "epub": "15YzGvPCLu1qNVwnxZKXmyZvpr2n0oQmo",
-      "pdf": "1sjrPuk6K8p3uYgWrK7RrqGDlbkTpaWDS"
-    },
-    {
-      "number": "Volume 4",
-      "epub": "15W0B7ENyvXKW_PjlV7a_QYw2w6CpIrb7",
-      "pdf": "1skaYZ0VZKfgvj84cMgWRhWF9rojJ80bB"
-    },
-    {
-      "number": "Volume 3",
-      "epub": "15V4metjGPWQMZsz9ctE3SKsq8YMfCdem",
-      "pdf": "1aJqV2HzbVMDWhjpbLo7DeB06IYnVAWmP"
-    },
-    {
-      "number": "Volume 2",
-      "epub": "15SNQYuJktJFJFV4URv9MG0b36PNMUwS",
-      "pdf": "1OhvIIIRzw0WjRkAi_zhDbA6VzbI4FBkv"
-    },
-    {
-      "number": "Volume 1",
-      "epub": "15J97fuRGuszbKa56Jtk16NxTGZajoyX5",
-      "pdf": "1icKlccDjARbZGDmvNFKjJ16JAkhQNxgM"
     }]
   }
 ]
