@@ -1,5 +1,163 @@
 [
   {
+    "id": "121174",
+    "title": "Goblin Slayer Side Story II: Dai Katana",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/02/Goblin-Slayer-Side-Story-II-Dai-Katana-Vol-3-1.jpg?w=500&ssl=1",
+    "status": "Finished",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Fantasy"],
+    "anilist": {
+      "rating": "73",
+      "popularity": "358"
+    },
+    "synopsis": "Not so very long ago, the Death began stalking the continent.The King of Time issued a proclamation: \"Find the source of this Death and seal it away.\"<br>The source: the Dungeon of the Dead.A fortress city that arose at the mouth of the dungeon serves adventurers who seek companions, challenge the dungeon, battle, find loot...and sometimes die.<br><br>You are an adventurer who has come to the fortress city in hopes of reaching the dungeon 's lower- most depths-but can you and your party conquer the untold evils that lurk beneath the surface?",
+    "volumes": [
+      {
+        "number": "Volume 3",
+        "epub": "1aR4FiB1hUpQ2ZeHuu9fEut_ZN2-wXIMJ",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1aRyZS7YxPomlfZx5z8dQS5gVETJkHzaq",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1aNWhd9MJcggd93U1028lUelBj6aZUUdx",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "105865",
+    "title": "Goblin Slayer Side Story: Year One",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/04/goblin-slayer-side-story-year-one-vol-3-light-novel.gif?fit=500%2C749&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Drama", "Fantasy"],
+    "anilist": {
+      "rating": "83",
+      "popularity": "814"
+    },
+    "synopsis": "Three days after his sister's death, he finally regained the will to move. In the aftermath of a goblin raid, a lone boy mourns the loss of his village, his family...Five years later, that same boy visits a city on the frontier and becomes an adventurer.Despite being the lowest rank and wholly inexperienced, the young adventurer immediately accepts a quest and sets out alone to raid a goblin lair. His mind already burning with a clear vision of his calling, the legend of Goblin Slayer begins!",
+    "volumes": [
+      {
+        "number": "Volume 3",
+        "epub": "1aHfWOihNQlqZyML2YG97mbSMC_KZdzl7",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1aJRidFHjyl_gJDWT8rZX5qAButbDrshK",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1_zRIx7ikvknaMhLR-_I6bibbuWizka74",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "87320",
+    "title": "Goblin Slayer!",
+    "cover": "https://i.redd.it/wkk984m2zxca1.jpg",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Fantasy"],
+    "anilist": {
+      "rating": "76",
+      "popularity": "6569"
+    },
+    "synopsis": "The series centers on a man who desires to become an \"adventurer\" whose motto is: \"I won't save the world, I just kill goblins.\" After hearing rumors about him, a female elf approaches him with a request.",
+    "volumes": [
+      {
+        "number": "Volume 16",
+        "epub": "1_epm9rm0p2lE3j1y2_z4d_0p9c8j7Xbo",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 15",
+        "epub": "1_g_tZeW4NpeOv7cgGPfTQdJsiJfTqoRi",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 14",
+        "epub": "1_U0PRwGyYgbagXCcChyvosPbK2i37zqy",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 13",
+        "epub": "1_LPR3hsSMWUbtYSrousevrvt2aCr4at5",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 12",
+        "epub": "1ZQAcNQdcIiidVutLiGXNGt7ubaTlUWLq",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 11",
+        "epub": "1ZRTI0zsOzrRAPERnI-oBL12mv8BZkgHe",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1ZS6j7o2HCTJCyIqLDDDHOrVszOSDrgaQ",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1ZTe05OldluQkIdSxmsyD59KHe3cA9eUd",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1ZkPC69lE-e2IGZWooaqNoIS_5gL12qeB",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1Z_cQSL05O4GqEMgyatvJK2T0iFCc5LdG",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1ZkgoIEDkMP6GMTRpEd1lfQ0bsbhMddA0",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1Zs_o8vE5gQ3ZoIKiO-gdZ3xflx0c6myH",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1ZvpYYqf66tkgedK3K2tKpPltI7txi79I",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1Zzfh2GhDhiBPhKjc0zbp68s-35lwkN8X",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1_2NnWtHu0skTGTKZT2hNgYzoeib59KbT",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1_eeyR_mC8zbKhs3lnqoxIT98v1R0UQjG",
+        "pdf": ""
+      }
+    ]
+  },
+  {
     "id": "127444",
     "title": "Did I Seriously Just Get Reincarnated as My Gag Character?!",
     "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/08/Did-I-Seriously-Just-Get-Reincarnated-as-My-Gag-Character.-v01.jpg?w=700&ssl=1",
