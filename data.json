@@ -1,5 +1,56 @@
 [
   {
+    "id": "2934957739",
+    "title": "Three Cheats from Three Goddesses: The Broke Baron’s Youngest Wants a Relaxing Life",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/04/three-cheats-from-three-goddesses-the-broke-baron-s-youngest-wants-a-relaxing-life-volume-1.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Fantasy", "Slice of Life"],
+    "anilist": {
+      "rating": "0",
+      "popularity": "0"
+    },
+    "synopsis": "Tired of working himself to the bone at his grueling office job, Midori Osaka longs for the simple life. When he’s reborn in a fantasy world as Hisui, the youngest son of Baron Clematis, it seems like his dream is finally coming true—until he realizes this noble house is totally broke! With a family full of bullies and a monster-infested barony, Hisui’s new life isn’t exactly the relaxing getaway he wanted, though he at least has kindly older sisters to lean on. Just when escape seems impossible, Hisui runs into three self-proclaimed goddesses who grant him their power and awaken his incredible magical abilities! It turns out living the simple life isn’t going to be so simple after all…",
+    "volumes": [
+      {
+        "number": "Volume 1",
+        "epub": "1-qxIoKRSHJrkAXjUgapr6XQKehYFtFcZ",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "128601",
+    "title": "Dimension Wave",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/04/dimension-wave-volume-3.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Comedy", "Fantasy"],
+    "anilist": {
+      "rating": "95",
+      "popularity": "48"
+    },
+    "synopsis": "Dimension Wave—a super popular VRMMO game where players can experience several years of fantasy in just twenty-four hours of real time.<br><br>Enticed by the entry ticket his sisters won, a young man takes part in the project's Second Wave. However, as soon as he enters the world of the game, he finds that his sisters have played a trick: he's been transformed into a girl with the cringy name Kizuna†Exceed.<br><br>But instead of letting it get to him, he decides to chill and take this new life as it comes. Without sparing a fraction of a second deciding, Kizuna immediately chooses to fish rather than fight on the front lines in this fantasy world. Alongside his sisters, Kanade and Tsumugi, a Japanese-style beauty named Shouko, Yamikage the fake ninja, and other quirky comrades, he works to enjoy his second life to the fullest.",
+    "volumes": [
+    {
+      "number": "Volume 3",
+      "epub": "1-omNOtLRcKHYiqcLyaXrX4jOtwW4UCIy",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 2",
+      "epub": "1Y_OgE_JCve8f1lFRVqm-tTdrCy8OrCnq",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 1",
+      "epub": "1IP-B9kYcDay3StBlGvwvnAHk-tI5Nr1P",
+      "pdf": ""
+    }]
+  },
+  {
     "id": "121174",
     "title": "Goblin Slayer Side Story II: Dai Katana",
     "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/02/Goblin-Slayer-Side-Story-II-Dai-Katana-Vol-3-1.jpg?w=500&ssl=1",
@@ -6434,31 +6485,6 @@
     {
       "number": "Volume 1",
       "epub": "1FIWinua6cCIF_szlMWeWmB8hk6cSqPvP",
-      "pdf": ""
-    }]
-  },
-  {
-    "id": "128601",
-    "title": "Dimension Wave",
-    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/02/dimension-wave-volume-2.jpg?w=500&ssl=1",
-    "status": "Releasing",
-    "type": "Light Novel",
-    "translation": "J-Novel Club",
-    "genres": ["Comedy", "Fantasy"],
-    "anilist": {
-      "rating": "95",
-      "popularity": "48"
-    },
-    "synopsis": "Dimension Wave—a super popular VRMMO game where players can experience several years of fantasy in just twenty-four hours of real time.<br><br>Enticed by the entry ticket his sisters won, a young man takes part in the project's Second Wave. However, as soon as he enters the world of the game, he finds that his sisters have played a trick: he's been transformed into a girl with the cringy name Kizuna†Exceed.<br><br>But instead of letting it get to him, he decides to chill and take this new life as it comes. Without sparing a fraction of a second deciding, Kizuna immediately chooses to fish rather than fight on the front lines in this fantasy world. Alongside his sisters, Kanade and Tsumugi, a Japanese-style beauty named Shouko, Yamikage the fake ninja, and other quirky comrades, he works to enjoy his second life to the fullest.",
-    "volumes": [
-    {
-      "number": "Volume 2",
-      "epub": "1Y_OgE_JCve8f1lFRVqm-tTdrCy8OrCnq",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 1",
-      "epub": "1IP-B9kYcDay3StBlGvwvnAHk-tI5Nr1P",
       "pdf": ""
     }]
   },
