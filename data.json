@@ -1,5 +1,368 @@
 [
   {
+    "id": "101809",
+    "title": "Combatants Will Be Dispatched!",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/11/Combatants-Will-Be-Dispatched-Volume-7.jpg?resize=683%2C1024&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Adventure", "Comedy", "Ecchi", "Fantasy", "Sci-Fi"],
+    "anilist": {
+      "rating": "75",
+      "popularity": "1686"
+    },
+    "synopsis": "It's tough being on the front lines for an evil organization, and nobody knows this better than No. 6, a Combatant for the Kisaragi Secret Society. Dispatched to a distant alien world on a reconnaissance mission, he's got a new android partner, but how are you supposed to plan an interstellar invasion--of a fantasy world?!",
+    "volumes": [
+      {
+        "number": "Volume 7",
+        "epub": "1-N7Wo9qv9qHMYUN-8j7DheoC5v0dlMlk",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1-JNVywNK5XuUJMGYU6A0ULadiBBQmgFy",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1-DGqx6exPgQ0lXqbWO5fOuIytvGvLrhQ",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1-D9kdtm2unF93fHsJF1WGsDkXXYdJY77",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1-9YApmKKyVPR2WVn0hG86435Jx00DL87",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1-4Mssa6I7PftEjxMfghIPwe1x0yx7mvq",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1-2QtRnjMUvpMfR9D4VsDPyZlVai9vQJL",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "134924",
+    "title": "Demon Lord 2099",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/10/DEMON-LORD-2099-VOL-3.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action" , "Comedy", "Drama", "Fantasy", "Sci-Fi"],
+    "anilist": {
+      "rating": "73",
+      "popularity": "419"
+    },
+    "synopsis": "Fused Era Year 2099—Shinjuku. It is here—in this megalopolis that represents the pinnacle of human development—where the legendary Demon Lord Veltol makes his second coming.",
+    "volumes": [
+      {
+        "number": "Volume 3",
+        "epub": "1bgpmJZvL0mdN_eBdU1PTiLohcBB7ZXOz",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1bic_xohqK2odAkgXRGXIlNufdHGDyQ5F",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1bfpCOEN5Mr_Ix4YypMIOYHdOdPhmc-qq",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "85465",
+    "title": "Chivalry of a Failed Knight",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/04/chivalry-of-a-failed-knight-volume-5.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Action", "Ecchi", "Fantasy", "Romance"],
+    "anilist": {
+      "rating": "78",
+      "popularity": "5789"
+    },
+    "synopsis": "In a world where people with supernatural powers, called Blazers, manifest their souls as weapons, Kurogane Ikki dreams of becoming a Mage-Knight. It’s too bad he has no natural talent for it. The whole school ridicules him as the worst Blazer, so color everyone surprised when he suddenly defeats Stella Vermillion, a Rank A Blazer, in a duel. And so begins his fight to the top!",
+    "volumes": [
+      {
+        "number": "Volume 5",
+        "epub": "1bFyC7Yw9KVTJ-Mnl6u5l_Ez0o3TpzYhw",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1bOU-2VX5rE4qv5b_iJ-lvAvIk9pzUqpv",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1bPwcEzx6IH2NNM2rhE46PoCY6_ZI_l-L",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1bRwf0yatFvFikw1YzzUKx5mWt6R1vt1J",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1b84iCC5zdOpWlAqIkA7JRQD6KkXIJL3g",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "116653",
+    "title": "A Mysterious Job Called Oda Nobunaga",
+    "cover": "https://covers.shakespeareandcompany.com/97819753/9781975305604.jpg",
+    "status": "Finished",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Fantasy", "Romance"],
+    "anilist": {
+      "rating": "56",
+      "popularity": "242"
+    },
+    "synopsis": "In this world, on the day that they reach adulthood, everyone visits the temple to receive their life's calling. Many will become warriors or magic users. But when the frail younger brother of a minor feudal lord named Arsrod goes in for his job, he comes out with...Oda Nobunaga?! Not only has that job never been heard of, not a single person can even figure out what it's supposed to mean. But when this young man inherits the experience, tactics, and prowess in war of the great Sengoku strategist Nobunaga, his very destiny will change!",
+    "volumes": [
+      {
+        "number": "Volume 3",
+        "epub": "1097vJiCvBtEsTb8FU3d3uEPXOwWO-Cxi",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "104okO8V1wkh_2aUVGwWlfiCjQSDUFPz-",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1-ul3oj4DCHLLFR6-KlqJ1nG4FAWrPX5Q",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "153612",
+    "title": "A Pale Moon Reverie",
+    "cover": "https://ecsmedia.pl/cdn-cgi/image/width=544,height=544,/c/a-pale-moon-reverie-volume-3-ebook-epub-b-iext167895023.jpg",
+    "status": "Finished",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Action", "Comedy", "Fantasy", "Romance"],
+    "anilist": {
+      "rating": "78",
+      "popularity": "145"
+    },
+    "synopsis": "Irede, the town of fine drink, masterful performing arts, and holy courtesans, was built long ago as an offering to a god. Travelers gather here in droves from across the continent, but unbeknownst to them, shades—creatures who lead humans astray—lurk in the streets. Sari, a maiden with the ability to bind shades, is the proprietress of a living myth: the courtesan house Pale Moon. And when she meets Xixu, a shadeslayer fresh from the capital, restless shadows begin stirring beneath the town’s surface...",
+    "volumes": [
+      {
+        "number": "Volume 3",
+        "epub": "1-YaFmTjopX7K91G5jsli9Ml43RU20Lh_",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1-VRFqQdbHo9Aqfqj_gLTAgUDMEr6rp20",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1-PeP-TP0cod9K1ed4DVRMPy7_I71tZRB",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "177505",
+    "title": "A Surprisingly Happy Engagement for the Slime Duke and the Fallen Noble Lady",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/814jVDjGibL.jpg",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Fantasy", "Romance", "Slife of Life"],
+    "anilist": {
+      "rating": "84",
+      "popularity": "28"
+    },
+    "synopsis": "After her sister’s engagement to the crown prince is broken off suddenly, tragedy strikes, and Lady Francette and her family lose all of their wealth and status. Left with nothing but her name and determination, Francette moves to the slums and ekes out a living selling homemade pastries. That’s when she meets an unlikely new friend named Wibble, a talking slime who introduces her to the one and only slime duke himself: Gabriel! To her surprise, the unusually stoic Gabriel soon asks for Francette’s hand in marriage--and she accepts. Now she must adapt to Triste and its eccentric people, and she soon finds herself breathing life into the strange but endearing backwater. What was once a marriage of convenience becomes something much more in time...and—of course—expect lots of slime!",
+    "volumes": [
+      {
+        "number": "Volume 3",
+        "epub": "10bo72uWPhmttjfdc1ECedb9lIXlq6dDF",
+        "pdf": "10YXZ_vHB6OZUco_cwkiXiEcrk-r3HJNp"
+      },
+      {
+        "number": "Volume 2",
+        "epub": "10U8fC-gz8UEcm91ic569uv9OR6UBTY4r",
+        "pdf": "10Pd4PdwykI3wh5Uj8fmdAcJav0wz5A3t"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "10O9TUvgfrWoPkYP9dzLwNM0uq1xhcsIN",
+        "pdf": "10Lws7NHqiJKlrxb8SGaYEoxAaxRulFwZ"
+      }
+    ]
+  },
+  {
+    "id": "100685",
+    "title": "Wolf & Parchment: New Theory Spice & Wolf",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/816Buzk6R2L.jpg",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Adventure", "Fantasy", "Supernatural"],
+    "anilist": {
+      "rating": "82",
+      "popularity": "1869"
+    },
+    "synopsis": "The young man Cole dreams of one day joining the holy clergy and departs on a journey from the bathhouse \"The Spice and Wolf Inn,\" owned by his savior, Lawrence. The Winfiel Kingdom's prince has invited him to help correct the sins of the church. But as his travels begin, Cole discovers in his luggage a young girl with a wolf's ears and tail named Myuri who stowed away for the ride!<br><br>In the past, Cole had accompanied the Wise Wolf Holo and the traveling merchant Lawrence on their own wanderings, eventually growing up alongside their daughter, Myuri as siblings. But as Cole prepared to set off, Myuri opposed his departure and so she secretly ran away from home to join him!<br><br>This is the story of Wolf and Parchment, and the pair's travels that will someday change the world!",
+    "volumes": [
+      {
+        "number": "Volume 10",
+        "epub": "11ij4pjssqJb2AWIkf22fUDjbWoTD-pXN",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "11cuslI5W-d2yFDQuwlOwAD5lSWp7ZDkt",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "11ZaxnJeAiVJDQoUuD2bK611yoBDEye7i",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "11WXxflzf7YjzMsw6w6zIarOO3ecjS8Fd",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "11CDGMBC-2RQA5RTJg3SNsaAxRKU40S9w",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "11AuEAlJHPJqCHRnUn0GpKE9PlAMkzXZq",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "110dIatq2Une_RE31_8C-l2fQYljqigj7",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "10yurtypH28Us6Xo-nkKBYo3DCmgncOvM",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "10n5seyyYFpqyBkWaVGYipxVTQJp_o68O",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "99758",
+    "title": "Bottom-Tier Character Tomozaki",
+    "cover": "https://m.media-amazon.com/images/I/81YmGIsc24L.jpg",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Comedy", "Romance", "Slice of Life"],
+    "anilist": {
+      "rating": "80",
+      "popularity": "4818"
+    },
+    "synopsis": "Tomozaki is one of the best gamers in Japan, and in his opinion, the game of real life is one of the worst. No clear-cut rules for success, horribly balanced, and nothing makes sense. But then he meets a gamer who's just as good as him, and she offers to teach him a few exploits...",
+    "volumes": [
+      {
+        "number": "Volume 11",
+        "epub": "1-0PaVGVucjpamawDVCS98nd2OmrBYu62",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1NHNFhkXln5RoDwuc_qIV7z-bjT_8_Wg8",
+        "pdf": "1N7O5fpSsXAOvZIzTusnbk_WC6lOxdPLA"
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1N0yBEr6OktshkaQnB3YwPESngSIckR4H",
+        "pdf": "1MqvSkzwc0kVxL7Fl_iLogCJWjOFPXN4O"
+      },
+      {
+        "number": "Volume 8.5",
+        "epub": "1Mfd1_j7jfLl2fjrYbeoVGLVPz7zApR-6",
+        "pdf": "1MY33QoQiUaATJadClLrtleLMMLON4fAm"
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1MJ4W60nze78ifAFWEyNwPQnfnbnxiNf1",
+        "pdf": "1MEv6-dnVUPmlohNh2Elsvwl-uzKb-3B8"
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1M7E0V4tvBpIHWspX-xS2LSpyrU5dl6IE",
+        "pdf": "1LzSW4u3eSg04WGXb4vVqSQl6qBuasK5H"
+      },
+      {
+        "number": "Volume 6.5",
+        "epub": "1LsaxfE3NIir7by_kRVeqkcxWvZN2KDFh",
+        "pdf": "1LoVIXQTjVkAq3FlY0JZ2LmkQR3EKT0Ij"
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1LiGnhuRdraLj0vNppQ4LM-nM7AqH09KO",
+        "pdf": "1LdBIkETEuI-j2qvPReXBLt8sSAYqL5cE"
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1LcPf6KBSthekC3mHnUwjjGvQhtSihGFz",
+        "pdf": "1LTkmUW6WH_ILPfs5XujeHCc3e-9_pSVF"
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1LPVdlpuZy6e4c0ICZ7RcA6PBItSY1pqF",
+        "pdf": "1LGVcp_TkXhAB_qI1FCQeaNGa5l-7UW2y"
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1Kw6h7viS04pmpcpEn74bXkQxfQzxLjI_",
+        "pdf": "1KpWlXygR31xi62DwuMb21YZgvbfbVO5Y"
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1KkW8ygL0TG4wTKiOtpIgUYtqPrLESlsk",
+        "pdf": "1KbHJyAu-PYmXHQkdKDYB43y3gZsUzVDQ"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1KGKamQRYAbBP5D4J52Z1MVlevLZnY0Jo",
+        "pdf": "1JziTv_NJhvfP1IS4ZheVUwfhmUNkQbZ7"
+      }
+    ]
+  },
+  {
     "id": "2934957739",
     "title": "Three Cheats from Three Goddesses: The Broke Baron’s Youngest Wants a Relaxing Life",
     "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/04/three-cheats-from-three-goddesses-the-broke-baron-s-youngest-wants-a-relaxing-life-volume-1.jpg?w=500&ssl=1",
@@ -8096,81 +8459,6 @@
       "number": "Volume 1",
       "epub": "1OwN_GH979XIgv03uqGd-ynvQXk36ygYZ",
       "pdf": "1OpfhaNajREh0URVppN9UDv1cHW1jabrS"
-    }]
-  },
-  {
-    "id": "99758",
-    "title": "Bottom-Tier Character Tomozaki",
-    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/06/Bottom-Tier-Character-Tomozaki-Vol.-10.jpg?w=500&ssl=1",
-    "status": "Releasing",
-    "type": "Light Novel",
-    "translation": "Yen Press",
-    "genres": ["Comedy", "Romance", "Slice of Life"],
-    "anilist": {
-      "rating": "80",
-      "popularity": "4818"
-    },
-    "synopsis": "Tomozaki is one of the best gamers in Japan, and in his opinion, the game of real life is one of the worst. No clear-cut rules for success, horribly balanced, and nothing makes sense. But then he meets a gamer who's just as good as him, and she offers to teach him a few exploits...",
-    "volumes": [
-    {
-      "number": "Volume 10",
-      "epub": "1NHNFhkXln5RoDwuc_qIV7z-bjT_8_Wg8",
-      "pdf": "1N7O5fpSsXAOvZIzTusnbk_WC6lOxdPLA"
-    },
-    {
-      "number": "Volume 9",
-      "epub": "1N0yBEr6OktshkaQnB3YwPESngSIckR4H",
-      "pdf": "1MqvSkzwc0kVxL7Fl_iLogCJWjOFPXN4O"
-    },
-    {
-      "number": "Volume 8.5",
-      "epub": "1Mfd1_j7jfLl2fjrYbeoVGLVPz7zApR-6",
-      "pdf": "1MY33QoQiUaATJadClLrtleLMMLON4fAm"
-    },
-    {
-      "number": "Volume 8",
-      "epub": "1MJ4W60nze78ifAFWEyNwPQnfnbnxiNf1",
-      "pdf": "1MEv6-dnVUPmlohNh2Elsvwl-uzKb-3B8"
-    },
-    {
-      "number": "Volume 7",
-      "epub": "1M7E0V4tvBpIHWspX-xS2LSpyrU5dl6IE",
-      "pdf": "1LzSW4u3eSg04WGXb4vVqSQl6qBuasK5H"
-    },
-    {
-      "number": "Volume 6.5",
-      "epub": "1LsaxfE3NIir7by_kRVeqkcxWvZN2KDFh",
-      "pdf": "1LoVIXQTjVkAq3FlY0JZ2LmkQR3EKT0Ij"
-    },
-    {
-      "number": "Volume 6",
-      "epub": "1LiGnhuRdraLj0vNppQ4LM-nM7AqH09KO",
-      "pdf": "1LdBIkETEuI-j2qvPReXBLt8sSAYqL5cE"
-    },
-    {
-      "number": "Volume 5",
-      "epub": "1LcPf6KBSthekC3mHnUwjjGvQhtSihGFz",
-      "pdf": "1LTkmUW6WH_ILPfs5XujeHCc3e-9_pSVF"
-    },
-    {
-      "number": "Volume 4",
-      "epub": "1LPVdlpuZy6e4c0ICZ7RcA6PBItSY1pqF",
-      "pdf": "1LGVcp_TkXhAB_qI1FCQeaNGa5l-7UW2y"
-    },
-    {
-      "number": "Volume 3",
-      "epub": "1Kw6h7viS04pmpcpEn74bXkQxfQzxLjI_",
-      "pdf": "1KpWlXygR31xi62DwuMb21YZgvbfbVO5Y"
-    },
-    {
-      "number": "Volume 2",
-      "epub": "1KkW8ygL0TG4wTKiOtpIgUYtqPrLESlsk",
-      "pdf": "1KbHJyAu-PYmXHQkdKDYB43y3gZsUzVDQ"
-    },
-    {
-      "number": "Volume 1",
-      "epub": "1KGKamQRYAbBP5D4J52Z1MVlevLZnY0Jo",
-      "pdf": "1JziTv_NJhvfP1IS4ZheVUwfhmUNkQbZ7"
     }]
   },
   {
