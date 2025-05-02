@@ -1,5 +1,95 @@
 [
   {
+    "id": "113399",
+    "title": "Tearmoon Empire",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/04/Tearmoon-Empire-v15.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Comedy", "Drama", "Fantasy", "Romance"],
+    "anilist": {
+      "rating": "81",
+      "popularity": "1698"
+    },
+    "synopsis": "Surrounded by the hate-filled gazes of her people, the selfish princess of the fallen Tearmoon Empire, Mia, takes one last look at the bleeding sun before the guillotine blade falls... Only to wake back up as an eleven-year-old! With time rewound and a second chance at life dropped into her lap, she sets out to right the countless wrongs that plague the ailing Empire. Corrupt governance? Check. Border troubles? Check. Natural calamities and economic strife? Check. My, seems like a lot of work. Hard work and Mia don’t mix, so she seeks out the aid of others, starting with her loyal maid, Anne, and the brilliant minister, Ludwig. Together, they strive day and night to restore the Empire. Little by little, their tireless efforts begin to change the course of history, pushing the whole of the continent toward a new future. And why did the selfish princess have a change of heart, you ask? Simple—she didn’t. She’s just terrified of the guillotine. They hurt like hell, and Mia hates pain more than work. Lazy, selfish, and a complete coward, the ill-equipped princess of the Tearmoon Empire, armed with memories of her past life and a diary from the future, tries to avoid dying at the guillotine again and changes the very course of history in the process!",
+    "volumes": [
+    {
+      "number": "Volume 15",
+      "epub": "11o6_QGpp3XF84PgBHLULePpdV8MOfpeq",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 14",
+      "epub": "1RJm3VxiRl7z5kUqlPhH2fpS-zxMU8CmW",
+      "pdf": "1UfsyF0BMdGEBk7sEGD4wrffkRkDuSftm"
+    },
+    {
+      "number": "Volume 13",
+      "epub": "1TvdUm2f2snlrPCfwce0Mh4hEKcfWQi__",
+      "pdf": "1TvgbD8VFIzNHhplPP5EnAZZD2bnKLH2y"
+    },
+    {
+      "number": "Volume 12",
+      "epub": "1TrmuqzbDpk8OOgKc9Vom37bxsEFof1Rl",
+      "pdf": "1Ts8Qr6oP6q4Tl462Gqg-xWq0-9z5Z_5b"
+    },
+    {
+      "number": "Volume 11",
+      "epub": "1ToFNqfnNRXoG9H5cseAnMfv4etjhBnFE",
+      "pdf": "1TqwH7iG0U6E31VafDCNtnwOA5ZOjroyq"
+    },
+    {
+      "number": "Volume 10",
+      "epub": "1TV-5Ce0cc9tMroEt0_vKXbA0i0UiNqyA",
+      "pdf": "1TWssCyCFJehwlOX9LX1N_aUhotEgNJGi"
+    },
+    {
+      "number": "Volume 9",
+      "epub": "1UC6sIzAYsFk-e0UPZwoKbLBhIPLmEyrP",
+      "pdf": "1UJhsVByv2ZSPgpk7DOFMG3IPtEQooS_D"
+    },
+    {
+      "number": "Volume 8",
+      "epub": "1Tz3PrzB24A27ijPmIDORMQ5gdNf-Do6l",
+      "pdf": "1U9RqxGffBr0K5ctB8Q6SCNobwCKy_ZzO"
+    },
+    {
+      "number": "Volume 7",
+      "epub": "1UNjHIdd1n1EGdt-RWTv7oLbwg90pILVM",
+      "pdf": "1SAxXDJaZIFl0H592U49JlDq0HB1_KlcB"
+    },
+    {
+      "number": "Volume 6",
+      "epub": "1S6cVmbWmHW4Hsc_R2kJTCWx0G1L09UFU",
+      "pdf": "1Rz74cUu1-WWeZZRtGct6H0FSvNcW2Dnw"
+    },
+    {
+      "number": "Volume 5",
+      "epub": "1RtC6exQjyQ4wcbj5iyBmfHLBqBXmmDIk",
+      "pdf": "1RrOfWyyOEyI-scP3aFP5AA0o2qvAaNtP"
+    },
+    {
+      "number": "Volume 4",
+      "epub": "1RqAr6B1Om0tw6mDT7xUGYjVUBfdcaYv6",
+      "pdf": "1RmkWMeVl_H2xBxrKGH4ZsnFcJkn6KEWV"
+    },
+    {
+      "number": "Volume 3",
+      "epub": "1Rj4je2PO062y-iJwL8HlJvV7ffc8FDrT",
+      "pdf": "1RhRr-IrA-16FOupyQzjii3povv_FvLjS"
+    },
+    {
+      "number": "Volume 2",
+      "epub": "1RgKkHEMiHO2HtmZ389lU6jVg7o1pyHuj",
+      "pdf": "1RWxRMvhBhLoxybLScxieVc3Gq9M9tbHa"
+    },
+    {
+      "number": "Volume 1",
+      "epub": "1RVo_Pjh7nr2E3-4P7ajBZBZj3uJoE7uR",
+      "pdf": "1RSbgLfVy-DMcl-ZuYmWt9wyDb5aVnzoy"
+    }]
+  },
+  {
     "id": "180805",
     "title": "By a Twist of Fate, I'm Attending the Royal Academy in Disguise",
     "cover": "https://www.crossinfworld.com/img/lncover/rad-vol-2-cover-web.jpg",
@@ -8383,91 +8473,6 @@
       "number": "Volume 1",
       "epub": "1TFamTrRI1FrzIudIF8mZeCBK9RuDnlOe",
       "pdf": "1UnNTYB4Ra_SgeHiQjQxCsxZrdU0n4ykl"
-    }]
-  },
-  {
-    "id": "113399",
-    "title": "Tearmoon Empire",
-    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/01/tearmoon-empire-volume-14.jpg?w=500&ssl=1",
-    "status": "Releasing",
-    "type": "Light Novel",
-    "translation": "J-Novel Club",
-    "genres": ["Comedy", "Drama", "Fantasy", "Romance"],
-    "anilist": {
-      "rating": "81",
-      "popularity": "1698"
-    },
-    "synopsis": "Surrounded by the hate-filled gazes of her people, the selfish princess of the fallen Tearmoon Empire, Mia, takes one last look at the bleeding sun before the guillotine blade falls... Only to wake back up as an eleven-year-old! With time rewound and a second chance at life dropped into her lap, she sets out to right the countless wrongs that plague the ailing Empire. Corrupt governance? Check. Border troubles? Check. Natural calamities and economic strife? Check. My, seems like a lot of work. Hard work and Mia don’t mix, so she seeks out the aid of others, starting with her loyal maid, Anne, and the brilliant minister, Ludwig. Together, they strive day and night to restore the Empire. Little by little, their tireless efforts begin to change the course of history, pushing the whole of the continent toward a new future. And why did the selfish princess have a change of heart, you ask? Simple—she didn’t. She’s just terrified of the guillotine. They hurt like hell, and Mia hates pain more than work. Lazy, selfish, and a complete coward, the ill-equipped princess of the Tearmoon Empire, armed with memories of her past life and a diary from the future, tries to avoid dying at the guillotine again and changes the very course of history in the process!",
-    "volumes": [
-    {
-      "number": "Volume 14",
-      "epub": "1RJm3VxiRl7z5kUqlPhH2fpS-zxMU8CmW",
-      "pdf": "1UfsyF0BMdGEBk7sEGD4wrffkRkDuSftm"
-    },
-    {
-      "number": "Volume 13",
-      "epub": "1TvdUm2f2snlrPCfwce0Mh4hEKcfWQi__",
-      "pdf": "1TvgbD8VFIzNHhplPP5EnAZZD2bnKLH2y"
-    },
-    {
-      "number": "Volume 12",
-      "epub": "1TrmuqzbDpk8OOgKc9Vom37bxsEFof1Rl",
-      "pdf": "1Ts8Qr6oP6q4Tl462Gqg-xWq0-9z5Z_5b"
-    },
-    {
-      "number": "Volume 11",
-      "epub": "1ToFNqfnNRXoG9H5cseAnMfv4etjhBnFE",
-      "pdf": "1TqwH7iG0U6E31VafDCNtnwOA5ZOjroyq"
-    },
-    {
-      "number": "Volume 10",
-      "epub": "1TV-5Ce0cc9tMroEt0_vKXbA0i0UiNqyA",
-      "pdf": "1TWssCyCFJehwlOX9LX1N_aUhotEgNJGi"
-    },
-    {
-      "number": "Volume 9",
-      "epub": "1UC6sIzAYsFk-e0UPZwoKbLBhIPLmEyrP",
-      "pdf": "1UJhsVByv2ZSPgpk7DOFMG3IPtEQooS_D"
-    },
-    {
-      "number": "Volume 8",
-      "epub": "1Tz3PrzB24A27ijPmIDORMQ5gdNf-Do6l",
-      "pdf": "1U9RqxGffBr0K5ctB8Q6SCNobwCKy_ZzO"
-    },
-    {
-      "number": "Volume 7",
-      "epub": "1UNjHIdd1n1EGdt-RWTv7oLbwg90pILVM",
-      "pdf": "1SAxXDJaZIFl0H592U49JlDq0HB1_KlcB"
-    },
-    {
-      "number": "Volume 6",
-      "epub": "1S6cVmbWmHW4Hsc_R2kJTCWx0G1L09UFU",
-      "pdf": "1Rz74cUu1-WWeZZRtGct6H0FSvNcW2Dnw"
-    },
-    {
-      "number": "Volume 5",
-      "epub": "1RtC6exQjyQ4wcbj5iyBmfHLBqBXmmDIk",
-      "pdf": "1RrOfWyyOEyI-scP3aFP5AA0o2qvAaNtP"
-    },
-    {
-      "number": "Volume 4",
-      "epub": "1RqAr6B1Om0tw6mDT7xUGYjVUBfdcaYv6",
-      "pdf": "1RmkWMeVl_H2xBxrKGH4ZsnFcJkn6KEWV"
-    },
-    {
-      "number": "Volume 3",
-      "epub": "1Rj4je2PO062y-iJwL8HlJvV7ffc8FDrT",
-      "pdf": "1RhRr-IrA-16FOupyQzjii3povv_FvLjS"
-    },
-    {
-      "number": "Volume 2",
-      "epub": "1RgKkHEMiHO2HtmZ389lU6jVg7o1pyHuj",
-      "pdf": "1RWxRMvhBhLoxybLScxieVc3Gq9M9tbHa"
-    },
-    {
-      "number": "Volume 1",
-      "epub": "1RVo_Pjh7nr2E3-4P7ajBZBZj3uJoE7uR",
-      "pdf": "1RSbgLfVy-DMcl-ZuYmWt9wyDb5aVnzoy"
     }]
   },
   {

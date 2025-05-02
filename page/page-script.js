@@ -35,7 +35,7 @@ $(document).ready(function() {
                 <h3>${novel.title}</h3>
                 <img src="${novel.cover}" data-src="${novel.cover}" alt="${novel.title}" width="100"/>
                 <p>Download <strong>${novel.title}</strong> both epub/pdf for free only on FNovels</p>
-                <p><a class="download-btn" href="https://github.com/JelLee11/JelLee-App/releases/download/v1.0.2_BetaSnapshot101/JelLee_v1.0.2.apk"><i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Get App Now</a></p>
+                <p data-src='page/page-info.html?id=''><i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Get App Now</p>
               </li>
             `);
       });
