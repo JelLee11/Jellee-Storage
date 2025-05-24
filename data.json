@@ -1,5 +1,553 @@
 [
   {
+    "id": "181262",
+    "title": "The Tiny Witch from the Deep Woods",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/05/the-tiny-witch-from-the-deep-woods-volume-1.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "anilist": {
+      "rating": "75",
+      "popularity": "52"
+    },
+    "synopsis": "Growing up deep in the forest, Misha is a thirteen-year-old girl learning how to craft medicine from nature's bounty, but she's also picked up a tremendous amount of knowledge from her mother, an estranged member of a distant tribe of remarkably skilled apothecaries. When tragedy draws the pair out of their forest home, Misha finds herself confronted with a grim truth: all the knowledge in the world is of no help if she doesn't have the experience to put it to use. Faced with her own inadequacy, the young girl resolves to learn how to put her gifts to use properly. Her world is about to expand far beyond the forest she once called home.",
+    "volumes": [
+      {
+        "number": "Volume 1",
+        "epub": "1OcJz8hYapau2o0uErXj1ENePha9pdkYm",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "132264",
+    "title": "You Were Experienced, I Was Not: Our Dating Story",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/05/you-were-experienced-i-was-not-our-dating-story-7th-date.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Drama", "Romance", "Slice of Life"],
+    "anilist": {
+      "rating": "72",
+      "popularity": "1694"
+    },
+    "synopsis": "Kashima Ryuto is a gloomy high-schooler who quietly spends his days watching his crush, the beautiful Shirakawa Runa, from afar. She rules the school and has had no shortage of boyfriends. Although Ryuto is fully convinced she'd never accept him, fate leads him to confess his feelings to her anyway. To his astonishment, she accepts—simply because she's “available” at the moment—but the surprises don't end there. She immediately invites him over as if it's the most natural thing in the world! This odd couple is different in just about every way—the friends they keep, their hobbies, their love lives—but with every passing day, they grow a little bit closer. This may not be Runa's first relationship, but their dating story is going to be full of firsts for them both!",
+    "volumes": [
+    {
+      "number": "Volume 7",
+      "epub": "1OUBZA3CN36h6kDoG521RA_M_96Kxy3Qm",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 6",
+      "epub": "1S6XddD0n3XHUmdNxJDlXBS4fhkikNciM",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 5",
+      "epub": "15ak8YeXb-W55bP8HZMnTjeuq2F3JiaN-",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 4",
+      "epub": "15U3bhyggQeL6ViswRkZIho7Q_1BqNeWh",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 3",
+      "epub": "15HaOcuiRuxkxAt-v6QtDEGaEB1YWBbDL",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 2",
+      "epub": "1572ueSP45BnjHSXuQCCDkap02wQr2H--",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 1",
+      "epub": "155X-jM_rPnwdSDU4kIWHb8x8_Z0rKsI5",
+      "pdf": ""
+    }]
+  },
+  {
+    "id": "173934",
+    "title": "Ascendance of a Bookworm: Hannelore’s Fifth Year at the Royal Academy",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/05/ascendance-of-a-bookworm-hannelore-s-fifth-year-at-the-royal-academy-volume-1.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Fantasy", "Slice of Life"],
+    "anilist": {
+      "rating": "91",
+      "popularity": "327"
+    },
+    "synopsis": "Half a year has passed since Yurgenschmidt inaugurated its first underage aub. Hannelore, now an archduke candidate for the country’s top-ranked duchy, is in the midst of a crisis. Despite her natural indecisiveness, she finds herself pressed to choose from a growing list of marriage candidates. Her father suggests Kenntrips and Rasantark—her childhood friends—but then her half-brother Raufereg throws his hat into the ring. And what about Wilfried, the apple of her eye? Convinced that Liebeskhilfe the Goddess of Binding is toying with the threads of her fate, Hannelore turns to her dear friend Rozemyne for guidance. In the debut volume of this battle fantasy, the divine avatar fights to settle an engagement!",
+    "volumes": [
+      {
+        "number": "Volume 1",
+        "epub": "1OX_n_HlPZNOXCm7ZMNhkKWoVqjQ99N1P",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "114478",
+    "title": "The Dawn of the Witch",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/06/The-Dawn-of-the-Witch-6.jpg?w=500&ssl=1",
+    "status": "Completed",
+    "type": "Light Novel",
+    "translation": "Kodansha USA",
+    "genres": ["Adventure", "Comedy", "Ecchi", "Fantasy"],
+    "anilist": {
+      "rating": "71",
+      "popularity": "329"
+    },
+    "synopsis": "Five hundred years of conflict between witches and the Church has finally ended in an uneasy peace, but pockets of violent resentment linger throughout the land...<br><br>Saybil, the worst student in the short history of the Royal Academy of Magic of the Kingdom of Wenias, has no memory of his life before he enrolled. Nevertheless, Headmaster Albus sends him out into an unknown world, ordering him to take part in a special field training program in the South, where anti-witch sentiment still burns strong. Accompanying him are star pupil Hort; Kudo, the Academy's only beastfallen student; and their unusual chaperone: Loux Krystas, the ancient Dawn Witch, whose only goal is to peruse the pages of the legendary Grimoire of Zero, source of all magic. But as they journey south, nothing will be what they expected...",
+    "volumes": [
+      {
+        "number": "Volume 6",
+        "epub": "1NBCFwe0AWey3uhmG5FONKYZwBXE6QEXP",
+        "pdf": "1NE8NJ9huyw9lW6U_RNlHCd3bgyYhUGkd"
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1NIJtVfHs6-Fu_cK0iteKd9ybJdEza_6_",
+        "pdf": "1NKeBiyaR-3R5Vb-4RununbF3ZVDmOruY"
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1NLaX05aLHWGu1etDDGfj3oovfsz2Hi33",
+        "pdf": "1Mrl6kF18M07Z-NWbfiJTyoBi2r3quU1j"
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1MuVAbxkB7DzoWXk3WVSxZUGGEX6gKmbA",
+        "pdf": "1MvocU6q1qfxRqTdj0OnOJpTXBba-k5BC"
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1MxTAFNMRVJU2LzsI2VZ-O7_5V0jKGp82",
+        "pdf": "1MyHVGt6AFz6rXcA9csZmmL1hTG3nm79w"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1Mzaa_0-lS8-4GyMe2KUdCzm7FfFBbB1n",
+        "pdf": "1N0uwIPpTFhJYBx-XBiBfvt78XENjkWNq"
+      }
+    ]
+  },
+  {
+    "id": "125453",
+    "title": "Peddler in Another World: I Can Go Back to My World Whenever I Want!",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/05/peddler-in-another-world-i-can-go-back-to-my-world-whenever-i-want-volume-10.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Comedt","Fanrasy", "Slice of Life"],
+    "anilist": {
+      "rating": "66",
+      "popularity": "190"
+    },
+    "synopsis": "After quitting his job at a toxic company, Shiro Amata moves into the house his grandmother left him in her will. There, he soon makes two life-changing discoveries: one, his grandmother was really a witch from another world, and two, said other world is just on the other side of her closet door! Thanks to a book she left for Shiro, he also manages to obtain an all-powerful skill called “Equivalent Exchange,” which allows him to turn money from his world into otherworldly currency and vice versa. With this, Shiro decides to set up shop and sell convenient items like matches to the colorful inhabitants of the other world. His plan: make a massive profit on the goods he brings from home to become so rich that he never needs another job ever again!",
+    "volumes": [
+      {
+        "number": "Volume 10",
+        "epub": "1MBiC4G7t1ItnKSGAIvpElvKFg6XKH2Kf",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1N1zY8t2jqNMOGuU8n0vBSsuvTLE1ojYg",
+        "pdf": "1N9J-h67XVybjsveAdv7RjU0rJxSe0C8Q"
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1N9MivZ6pHxSYCw-CShGjaPRdahQopVQO",
+        "pdf": "1MEKYovXGaAUQJyYmyhww-Yj4Td5HlBuu"
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1MJLOAmEsEf058oAW6Tq8WdeLoFpg2FmL",
+        "pdf": "1MJSoI6Mw1fBFH2aN-r_NnMlhMVoGf91x"
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1MOO78cDivGiUf2iUtIEVCiNfqQ7HXgvx",
+        "pdf": "1MQoByDinnQivHRUNmS7dVWO7s_KCFIGZ"
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1McF-JalyPazkgDhGyGPyr_8qyu0X0pCb",
+        "pdf": "1Me2mnUyMYEe3R0ReQVPIbkeEGx4uDbmn"
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1MeOCBhHVqvx3Gyfc5oXgGVYFPnrrxUjG",
+        "pdf": "1MjzcjE2Ql8kaCc5IBLg1al01MBmTPGQi"
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1Mlifb6-46LJhrJ66CXJYeXE1y9Qtbkuw",
+        "pdf": "1LvNgkNc0AZ24ooW9FWxZUZ2rx1CT7VxW"
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1M0XswbDj78Uo1ay6OAV3JN23_JZ8vZwI",
+        "pdf": "1M5WAnKVilTGzfI4EdA-xE_AQ2hjAEyyU"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1M62N1IdHoDzK5wDjLlnIhtveo63RnUnr",
+        "pdf": "1M8Tl2WDyGKGGdftK3SfJJHG-hvfDYRuK"
+      }
+    ]
+  },
+  {
+    "id": "147275",
+    "title": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/05/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires-volume-6.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Drama", "Fantasy"],
+    "anilist": {
+      "rating": "71",
+      "popularity": "101"
+    },
+    "synopsis": "Elizabeth Leiston, daughter of the influential prime minister, is a picture-perfect lady on the path to becoming the future queen of the Kingdom of Haldoria. But her life takes a sudden turn for the worst when her fiancé makes a show of publicly calling off their engagement. Soon after, he throws her in jail and starts spreading nasty rumors about her. The encouragement Elizabeth receives from her loyal waiting maid, Mireille, and her inner fury are all she needs to reconsider her goals. Why should she continue devoting herself to a country that doesn’t respect her when she can trample over it instead? She will get even with those who wronged her and bring down the damned kingdom, even if it’s the last thing she does! Luckily, Elizabeth is no damsel in distress and has seven powerful magic grimoires she won’t hesitate to use. Get ready because this ruthless lady is out for blood!",
+    "volumes": [
+      {
+        "number": "Volume 6",
+        "epub": "1LY6lebl4MaAgm2_hyAn9c6rHpBanLwGK",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1MCULhezjyG4xVAQaytBDtSvQuhGoWO4p",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1MCh2jNSa9cQiabpgM-QUyQB6TPR9yhMY",
+        "pdf": "1LZsBcAXDDiGEkGxeMfOFeZNZ8XZB4SkQ"
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1LbiAasxparg9Wog8uYhs9yfupEptevYw",
+        "pdf": "1Lk3NXa8q3QumBQqIsz7lzcUlQP_CUVUX"
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1LntIScMKOT2mL-lAN-khLQqd6X44OrKu",
+        "pdf": "1LpXmSzjiS_SBHCcgq1qOyvuRsef4J2tC"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1Lup1FSHz2Iq4QzBlggKIBJOhu63Bbvre",
+        "pdf": "1LZYBTjylxyKD2YiOoHEJXrMKtYa0TkbW"
+      }
+    ]
+  },
+  {
+    "id": "100138",
+    "title": "The Diary of a Middle-Aged Sage's Carefree Life in Another World",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/05/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world-volume-6.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "anilist": {
+      "rating": "64",
+      "popularity": "284"
+    },
+    "synopsis": "Forty-year-old Satoshi Osako is a farmer in the Japanese countryside—and a hardcore player of Swords & Sorceries, an online VRRPG. The day he finally manages to defeat the game's final boss, it curses him with its dying breath and kills him in real life!<br><br>With a little help from a carefree goddess, Satoshi finds himself reincarnated into a mysterious new world as his in-game character, the incredibly powerful Great Sage known as Zelos Merlin. He accordingly decides to use his newfound powers to...continue living a quiet life on another farm! But first, he'll have to fight his way out of the vast, dangerous forest he woke up in—thanks a lot, goddess—and it won't be long before he's running into bandits, getting roped into teaching a young noble girl magic, and much more.<br><br>Will the almighty Great Sage be able to conquer the toughest quest of all: getting some peace and quiet?",
+    "volumes": [
+      {
+        "number": "Volume 6",
+        "epub": "1KykFt8aVAJRkUwAHrqXr8h-HxUf1b6yU",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1L-649UXF98DTe-53_rDikPhRq_uU0e76",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1L0GDX5QHzyo3rKXpfVBFM6eUiAEejnT_",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1LAXf9cBln3DIwhI0AFLBDzZFnIhpn4ru",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1LLFeVHmT7qHd7xbuRdhQgKLcVK7zLSNU",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1KvF4eA1i6Y9y_1afxBORh-UALK_jG0bj",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "110380",
+    "title": "The Great Cleric",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/05/the-great-cleric-volume-11.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Adventure", "Comedy", "Fantasy"],
+    "anilist": {
+      "rating": "72",
+      "popularity": "605"
+    },
+    "synopsis": "One moment, a certain salaryman is on cloud nine, that promotion finally within his grasp, and the next, he’s keeled over pain, and that was all she wrote. Luckily for him, fate had a bit more to say. A world of magic, monsters, and other such life-shortening entities await his newly reincarnated self for a second shot at life. With nothing but his past-life experiences and sharp business skills to guide him in the foreign lands of Galdardia, he takes up the name Luciel and vows that his (next) demise will be from naught but old age. And what better way to avoid a(nother) gruesome death, than by taking up a nice, cushy job as a healer? But getting by in another world doesn’t come easy, or cheap. It’ll take a lot of blood, sweat, and tears to hone the skills he needs to make his way. But make it he will...or die (again) trying!",
+    "volumes": [
+      {
+        "number": "Volume 11",
+        "epub": "1HeAr30CIKj2vmWnue00IvDruIs3RHlXY",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10",
+        "epub": "1ImI7YhHw78GqhvCcGVcL2p-JpLAUp11s",
+        "pdf": "1J3xyTe8oyKqPqd_lutIYUb0HLUe256uv"
+      },
+      {
+        "number": "Volume 9",
+        "epub": "1J6ZrLBEQ2vckRmfZDp-iEcTgwu5KnGOM",
+        "pdf": "1JAz1Rz-BqNWFex-XAqeViw11gtrz9wGS"
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1JB09T41ZSwU0vc0TPee7T6cxicJc0zXm",
+        "pdf": "1JDNOcN4Ma9bGhxru0FFmHHIW72cpPRI2"
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1JDrz6fvrhWb0ZE9bHnvVwrCrDJ9_QAjL",
+        "pdf": "1JGReCpHxlnLMuBfnkNZSBlLDifWIifAh"
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1JRUSfaNzDYdKHaXGh34xiM0r71HBcOwS",
+        "pdf": "1JSHacwG-bVxlOpRHU7DcuVjehW4XY1fu"
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1JTeYmZnIZpkttb1UPZ3CqrZNegK2JkrN",
+        "pdf": "1JTjQevlUcu6wgBFgb09H2GIjnYCPJkYG"
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1JVPma1_DuVL_On5cSbMkxJw6L-HQDnh6",
+        "pdf": "1JbU4Ce4VrvpZ-21uta9rvpJxXIWYyd2v"
+      },
+      {
+        "number": "Volume 3",
+        "epub": "1Jp6bhYViioOH-6XJueXKT_sMW3AuUt01",
+        "pdf": "1Jnh5Tahq3BFgyG6bv1owfJICPnpG0Ikx"
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1JdbPrDQQe3kmV4Rgk7X_dOv_V3gLmB4X",
+        "pdf": "1JhJ_uwDhdQSecYytGO4nfFRbK61-iSBd"
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1IlwzZx3NfJfzxceucviUX6zEAzMpy_IJ",
+        "pdf": "1JeRfs3T1u5HrsDLfEaI_PXjPKscHPHIr"
+      }
+    ]
+  },
+  {
+    "id": "160823",
+    "title": "From Villainess to Healer",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/05/from-villainess-to-healer-volume-3.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "anilist": {
+      "rating": "71",
+      "popularity": "49"
+    },
+    "synopsis": "Charlotte Cocoriara: duke's daughter, fiancée to a prince, villainess, and...NPC? Framed as the villainess in a spin-off of an MMO dating sim, Charlotte suddenly regains memories of her past life as a player of the same MMO. Armed with her new understanding of the world, she happily accepts the end of her betrothal and her accompanying exile. Who needs a cheating prince fiancé when there's a whole fantasy world to explore?<br><br>Using knowledge from her gameplay, Charlotte strikes out on her own. Her first task is to switch jobs, something apparently no one else in this world knows how to do. With her new role secured, she'll make friends, join parties, challenge dungeons, and...! Follow Charlotte as she sets off on a grand adventure, free for the first time in her life!",
+    "volumes": [
+      {
+        "number": "Volume 3",
+        "epub": "1KrH1FH5vv4jzbyvymhHyBpST5CvFpexG",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1ADwNGgwM4ET95v3ATNwv9Xxz7aEELB8g",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "1I8G33Ny--gUDHfJo6cmaCeOnGzwjNLKd",
+        "pdf": ""
+      }
+    ]
+  },
+  {
+    "id": "53116",
+    "title": "Accel World",
+    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/05/Accel-World-Vol.-27_-The-Fourth-Acceleration.jpg?w=500&ssl=1",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "genres": ["Action", "Romance", "Sci-Fi"],
+    "anilist": {
+      "rating": "74",
+      "popularity": "2220"
+    },
+    "synopsis": "Prepare for a full dive!<br><br>Even in the future, all the advances and innovation in the world can't change the dynamics of the school playground. And for Haruyuki Arita, a fat kid in junior high, that means he's destined to always be at the bottom of the food chain, prime pickings for the school bullies. But when he is approached by Kuroyukihime, a beautiful and aloof upperclassman, Haruyuki's life is turned on its head as he dives into Brain Burst, a mysterious computer program, and the Accelerated World with her help. It's in the Accel World that Haruyuki casts off his depressing reality and takes hold of the chance to become a Burst Linker, a knight to protect his princess!",
+    "volumes": [
+    {
+      "number": "Volume 27",
+      "epub": "1KndYSPAjZlLy3Kl9gMgboGA64SjLWUTY",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 26",
+      "epub": "1sLkmAnvdDJ4FEuXiMu2sOGgSjHmpS5xD",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 25",
+      "epub": "1sPjTbRjSM9p-qRkQWBydv7eKDnpET1lv",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 24",
+      "epub": "1sKPEcPqrpGKQXGx1BhtFFQ9GKSU6pnDN",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 23",
+      "epub": "1sDufz3d5sL3Pg2H4ZngCtQqhj7Vemxkg",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 22",
+      "epub": "1s2jSpwYvwEcK6pqZUzo0iYVpbmODL2e9",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 21",
+      "epub": "1s0q_vQs8-2_zQmFNvHvKN7wOt5V_bOPk",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 20",
+      "epub": "1rzUdSqTk6VI50MMQZN4LJ4fIklezK1HZ",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 19",
+      "epub": "1rbLMvQggfK5E7tAmADnTP8dmrIg9QED9",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 18",
+      "epub": "1raVuRQZtsBGvdPvCMT5B_JtmEB1qrmHD",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 17",
+      "epub": "1rXUFou1qBVi8fgK1VUfQ2PWfrcOqGR6Y",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 16",
+      "epub": "1rT0uJuHxTfHha_UJcSlXZ_yrVQhp4pTC",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 15",
+      "epub": "1rPXDC5RK6vPJDaZuAu_zCPHwFyKgCG1L",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 14",
+      "epub": "1rFxUpuwk62sqIP12-rAV70TQE7_AbgNU",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 13",
+      "epub": "1rExy_Y1pHVdMfIttCIi4ZwU8MXc5Nl0o",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 12",
+      "epub": "1rCDjFAPtWy8gjxoqB7qnm_AT8QJP4Gsf",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 11",
+      "epub": "1r8Pixr2KaqC1kbmE1azx-QkJc0SVxHv6",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 10",
+      "epub": "1r4ZwAarF9cqvQ9eJoKHVdJ71M87JXgTx",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 9",
+      "epub": "1r1ijhlNaBsQA3AZoGnCEu_6VYSsFK9et",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 8",
+      "epub": "1qzLC5XSwk1SmAZGpJBFG5QZ-UAA8hN4t",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 7",
+      "epub": "1qwxLfjHtqHvgPoCOKnkr-1Kz57tvAd3C",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 6",
+      "epub": "1qvkmREqvrWU3FHurMnMtppS_xFK3NQgL",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 5",
+      "epub": "1qnFw0hc2zDKadWSNndZftfDjBsrokC2-",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 4",
+      "epub": "1qmFkVI8nYMehAXJDvYUZ6oAFtzUt6VoR",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 3",
+      "epub": "1qlSH5wArkj2ahFe9v9a7vsffxXCL4JEM",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 2",
+      "epub": "1qlS328XjvJb8DySjUEBRQXqzbzIfHg3c",
+      "pdf": ""
+    },
+    {
+      "number": "Volume 1",
+      "epub": "1qZEekb_b3sVHyaxX1FFa8AHJVNstWB3g",
+      "pdf": ""
+    }]
+  },
+  {
     "id": "55409",
     "title": "High School DxD",
     "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/05/High-School-DxD-v16-Extracurricular-Daywalker.jpg?w=500&ssl=1",
@@ -4885,32 +5433,6 @@
     ]
   },
   {
-    "id": "160823",
-    "title": "From Villainess to Healer",
-    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/03/from-villainess-to-healer-volume-2.jpg?w=500&ssl=1",
-    "status": "Releasing",
-    "type": "Light Novel",
-    "translation": "J-Novel Club",
-    "genres": ["Action", "Adventure", "Fantasy"],
-    "anilist": {
-      "rating": "71",
-      "popularity": "49"
-    },
-    "synopsis": "Charlotte Cocoriara: duke's daughter, fiancée to a prince, villainess, and...NPC? Framed as the villainess in a spin-off of an MMO dating sim, Charlotte suddenly regains memories of her past life as a player of the same MMO. Armed with her new understanding of the world, she happily accepts the end of her betrothal and her accompanying exile. Who needs a cheating prince fiancé when there's a whole fantasy world to explore?<br><br>Using knowledge from her gameplay, Charlotte strikes out on her own. Her first task is to switch jobs, something apparently no one else in this world knows how to do. With her new role secured, she'll make friends, join parties, challenge dungeons, and...! Follow Charlotte as she sets off on a grand adventure, free for the first time in her life!",
-    "volumes": [
-      {
-        "number": "Volume 2",
-        "epub": "1ADwNGgwM4ET95v3ATNwv9Xxz7aEELB8g",
-        "pdf": ""
-      },
-      {
-        "number": "Volume 1",
-        "epub": "1I8G33Ny--gUDHfJo6cmaCeOnGzwjNLKd",
-        "pdf": ""
-      }
-    ]
-  },
-  {
     "id": "123563",
     "title": "Butareba -The Story of a Man Turned into a Pig-",
     "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/03/butareba-the-story-of-a-man-turned-into-a-pig-sixth-bite.jpg?w=500&ssl=1",
@@ -9615,51 +10137,6 @@
     }]
   },
   {
-    "id": "132264",
-    "title": "You Were Experienced, I Was Not: Our Dating Story",
-    "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/01/You-Were-Experienced-I-Was-Not-Our-Dating-Story-v06.jpg?w=500&ssl=1",
-    "status": "Releasing",
-    "type": "Light Novel",
-    "translation": "J-Novel Club",
-    "genres": ["Drama", "Romance", "Slice of Life"],
-    "anilist": {
-      "rating": "72",
-      "popularity": "1694"
-    },
-    "synopsis": "Kashima Ryuto is a gloomy high-schooler who quietly spends his days watching his crush, the beautiful Shirakawa Runa, from afar. She rules the school and has had no shortage of boyfriends. Although Ryuto is fully convinced she'd never accept him, fate leads him to confess his feelings to her anyway. To his astonishment, she accepts—simply because she's “available” at the moment—but the surprises don't end there. She immediately invites him over as if it's the most natural thing in the world! This odd couple is different in just about every way—the friends they keep, their hobbies, their love lives—but with every passing day, they grow a little bit closer. This may not be Runa's first relationship, but their dating story is going to be full of firsts for them both!",
-    "volumes": [
-    {
-      "number": "Volume 6",
-      "epub": "1S6XddD0n3XHUmdNxJDlXBS4fhkikNciM",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 5",
-      "epub": "15ak8YeXb-W55bP8HZMnTjeuq2F3JiaN-",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 4",
-      "epub": "15U3bhyggQeL6ViswRkZIho7Q_1BqNeWh",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 3",
-      "epub": "15HaOcuiRuxkxAt-v6QtDEGaEB1YWBbDL",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 2",
-      "epub": "1572ueSP45BnjHSXuQCCDkap02wQr2H--",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 1",
-      "epub": "155X-jM_rPnwdSDU4kIWHb8x8_Z0rKsI5",
-      "pdf": ""
-    }]
-  },
-  {
     "id": "113868",
     "title": "Ascendance of a Bookworm: Short Story Collection",
     "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2025/01/ascendance-of-a-bookworm-short-story-collection-volume-2.jpg?w=500&ssl=1",
@@ -12577,151 +13054,6 @@
     {
       "number": "Volume 1",
       "epub": "1dfttsd6_r_OMiw5ysagmdMoZl-fPgnAl",
-      "pdf": ""
-    }]
-  },
-  {
-    "id": "53116",
-    "title": "Accel World",
-    "cover": "https://static.wikia.nocookie.net/accelworld/images/9/9e/Accel_World_26.jpg/revision/latest?cb=20240513233154",
-    "status": "Releasing",
-    "type": "Light Novel",
-    "translation": "Yen Press",
-    "genres": ["Action", "Romance", "Sci-Fi"],
-    "anilist": {
-      "rating": "74",
-      "popularity": "2220"
-    },
-    "synopsis": "Prepare for a full dive!<br><br>Even in the future, all the advances and innovation in the world can't change the dynamics of the school playground. And for Haruyuki Arita, a fat kid in junior high, that means he's destined to always be at the bottom of the food chain, prime pickings for the school bullies. But when he is approached by Kuroyukihime, a beautiful and aloof upperclassman, Haruyuki's life is turned on its head as he dives into Brain Burst, a mysterious computer program, and the Accelerated World with her help. It's in the Accel World that Haruyuki casts off his depressing reality and takes hold of the chance to become a Burst Linker, a knight to protect his princess!",
-    "volumes": [
-    {
-      "number": "Volume 26",
-      "epub": "1sLkmAnvdDJ4FEuXiMu2sOGgSjHmpS5xD",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 25",
-      "epub": "1sPjTbRjSM9p-qRkQWBydv7eKDnpET1lv",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 24",
-      "epub": "1sKPEcPqrpGKQXGx1BhtFFQ9GKSU6pnDN",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 23",
-      "epub": "1sDufz3d5sL3Pg2H4ZngCtQqhj7Vemxkg",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 22",
-      "epub": "1s2jSpwYvwEcK6pqZUzo0iYVpbmODL2e9",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 21",
-      "epub": "1s0q_vQs8-2_zQmFNvHvKN7wOt5V_bOPk",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 20",
-      "epub": "1rzUdSqTk6VI50MMQZN4LJ4fIklezK1HZ",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 19",
-      "epub": "1rbLMvQggfK5E7tAmADnTP8dmrIg9QED9",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 18",
-      "epub": "1raVuRQZtsBGvdPvCMT5B_JtmEB1qrmHD",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 17",
-      "epub": "1rXUFou1qBVi8fgK1VUfQ2PWfrcOqGR6Y",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 16",
-      "epub": "1rT0uJuHxTfHha_UJcSlXZ_yrVQhp4pTC",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 15",
-      "epub": "1rPXDC5RK6vPJDaZuAu_zCPHwFyKgCG1L",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 14",
-      "epub": "1rFxUpuwk62sqIP12-rAV70TQE7_AbgNU",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 13",
-      "epub": "1rExy_Y1pHVdMfIttCIi4ZwU8MXc5Nl0o",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 12",
-      "epub": "1rCDjFAPtWy8gjxoqB7qnm_AT8QJP4Gsf",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 11",
-      "epub": "1r8Pixr2KaqC1kbmE1azx-QkJc0SVxHv6",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 10",
-      "epub": "1r4ZwAarF9cqvQ9eJoKHVdJ71M87JXgTx",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 9",
-      "epub": "1r1ijhlNaBsQA3AZoGnCEu_6VYSsFK9et",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 8",
-      "epub": "1qzLC5XSwk1SmAZGpJBFG5QZ-UAA8hN4t",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 7",
-      "epub": "1qwxLfjHtqHvgPoCOKnkr-1Kz57tvAd3C",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 6",
-      "epub": "1qvkmREqvrWU3FHurMnMtppS_xFK3NQgL",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 5",
-      "epub": "1qnFw0hc2zDKadWSNndZftfDjBsrokC2-",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 4",
-      "epub": "1qmFkVI8nYMehAXJDvYUZ6oAFtzUt6VoR",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 3",
-      "epub": "1qlSH5wArkj2ahFe9v9a7vsffxXCL4JEM",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 2",
-      "epub": "1qlS328XjvJb8DySjUEBRQXqzbzIfHg3c",
-      "pdf": ""
-    },
-    {
-      "number": "Volume 1",
-      "epub": "1qZEekb_b3sVHyaxX1FFa8AHJVNstWB3g",
       "pdf": ""
     }]
   },
