@@ -1,4 +1,75 @@
 [
+  {
+    "id": "127010",
+    "title": "My Quiet Blacksmith Life in Another World",
+    "cover": "https://m.media-amazon.com/images/I/81kXffxiEkL._UF1000,1000_QL80_.jpg",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "J-Novel Club",
+    "genres": ["Action", "Comedy", "Fantasy", "Slice of Life"],
+    "anilist": {
+      "rating": "68",
+      "popularity": "567"
+    },
+    "synopsis": "Eizo is a middle-aged, overworked software engineer who loves cats. One night after working late, he saves an injured cat from a speeding truck. The cat survives, but Eizo does not... Luckily, that cat turns out to be a god-like being who offers him a second chance in another world! Eizo decides that he wants a slower life, one where he can live off the things he creates with his own hands. So, why not become a blacksmith? He does have one other stipulation: a cat companion for his quiet life. These requests are granted, and Eizo is whisked away to a new world and imbued with blacksmithing knowledge. He soon finds out that his abilities are above average—in fact, his new skills are so overpowered that they’re like cheats. On top of that, his cat companion turns out to be a half-tiger girl! Eizo’s blades soon garner attention, and he realizes that he can turn the tides of battle with his forge and hammer. With so much commotion in store, will Eizo truly be able to enjoy a quiet life?",
+    "volumes": [
+      {
+        "number": "Volume 11",
+        "epub": "122VUbldZqIXe-Zm2BsDMOuUq7XOoE5IF",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 10",
+        "epub": "150GRvGs4MqxVFgqTyIvaMavD8Jx025j3",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 9",
+        "epub": "19Qbw8fC3FFuQB6TVoH4y67_tgBwUSigz",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 8",
+        "epub": "1ijkz03t_-5KAk1FV3j-kvc5LeO70TM-Q",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 7",
+        "epub": "1qm-KDZcGtPk37sq_A3eLWh9_c11YbpQS",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 6",
+        "epub": "1wRtgBhdv5gGxBaBzuk72ejB5LXfyER0q",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 5",
+        "epub": "1N1n2Jpxyjp0AVIBHGQEY33EojmwczU_M",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 4",
+        "epub": "1Hyoi5BX-D6N6e2bss0Xu1RuNY1qx1c5M",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 3",
+        "epub": "17nkSocxDPz2RNXvMQXFjLmiHq4wC4iZ4",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 2",
+        "epub": "1xayLPz4BdAt6lWh2ivjGtA1sy2fU-zL0",
+        "pdf": ""
+      },
+      {
+        "number": "Volume 1",
+        "epub": "13TrplWlU0Ag_xzek1eC3EQjLuwqUhFni",
+        "pdf": ""
+      }
+    ]
+  },
 {
   "id": "111668",
   "title": "Isekai Tensei: Recruited to Another World",
